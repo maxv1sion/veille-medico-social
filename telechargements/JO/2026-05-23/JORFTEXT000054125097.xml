@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>JORFTEXT000054125097</ID>
+<ID_ELI>https://www.legifrance.gouv.fr/eli/loi/2025/12/30/CPPX2521641Z/jo/texte</ID_ELI>
+<ANCIEN_ID/>
+<ORIGINE>JORF</ORIGINE>
+<URL>texte/version/JORF/TEXT/00/00/54/12/50/JORFTEXT000054125097.xml</URL>
+<NATURE>LOI</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000054125097</CID>
+<NUM>2025-1403</NUM>
+<NUM_PARUTION>0120</NUM_PARUTION>
+<NUM_SEQUENCE>1</NUM_SEQUENCE>
+<NOR>CPPX2521641Z</NOR>
+<DATE_PUBLI>2026-05-23</DATE_PUBLI>
+<DATE_TEXTE>2025-12-30</DATE_TEXTE>
+<ORIGINE_PUBLI>JORF n°0120 du 23 mai 2026</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Loi n°2025-1403 du 30 décembre 2025</TITRE>
+<TITREFULL>LOI n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026 (rectificatif)</TITREFULL>
+
+
+<DATE_DEBUT/>
+<DATE_FIN/>
+<AUTORITE/>
+<MINISTERE/>
+<MCS_TXT/>
+
+
+<LIENS>
+<LIEN cidtexte="JORFTEXT000053226384" datesignatexte="2025-12-30" id="LEGIARTI000053265282" naturetexte="LOI" nortexte="CPPX2521641L" num="18" numtexte="2025-1403" sens="cible" typelien="RECTIFICATION">LOI n°2025-1403 du 30 décembre 2025 - art. 18 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000053226384" datesignatexte="2025-12-30" id="JORFARTI000053226483" naturetexte="LOI" nortexte="CPPX2521641L" num="18" numtexte="2025-1403" sens="cible" typelien="RECTIFICATION">LOI n°2025-1403 du 30 décembre 2025 - art. 18, v. init.</LIEN>
+<LIEN cidtexte="JORFTEXT000053226384" datesignatexte="2025-12-30" id="LEGIARTI000053265444" naturetexte="LOI" nortexte="CPPX2521641L" num="99" numtexte="2025-1403" sens="cible" typelien="RECTIFICATION">LOI n°2025-1403 du 30 décembre 2025 - art. 99 (V)</LIEN>
+<LIEN cidtexte="JORFTEXT000053226384" datesignatexte="2025-12-30" id="JORFARTI000053226868" naturetexte="LOI" nortexte="CPPX2521641L" num="99" numtexte="2025-1403" sens="cible" typelien="RECTIFICATION">LOI n°2025-1403 du 30 décembre 2025 - art. 99, v. init.</LIEN>
+<LIEN cidtexte="LEGITEXT000006073189" datesignatexte="2999-01-01" id="LEGIARTI000053279171" naturetexte="CODE" nortexte="" num="L223-1" numtexte="" sens="cible" typelien="RECTIFICATION">Code de la sécurité sociale. - art. L223-1 (V)</LIEN>
+</LIENS>
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+
+<NOTICE>
+<CONTENU/>
+</NOTICE>
+<VISAS>
+<CONTENU/>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU/>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+<SM>
+<CONTENU/>
+</SM>
+
+<ENTREPRISE texte_entreprise="non">
+<DATES_EFFET/>
+<DOMAINES/>
+</ENTREPRISE>
+</TEXTE_VERSION>

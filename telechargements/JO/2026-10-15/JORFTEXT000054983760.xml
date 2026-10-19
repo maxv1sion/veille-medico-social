@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>JORFTEXT000054983760</ID>
+<ANCIEN_ID/>
+<ORIGINE>JORF</ORIGINE>
+<URL>texte/version/JORF/TEXT/00/00/54/98/37/JORFTEXT000054983760.xml</URL>
+<NATURE>ARRETE</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000054983760</CID>
+<NUM/>
+<NUM_PARUTION>0241</NUM_PARUTION>
+<NUM_SEQUENCE>40</NUM_SEQUENCE>
+<NOR>SFHN2626831A</NOR>
+<DATE_PUBLI>2026-10-15</DATE_PUBLI>
+<DATE_TEXTE>2026-10-08</DATE_TEXTE>
+<ORIGINE_PUBLI>JORF n°0241 du 15 octobre 2026</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Arrêté du 8 octobre 2026</TITRE>
+<TITREFULL>Arrêté du 8 octobre 2026 fixant la liste des personnes autorisées à exercer en France la profession de médecin dans la spécialité « hépato-gastro-entérologie » en application des dispositions de l'article L. 4111-2 (I) du code de la santé publique et du IV de l'article 83 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007</TITREFULL>
+
+
+<DATE_DEBUT/>
+<DATE_FIN/>
+<AUTORITE/>
+<MINISTERE>Ministère de la santé, des familles, de l'autonomie et des personnes handicapées</MINISTERE>
+<MCS_TXT/>
+
+
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000817095" datesignatexte="2006-12-21" id="JORFTEXT000000817095" naturetexte="LOI" nortexte="SANX0600163L" num="" numtexte="2006-1640" sens="source" typelien="CITATION">Loi n° 2006-1640 du 21 décembre 2006</LIEN>
+<LIEN cidtexte="JORFTEXT000000817095" datesignatexte="2006-12-21" id="LEGIARTI000006759339" naturetexte="LOI" nortexte="SANX0600163L" num="83" numtexte="2006-1640" sens="source" typelien="CITATION">Loi n° 2006-1640 du 21 décembre 2006 - art. 83</LIEN>
+<LIEN cidtexte="JORFTEXT000038821260" datesignatexte="2019-07-24" id="JORFTEXT000038821260" naturetexte="LOI" nortexte="SSAX1900401L" num="" numtexte="2019-774" sens="source" typelien="CITATION">LOI n°2019-774 du 24 juillet 2019</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGITEXT000006072665" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la santé publique</LIEN>
+<LIEN cidtexte="LEGITEXT000006072665" datesignatexte="2999-01-01" id="LEGIARTI000006688647" naturetexte="CODE" nortexte="" num="L4111-2" numtexte="" sens="source" typelien="CITATION">Code de la santé publique - art. L4111-2</LIEN>
+</LIENS>
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+
+<NOTICE>
+<CONTENU/>
+</NOTICE>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>La ministre de la santé, des familles, de l'autonomie et des personnes handicapées,<br/>Vu le code de la santé publique, notamment les dispositions de son article L. 4111-2 (I) ;<br/>Vu la loi n° 2006-1640 du 21 décembre 2006 modifiée de financement de la sécurité sociale pour 2007, notamment le IV de son article 83 ;<br/>Vu la loi n° 2019-774 du 24 juillet 2019 modifiée relative à l'organisation et à la transformation du système de santé ;<br/>Vu l'avis de la commission d'autorisation d'exercice en date du 22 septembre 2026,<br/>Arrête :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 8 octobre 2026.</p>
+</div>
+<div align="left">
+<p>Pour la ministre et par délégation :</p>
+<p>Le chef du département autorisations d'exercice-concours-coaching,</p>
+<p>P. TOUZY</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+<SM>
+<CONTENU/>
+</SM>
+
+<ENTREPRISE texte_entreprise="non">
+<DATES_EFFET/>
+<DOMAINES/>
+</ENTREPRISE>
+</TEXTE_VERSION>

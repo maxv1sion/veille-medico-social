@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>JORFTEXT000054993827</ID>
+<ANCIEN_ID/>
+<ORIGINE>JORF</ORIGINE>
+<URL>texte/version/JORF/TEXT/00/00/54/99/38/JORFTEXT000054993827.xml</URL>
+<NATURE>ARRETE</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000054993827</CID>
+<NUM/>
+<NUM_PARUTION>0244</NUM_PARUTION>
+<NUM_SEQUENCE>54</NUM_SEQUENCE>
+<NOR>SFHN2627801A</NOR>
+<DATE_PUBLI>2026-10-18</DATE_PUBLI>
+<DATE_TEXTE>2026-10-15</DATE_TEXTE>
+<ORIGINE_PUBLI>JORF n°0244 du 18 octobre 2026</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Arrêté du 15 octobre 2026</TITRE>
+<TITREFULL>Arrêté du 15 octobre 2026 fixant la liste des personnes autorisées à exercer en France la profession de médecin dans la spécialité « médecine cardiovasculaire » en application des dispositions du B du IV de l'article 83 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007</TITREFULL>
+
+
+<DATE_DEBUT/>
+<DATE_FIN/>
+<AUTORITE/>
+<MINISTERE>Ministère de la santé, des familles, de l'autonomie et des personnes handicapées</MINISTERE>
+<MCS_TXT/>
+
+
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000817095" datesignatexte="2006-12-21" id="JORFTEXT000000817095" naturetexte="LOI" nortexte="SANX0600163L" num="" numtexte="2006-1640" sens="source" typelien="CITATION">Loi n° 2006-1640 du 21 décembre 2006</LIEN>
+<LIEN cidtexte="JORFTEXT000000817095" datesignatexte="2006-12-21" id="LEGIARTI000006759339" naturetexte="LOI" nortexte="SANX0600163L" num="83" numtexte="2006-1640" sens="source" typelien="CITATION">Loi n° 2006-1640 du 21 décembre 2006 - art. 83</LIEN>
+<LIEN cidtexte="JORFTEXT000038821260" datesignatexte="2019-07-24" id="JORFTEXT000038821260" naturetexte="LOI" nortexte="SSAX1900401L" num="" numtexte="2019-774" sens="source" typelien="CITATION">LOI n°2019-774 du 24 juillet 2019</LIEN>
+<LIEN cidtexte="JORFTEXT000038821260" datesignatexte="2019-07-24" id="JORFARTI000038821355" naturetexte="LOI" nortexte="SSAX1900401L" num="70" numtexte="2019-774" sens="source" typelien="CITATION">LOI n°2019-774 du 24 juillet 2019 - art. 70</LIEN>
+<LIEN cidtexte="JORFTEXT000042221033" datesignatexte="2020-08-07" id="JORFTEXT000042221033" naturetexte="DECRET" nortexte="SSAH2006663D" num="" numtexte="2020-1017" sens="source" typelien="CITATION">Décret n°2020-1017 du 7 août 2020</LIEN>
+</LIENS>
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+
+<NOTICE>
+<CONTENU/>
+</NOTICE>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>La ministre de la santé, des familles, de l'autonomie et des personnes handicapées,<br/>Vu la loi n° 2006-1640 du 21 décembre 2006 modifiée de financement de la sécurité sociale pour 2007, notamment le B du IV de son article 83 ;<br/>Vu la loi n° 2019-774 du 24 juillet 2019 modifiée relative à l'organisation et à la transformation du système de santé, notamment son article 70 ;<br/>Vu le décret n° 2020-1017 du 7 août 2020 modifié portant application du IV et du V de l'article 83 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 et relatif à l'exercice des professions de médecin, chirurgien-dentiste, sage-femme et pharmacien par les titulaires de diplômes obtenus hors de l'Union européenne et de l'Espace économique européen ;<br/>Vu l'avis de la commission d'autorisation d'exercice en date du 2 octobre 2026,<br/>Arrête :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 15 octobre 2026.</p>
+</div>
+<div align="left">
+<p>Pour la ministre et par délégation :</p>
+<p>Le chef du département autorisations d'exercice-concours-coaching,</p>
+<p>P. TOUZY</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+<SM>
+<CONTENU/>
+</SM>
+
+<ENTREPRISE texte_entreprise="non">
+<DATES_EFFET/>
+<DOMAINES/>
+</ENTREPRISE>
+</TEXTE_VERSION>
