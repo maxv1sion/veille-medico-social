@@ -3,7 +3,7 @@
 Registre de veille réglementaire du secteur social et médico-social (ESSMS, EHPAD, handicap, domicile, enfance, RH, financement, numérique).
 
 - `index.html` : le site (filtres par période, export PowerPoint, email au dirigeant, mode visio)
-- `registre.json` : la liste des textes, mise à jour automatiquement chaque jour ouvré par une tâche planifiée Claude
+- `registre.json` : la liste des textes, mise à jour automatiquement chaque jour ouvré par une tâche planifiée Claude (textes conservés 2 ans à compter de leur date de publication)
 
 Sources : Légifrance (Journal officiel), Bulletins officiels Solidarités, CNSA, HAS, ANS, Sécurité sociale.
 

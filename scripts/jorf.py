@@ -23,7 +23,7 @@ BASE = "https://echanges.dila.gouv.fr/OPENDATA/JORF/"
 OUT = "jorf/candidats.json"
 DIAG = "jorf/diagnostic.txt"
 DOSSIER_TELECHARGEMENTS = "telechargements/JO"   # un sous-dossier par date de publication
-JOURS_TELECHARGEMENTS = 730                        # on garde 2 ans de textes téléchargés
+JOURS_TELECHARGEMENTS = 365                        # on garde 1 an de textes téléchargés
 JOURS_MAX_PREMIER_PASSAGE = 14   # au premier lancement, on remonte 14 jours
 JOURS_CONSERVES = 120            # on garde 4 mois de candidats
 
