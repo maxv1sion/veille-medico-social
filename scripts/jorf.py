@@ -3,12 +3,15 @@
 concernent le secteur social et médico-social. Résultat : jorf/candidats.json.
 
 Source : https://echanges.dila.gouv.fr/OPENDATA/JORF/ (Licence Ouverte Etalab 2.0)
+Les textes retenus sont aussi enregistrés en entier (version lisible .txt et XML officiel)
+dans telechargements/JO/AAAA-MM-JJ/.
 Lancé chaque matin par GitHub Actions (.github/workflows/jorf.yml).
 """
 import datetime as dt
 import io
 import json
 import os
+import shutil
 import re
 import sys
 import tarfile
@@ -19,6 +22,8 @@ import xml.etree.ElementTree as ET
 BASE = "https://echanges.dila.gouv.fr/OPENDATA/JORF/"
 OUT = "jorf/candidats.json"
 DIAG = "jorf/diagnostic.txt"
+DOSSIER_TELECHARGEMENTS = "telechargements/JO"   # un sous-dossier par date de publication
+JOURS_TELECHARGEMENTS = 365                        # on garde 12 mois de textes téléchargés
 JOURS_MAX_PREMIER_PASSAGE = 14   # au premier lancement, on remonte 14 jours
 JOURS_CONSERVES = 120            # on garde 4 mois de candidats
 
@@ -80,9 +85,27 @@ def premier(root, tag):
     return (el.text or "").strip() if el is not None and el.text else ""
 
 
+def texte_de(el):
+    """Texte lisible d'un élément XML (paragraphes conservés)."""
+    if el is None:
+        return ""
+    morceaux = []
+    for bloc in el.iter():
+        if bloc.tag in ("p", "br", "P", "BR") and morceaux:
+            morceaux.append("\n")
+        if bloc.text:
+            morceaux.append(bloc.text)
+        if bloc.tail:
+            morceaux.append(bloc.tail)
+    txt = "".join(morceaux)
+    txt = re.sub(r"[ \t]+", " ", txt)
+    return re.sub(r"\n\s*\n+", "\n\n", txt).strip()
+
+
 def lire_archive(nom, diag):
     data = http(BASE + nom, binary=True)
     textes, racines, exemples = [], {}, []
+    articles = {}   # JORFTEXT -> liste d'articles
     with tarfile.open(fileobj=io.BytesIO(data), mode="r:gz") as tar:
         for m in tar:
             if not m.isfile() or not m.name.endswith(".xml"):
@@ -92,11 +115,22 @@ def lire_archive(nom, diag):
             f = tar.extractfile(m)
             if f is None:
                 continue
+            brut = f.read()
             try:
-                root = ET.fromstring(f.read())
+                root = ET.fromstring(brut)
             except ET.ParseError:
                 continue
             racines[root.tag] = racines.get(root.tag, 0) + 1
+            if root.tag == "ARTICLE":
+                ctx = root.find(".//CONTEXTE/TEXTE")
+                cid = ctx.get("cid", "") if ctx is not None else ""
+                if cid.startswith("JORFTEXT"):
+                    articles.setdefault(cid, []).append({
+                        "num": premier(root, "NUM"),
+                        "ordre": len(articles.get(cid, [])),
+                        "contenu": texte_de(root.find(".//BLOC_TEXTUEL/CONTENU")),
+                    })
+                continue
             if root.tag != "TEXTE_VERSION":
                 continue
             ident = premier(root, "ID")
@@ -110,9 +144,58 @@ def lire_archive(nom, diag):
                 "nor": premier(root, "NOR"),
                 "datePubli": premier(root, "DATE_PUBLI"),
                 "dateTexte": premier(root, "DATE_TEXTE"),
+                "_xml": brut,
+                "_visas": texte_de(root.find(".//VISAS")),
+                "_notice": texte_de(root.find(".//NOTICE")),
+                "_signataires": texte_de(root.find(".//SIGNATAIRES")),
             })
-    diag.append(f"{nom} : {len(textes)} textes lus | racines XML {racines} | exemples {exemples[:3]}")
+    for t in textes:
+        t["_articles"] = articles.get(t["id"], [])
+    diag.append(f"{nom} : {len(textes)} textes lus, articles rattachés à {len(articles)} textes | racines XML {racines} | exemples {exemples[:3]}")
     return textes
+
+
+def enregistrer_texte(t, archive):
+    """Écrit le texte complet dans telechargements/JO/AAAA-MM-JJ/ (lisible + XML officiel)."""
+    jour = t.get("datePubli") or t["ajoute"]
+    dossier = os.path.join(DOSSIER_TELECHARGEMENTS, jour)
+    os.makedirs(dossier, exist_ok=True)
+    with open(os.path.join(dossier, t["id"] + ".xml"), "wb") as f:
+        f.write(t["_xml"])
+    lignes = [
+        t["titre"], "",
+        f"Type : {t['type']}",
+        f"Date de signature : {t.get('dateTexte') or 'non indiquée'}",
+        f"Publication au Journal officiel : {t.get('datePubli') or 'non indiquée'}",
+        f"NOR : {t.get('nor') or 'non indiqué'}",
+        f"Lien Légifrance : {t['url']}",
+        f"Source : données ouvertes DILA, archive {archive}", "",
+    ]
+    if t["_notice"]:
+        lignes += ["NOTICE", t["_notice"], ""]
+    if t["_visas"]:
+        lignes += ["VISAS", t["_visas"], ""]
+    arts = sorted(t["_articles"], key=lambda a: a["ordre"])
+    if arts:
+        for a in arts:
+            lignes += [f"Article {a['num']}" if a["num"] else "Article", a["contenu"], ""]
+    else:
+        lignes += ["(Articles non présents dans l'archive du jour : consulter le lien Légifrance.)", ""]
+    if t["_signataires"]:
+        lignes += ["SIGNATAIRES", t["_signataires"], ""]
+    chemin = os.path.join(dossier, t["id"] + ".txt")
+    with open(chemin, "w", encoding="utf-8") as f:
+        f.write("\n".join(lignes))
+    return chemin
+
+
+def purger_telechargements(aujourd_hui):
+    if not os.path.isdir(DOSSIER_TELECHARGEMENTS):
+        return
+    borne = (aujourd_hui - dt.timedelta(days=JOURS_TELECHARGEMENTS)).isoformat()
+    for d in os.listdir(DOSSIER_TELECHARGEMENTS):
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", d) and d < borne:
+            shutil.rmtree(os.path.join(DOSSIER_TELECHARGEMENTS, d), ignore_errors=True)
 
 
 def pertinent(t):
@@ -147,7 +230,8 @@ def main():
                 t["type"] = TYPES.get(t["nature"].upper(), t["nature"].capitalize() or "Texte")
                 t["url"] = f"https://www.legifrance.gouv.fr/jorf/id/{t['id']}"
                 t["ajoute"] = aujourd_hui.isoformat()
-                etat["items"].append(t)
+                t["fichier"] = enregistrer_texte(t, nom)
+                etat["items"].append({k: v for k, v in t.items() if not k.startswith("_")})
                 connus.add(t["id"])
                 nouveaux += 1
             deja.add(nom)
@@ -157,6 +241,7 @@ def main():
     borne = (aujourd_hui - dt.timedelta(days=JOURS_CONSERVES)).isoformat()
     etat["items"] = sorted([i for i in etat["items"] if (i.get("datePubli") or i["ajoute"]) >= borne],
                            key=lambda i: i.get("datePubli", ""), reverse=True)
+    purger_telechargements(aujourd_hui)
     etat["traites"] = sorted(deja)[-200:]
     etat["maj"] = aujourd_hui.isoformat()
     diag.append(f"{len(a_traiter)} archive(s) traitée(s), {nouveaux} nouveau(x) texte(s) pertinent(s)")

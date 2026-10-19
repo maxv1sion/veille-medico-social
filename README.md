@@ -14,6 +14,7 @@ Auteur : Maxime
 Chaque matin, GitHub Actions (`.github/workflows/jorf.yml`) lance `scripts/jorf.py` :
 - téléchargement des données ouvertes du JO publiées par la DILA (https://echanges.dila.gouv.fr/OPENDATA/JORF/, Licence Ouverte Etalab 2.0)
 - tri des textes liés au secteur social et médico-social (mots-clés, exclusion des mesures nominatives)
-- résultat dans `jorf/candidats.json`, repris ensuite par la veille Claude qui rédige les résumés
+- liste des textes retenus dans `jorf/candidats.json`, reprise ensuite par la veille Claude qui rédige les résumés
+- texte complet de chaque texte retenu dans `telechargements/JO/AAAA-MM-JJ/` (version lisible .txt et XML officiel)
 
 `jorf/diagnostic.txt` indique ce que le dernier passage a lu.
