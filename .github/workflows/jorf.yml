@@ -1,0 +1,36 @@
+name: Récupération du Journal officiel
+
+on:
+  schedule:
+    - cron: "10 4 * * *"   # chaque jour vers 6h10 (heure d'été) / 5h10 (heure d'hiver), avant la veille Claude de 7h50
+  workflow_dispatch: {}     # bouton « Run workflow » pour lancer à la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jorf
+  cancel-in-progress: false
+
+jobs:
+  jorf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Télécharger et filtrer le JO (données ouvertes DILA)
+        run: python3 scripts/jorf.py
+
+      - name: Enregistrer les candidats dans le dépôt
+        run: |
+          git config user.name "Veille JO (GitHub Actions)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jorf/
+          if git diff --cached --quiet; then
+            echo "Aucun changement"
+          else
+            git commit -m "JO du $(date +%F) : candidats médico-social"
+            git pull --rebase origin main
+            git push origin main
+          fi
