@@ -41,7 +41,7 @@ GARDER = [
     "dependance", "proches aidants", "aidants", "maltraitance", "bientraitance",
     "aide par le travail", "maisons departementales des personnes handicapees",
     "pupilles de l'etat", "hebergement d'urgence", "centres d'hebergement",
-    "financement de la securite sociale", "objectif national de depenses d'assurance maladie",
+    "objectif national de depenses d'assurance maladie",
     "attestation d'honorabilite", "dossier usager", "france enfance protegee",
 ]
 EXCLURE = [
@@ -52,7 +52,12 @@ EXCLURE = [
     "naturalisation", "changement de nom", "portant affectation", "portant detachement",
     "portant integration", "portant reintegration", "portant titularisation",
     "jury", "liste des candidats", "liste des admis", "elevation", "citation",
+    "personnes autorisees a exercer", "vacance", "eleves directeurs", "taux de promotion",
 ]
+# Mots-clés retenus seulement en tête d'intitulé (sinon simples renvois à une loi ancienne)
+EN_TETE = ["loi n", "loi organique", "ordonnance", "decret"]
+GARDER_SI_EN_TETE = ["financement de la securite sociale"]
+JOURS_ANCIENNETE_MAX = 10   # écarte les vieux textes simplement réédités dans l'archive du jour
 TYPES = {"LOI": "Loi", "ORDONNANCE": "Ordonnance", "DECRET": "Décret", "ARRETE": "Arrêté",
          "CIRCULAIRE": "Instruction / circulaire", "DECISION": "Décision / avis", "AVIS": "Décision / avis"}
 
@@ -202,7 +207,20 @@ def pertinent(t):
     n = norm(t["titre"])
     if not n or any(x in n for x in EXCLURE):
         return False
-    return any(k in n for k in GARDER)
+    if any(k in n for k in GARDER):
+        return True
+    return any(n.startswith(e) for e in EN_TETE) and any(k in n for k in GARDER_SI_EN_TETE)
+
+
+def recent(t, nom):
+    d_arch = date_archive(nom)
+    if not d_arch or not t.get("datePubli"):
+        return True
+    try:
+        d_pub = dt.date.fromisoformat(t["datePubli"][:10])
+    except ValueError:
+        return True
+    return d_pub >= d_arch - dt.timedelta(days=JOURS_ANCIENNETE_MAX)
 
 
 def main():
@@ -225,7 +243,7 @@ def main():
     for nom in a_traiter:
         try:
             for t in lire_archive(nom, diag):
-                if t["id"] in connus or not pertinent(t):
+                if t["id"] in connus or not pertinent(t) or not recent(t, nom):
                     continue
                 t["type"] = TYPES.get(t["nature"].upper(), t["nature"].capitalize() or "Texte")
                 t["url"] = f"https://www.legifrance.gouv.fr/jorf/id/{t['id']}"
