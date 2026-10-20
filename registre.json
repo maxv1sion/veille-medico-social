@@ -69,8 +69,31 @@
       "dateTexte": "2026-10-01",
       "type": "Projet de loi",
       "theme": "Financement",
+      "sujet": "PLFSS 2027",
+      "accroche": "Les mesures pour la branche autonomie",
       "titre": "Projet de loi de financement de la sécurité sociale (PLFSS) pour 2027",
       "resume": "Présenté en Conseil des ministres : intéressement à l'efficience des EHPAD et SAD (art. 39), expérimentation de fusion des sections soins et dépendance prolongée jusqu'à fin 2027 (art. 38), recentrage du barème de l'APA (art. 48). Texte en cours de débat au Parlement.",
+      "points": [
+        "Création d'un **intéressement à l'efficience** des EHPAD et des services autonomie à domicile (art. 39)",
+        "Expérimentation de **fusion des sections soins et dépendance** prolongée jusqu'à fin 2027 (art. 38)",
+        "**Recentrage du barème de l'APA** sur les bénéficiaires les plus modestes (art. 48)"
+      ],
+      "etapes": [
+        {
+          "date": "2026-10-01",
+          "fait": true,
+          "libelle": "Conseil des ministres"
+        },
+        {
+          "detail": "En cours au Parlement",
+          "fait": false,
+          "libelle": "Examen et adoption"
+        },
+        {
+          "fait": false,
+          "libelle": "Promulgation"
+        }
+      ],
       "source": "Sécurité sociale",
       "url": "https://www.securite-sociale.fr/la-secu-en-detail/loi-de-financement/annee-en-cours",
       "ajoute": "2026-10-19"
@@ -92,9 +115,19 @@
       "date": "2026-09-18",
       "dateTexte": "2026-09-16",
       "type": "Décret",
-      "theme": "RH et fonction publique",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "Arrêt maladie - les nouveautés",
+      "accroche": "Durée maximale d'indemnisation réduite",
       "titre": "Décret n° 2026-866 du 16 septembre 2026 relatif à la durée maximale dérogatoire d'indemnisation pour arrêt de travail et à la sanction des abus",
-      "resume": "Ramène à un an la durée maximale d'indemnisation dérogatoire des arrêts de travail (trois ans maintenus pour les ALD) et permet de sanctionner les arrêts injustifiés. Applicable aux arrêts prescrits à partir du 15 octobre 2026.",
+      "resume": "La durée d'indemnisation d'un arrêt maladie est réduite pour les salariés atteints d'une affection de longue durée **non prise en charge à 100 %** (ALD non exonérante).",
+      "points": [
+        "Les indemnités journalières sont versées **pendant 1 an maximum**",
+        "Pour une nouvelle période d'indemnisation au titre de la même maladie, le salarié doit avoir **repris son travail pendant au moins 1 an**",
+        "La durée reste fixée à **3 ans** pour une ALD **prise en charge à 100 %** (ALD exonérante)",
+        "Le décret permet aussi de **sanctionner les arrêts de travail injustifiés**"
+      ],
+      "application": "Arrêts prescrits à partir du 15 octobre 2026 et arrêts en cours qui atteignent 6 mois après cette date. Les salariés déjà en arrêt depuis plus de 6 mois au 15 octobre 2026 restent soumis aux anciennes règles.",
+      "impact": "Fin d'indemnisation possible pour certains arrêts en cours, avec à la clé des visites de reprise, des reprises avec ou sans aménagement de poste et de probables procédures d'inaptitude.",
       "source": "Journal officiel (copie FHF)",
       "url": "https://emploi.fhf.fr/sites/default/files/2026-09/d%C3%A9cret%202026-866%20-%20dur%C3%A9e%20maximale%20d%C3%A9rogatoire%20d'indemnisation%20et%20sanction%20des%20abus.pdf",
       "ajoute": "2026-10-19"
@@ -122,6 +155,28 @@
       "source": "Bulletins officiels Solidarités",
       "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-dgcssd2c2026127-du-31-aout-2026-relative-lanimation-des-comites-departementaux-des-services-aux-familles-cdsf-et-au-renouvellement-des-schemas-departementaux-des-services-aux-familles-sdsf",
       "ajoute": "2026-10-19"
+    },
+    {
+      "id": "guide-dgt-salaries-proteges-2026",
+      "date": "2026-08-27",
+      "dateTexte": "2026-08-27",
+      "type": "Guide / questions-réponses",
+      "theme": "Dialogue social et salariés protégés",
+      "sujet": "Salariés protégés",
+      "accroche": "Nouveau guide de l'administration sur la rupture du contrat",
+      "titre": "Guide relatif aux décisions administratives en matière de rupture ou transfert du contrat de travail des salariés protégés (version de juin 2026)",
+      "resume": "Le ministère du Travail a mis en ligne le 27 août 2026 la nouvelle version du guide de la Direction générale du travail, qui remplace celle de septembre 2019. C'est la **grille de lecture de l'inspection du travail** pour autoriser ou refuser la rupture du contrat d'un salarié protégé.",
+      "points": [
+        "**Cinq fiches profondément revues** : compétence de l'inspecteur du travail, procédures internes légales ou conventionnelles, motif disciplinaire, motif économique et reclassement, inaptitude médicale",
+        "**Nouvelle fiche sur la preuve** : l'administration contrôle la licéité et la recevabilité des preuves (enregistrements, vidéosurveillance, messageries)",
+        "**Nouvelle fiche sur les faits hors contrat** : faits commis dans l'exercice du mandat ou dans la vie personnelle du salarié",
+        "Le guide **ne lie ni le juge administratif ni le juge judiciaire**"
+      ],
+      "application": "Document de référence de l'inspection du travail depuis sa mise en ligne le 27 août 2026",
+      "impact": "Avant toute demande d'autorisation, vérifier les procédures de convocation et d'entretien préalable prévues par la convention collective, choisir le bon motif (disciplinaire ou non) et s'assurer que les preuves sont recevables.",
+      "source": "Ministère du Travail",
+      "url": "https://travail-emploi.gouv.fr/guide-relatif-aux-decisions-administratives-en-matiere-de-rupture-ou-transfert-du-contrat-de-travail-des-salaries-proteges",
+      "ajoute": "2026-10-20"
     },
     {
       "id": "decret-2026-786",

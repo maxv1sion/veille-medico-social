@@ -1,6 +1,10 @@
 # Veille juridique médico-social
 
-Veille réglementaire quotidienne du secteur social et médico-social : ESSMS, EHPAD, handicap, domicile, protection de l'enfance et familles, RH et fonction publique hospitalière, financement, numérique et données, qualité et droits des usagers.
+Veille réglementaire quotidienne sur deux domaines :
+- **Secteur social et médico-social** : ESSMS, EHPAD, handicap, domicile, protection de l'enfance et familles, RH et fonction publique hospitalière, financement, numérique et données, qualité et droits des usagers
+- **Droit du travail et droit social** applicables à un employeur du secteur : contrat de travail et rupture, temps de travail et congés, santé, sécurité et arrêts de travail, dialogue social et salariés protégés, rémunération et protection sociale (dont les conventions collectives du secteur : CCN 66, CCN 51, aide à domicile, BASS)
+
+Chaque texte est présenté comme une fiche : sujet, accroche, intitulé officiel, résumé, points clés, application, conséquence pour l'employeur, et pour les projets de loi l'encart « Où en est-on ? ». L'export PowerPoint et le mode visio reprennent la charte graphique de la veille (bordeaux, vieux rose, Poppins).
 
 **Site de consultation** : https://maxv1sion.github.io/veille-medico-social/
 
@@ -23,8 +27,9 @@ La notification indique le nombre de textes ajoutés (avec intitulé et date), c
 
 | Élément | Rôle |
 |---|---|
-| `index.html` | Le site : filtres par période, thème et type, export PowerPoint, texte d'email pour le dirigeant, mode présentation pour la visio |
-| `registre.json` | La liste des textes de veille (date, type, thème, intitulé, résumé, source, lien) |
+| `index.html` | Le site : filtres par période, domaine, thème et type, export PowerPoint, texte d'email pour le dirigeant, mode présentation pour la visio. Fichier généré par `build.py`, ne pas le modifier à la main |
+| `src/` et `build.py` | Les sources du site (style, page, code commun, stockage GitHub ou Claude) et le script qui assemble `index.html` et la version de la page Claude |
+| `registre.json` | La liste des textes de veille (date, type, thème, sujet, accroche, intitulé, résumé, points clés, application, conséquence, étapes, source, lien) |
 | `.github/workflows/jorf.yml` | Le programme automatique GitHub qui lance la récupération du JO chaque matin |
 | `scripts/jorf.py` | Le script de téléchargement et de tri du JO |
 | `jorf/candidats.json` | Les textes du JO présélectionnés, repris par la veille Claude |
@@ -34,9 +39,12 @@ La notification indique le nombre de textes ajoutés (avec intitulé et date), c
 ## Sources
 
 - **Journal officiel** : données ouvertes de la DILA, éditeur de Légifrance (https://echanges.dila.gouv.fr/OPENDATA/JORF/, Licence Ouverte Etalab 2.0). Les liens de chaque texte pointent vers Légifrance.
-- **Hors JO** : Bulletins officiels Solidarités, ministère des Solidarités, CNSA, HAS, Agence du numérique en santé, Sécurité sociale, Assemblée nationale, Sénat, et à défaut la FHF
+- **Hors JO, médico-social** : Bulletins officiels Solidarités, ministère des Solidarités, CNSA, HAS, Agence du numérique en santé, Sécurité sociale
+- **Hors JO, droit du travail** : ministère du Travail (dont le guide de la DGT sur la rupture ou le transfert du contrat de travail des salariés protégés), Code du travail numérique, Urssaf, Assurance maladie, jurisprudence de la Cour de cassation (chambre sociale) et du Conseil d'État
+- **Parlement** : Assemblée nationale et Sénat pour le suivi des projets et propositions de loi
+- **En appui** : FHF, Nexem, Axess, Legisocial, Éditions Tissot, Lefebvre Dalloz
 
-Légifrance bloque la lecture automatique de ses pages : les textes du JO sont donc récupérés par les données ouvertes officielles, jamais par lecture du site.
+Légifrance et le site du ministère du Travail bloquent la lecture automatique de leurs pages : les textes du JO sont donc récupérés par les données ouvertes officielles, et les autres repérés par recherche web, jamais par lecture directe de ces sites.
 
 ## Durées de conservation
 
@@ -64,4 +72,6 @@ Les suppressions sont automatiques.
 - **Ne pas supprimer la tâche planifiée Claude** « Veille juridique médico-social ». Pour une pause, la désactiver. Les conversations de passage peuvent être supprimées sans risque.
 - **Le dépôt est public** : n'y déposer que des informations publiques, jamais de notes internes ou de données clients
 - **Accès de Claude au dépôt** : il passe par l'application Claude installée sur le compte GitHub. Si elle est retirée, la veille Claude ne pourra plus mettre le site à jour.
-- **Tri du JO** : il repose sur des mots-clés (`scripts/jorf.py`, listes `GARDER` et `EXCLURE`). Si des textes hors sujet passent ou si un texte attendu manque, ajuster ces listes.
+- **Tri du JO** : il repose sur des mots-clés (`scripts/jorf.py`, listes `GARDER`, `EXCLURE` et `BRANCHES` pour les conventions collectives). Si des textes hors sujet passent ou si un texte attendu manque, ajuster ces listes.
+- **Modifier le site** : changer les fichiers de `src/`, puis lancer `python3 build.py` pour régénérer `index.html`
+- **Aucune structure nommée** : ni le site, ni les fiches, ni le PowerPoint ne citent d'employeur particulier

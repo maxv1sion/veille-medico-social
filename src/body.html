@@ -1,0 +1,123 @@
+<div class="wrap">
+  <header class="hero">
+    <div class="shapes" aria-hidden="true"><i class="s1"></i><i class="s2"></i><i class="s3"></i><i class="s4"></i></div>
+    <div class="mark"><span class="tri" aria-hidden="true"></span>Actualités RH</div>
+    <h1><span class="h1a">Veille</span><span class="h1b">Juridique</span></h1>
+    <div class="dash" aria-hidden="true"></div>
+    <p class="scope">Secteur social et médico-social · Droit du travail et droit social</p>
+    <div class="status">
+      <span>Dernière actualisation : <b id="lastUpdate">en attente</b></span>
+      <span id="countAll"></span>
+      <span id="syncState"></span>
+    </div>
+  </header>
+
+  <section class="tools" aria-label="Filtres">
+    <div class="row">
+      <span class="lbl">Période</span>
+      <button class="chip" data-p="7">7 jours</button>
+      <button class="chip" data-p="30">30 jours</button>
+      <button class="chip" data-p="90" aria-pressed="true">3 mois</button>
+      <button class="chip" data-p="year">Depuis janvier</button>
+      <button class="chip" data-p="custom">Personnalisée</button>
+      <span id="customBox" class="row" hidden>
+        <label for="dFrom">du</label><input type="date" id="dFrom">
+        <label for="dTo">au</label><input type="date" id="dTo">
+      </span>
+    </div>
+    <div class="row" id="domRow"><span class="lbl">Domaine</span></div>
+    <div class="row">
+      <span class="lbl">Affiner</span>
+      <select id="themeSel" aria-label="Thème"><option value="">Tous les thèmes</option></select>
+      <select id="typeSel" aria-label="Type de texte"><option value="">Tous les types</option></select>
+      <input type="search" id="q" placeholder="Rechercher (EHPAD, arrêt maladie, CSE…)" aria-label="Rechercher">
+    </div>
+    <div class="actions">
+      <button class="btn primary" id="bPpt">Exporter en PowerPoint</button>
+      <button class="btn" id="bDeck">Présenter en visio</button>
+      <button class="btn" id="bMail">Préparer l'email</button>
+      <button class="btn" id="bSources">Sources officielles</button>
+      <button class="btn" id="bAsk" data-only="artifact">Demander une veille sur cette période</button>
+      <button class="btn" id="bAdd">Ajouter un texte</button>
+    </div>
+    <div class="actions" data-only="github">
+      <button class="btn small" id="bExport">Sauvegarder le registre (.json)</button>
+      <button class="btn small" id="bImport">Importer un registre (.json)</button>
+      <input type="file" id="fileImport" accept=".json,application/json" hidden>
+    </div>
+  </section>
+
+  <div class="summary" id="summary"></div>
+
+  <section class="panel" id="mailPanel" hidden>
+    <h2>Email au dirigeant</h2>
+    <p>Texte prêt à coller dans votre messagerie, avec les textes affichés selon les filtres en cours.</p>
+    <div class="field"><span>Objet</span><input type="text" id="mailSubject"></div>
+    <textarea id="mailBody" aria-label="Corps de l'email"></textarea>
+    <div class="row"><button class="btn primary" id="copyMail">Copier l'objet et le texte</button><button class="btn" id="closeMail">Fermer</button></div>
+  </section>
+
+  <section class="panel" id="askPanel" hidden data-only="artifact">
+    <h2>Demander une veille ciblée</h2>
+    <p>Copiez ce message et envoyez-le à Claude dans la conversation. Les nouveaux textes trouvés s'ajouteront ici automatiquement.</p>
+    <textarea id="askText" style="min-height:120px" aria-label="Message à envoyer"></textarea>
+    <div class="row"><button class="btn primary" id="copyAsk">Copier le message</button><button class="btn" id="closeAsk">Fermer</button></div>
+    <p class="note">Une actualisation automatique tourne aussi chaque jour ouvré à 7h50.</p>
+  </section>
+
+  <section class="panel" id="srcPanel" hidden>
+    <h2>Sources officielles</h2>
+    <p>Les sources suivies chaque matin par la veille automatique.</p>
+    <div class="srcgrid">
+      <a class="srclink" href="https://www.legifrance.gouv.fr/jorf/jo" target="_blank" rel="noopener"><b>Journal officiel du jour</b><span>Légifrance : lois, décrets, arrêtés</span></a>
+      <a class="srclink" href="https://travail-emploi.gouv.fr/" target="_blank" rel="noopener"><b>Ministère du Travail</b><span>Guides, questions-réponses, actualités</span></a>
+      <a class="srclink" href="https://travail-emploi.gouv.fr/guide-relatif-aux-decisions-administratives-en-matiere-de-rupture-ou-transfert-du-contrat-de-travail-des-salaries-proteges" target="_blank" rel="noopener"><b>Guide salariés protégés (DGT)</b><span>Rupture ou transfert du contrat de travail</span></a>
+      <a class="srclink" href="https://code.travail.gouv.fr/" target="_blank" rel="noopener"><b>Code du travail numérique</b><span>Fiches et conventions collectives</span></a>
+      <a class="srclink" href="https://www.courdecassation.fr/" target="_blank" rel="noopener"><b>Cour de cassation</b><span>Jurisprudence de la chambre sociale</span></a>
+      <a class="srclink" href="https://bulletins-officiels.social.gouv.fr/" target="_blank" rel="noopener"><b>Bulletins officiels Solidarités</b><span>Instructions et circulaires DGCS, DGOS</span></a>
+      <a class="srclink" href="https://solidarites.gouv.fr/" target="_blank" rel="noopener"><b>Ministère des Solidarités</b><span>Actualités et réformes du secteur</span></a>
+      <a class="srclink" href="https://www.cnsa.fr/" target="_blank" rel="noopener"><b>CNSA</b><span>Autonomie, financement des ESMS</span></a>
+      <a class="srclink" href="https://www.has-sante.fr/" target="_blank" rel="noopener"><b>HAS</b><span>Évaluation et recommandations ESSMS</span></a>
+      <a class="srclink" href="https://esante.gouv.fr/" target="_blank" rel="noopener"><b>Agence du numérique en santé</b><span>ESMS Numérique, cybersécurité</span></a>
+      <a class="srclink" href="https://www.urssaf.fr/" target="_blank" rel="noopener"><b>Urssaf</b><span>Cotisations, aides et obligations employeur</span></a>
+      <a class="srclink" href="https://www.securite-sociale.fr/la-secu-en-detail/loi-de-financement/annee-en-cours" target="_blank" rel="noopener"><b>Loi de financement de la Sécu</b><span>PLFSS en cours</span></a>
+    </div>
+    <div class="row"><button class="btn" id="closeSrc">Fermer</button></div>
+  </section>
+
+  <section class="panel" id="formPanel" hidden>
+    <h2 id="formTitle">Ajouter un texte</h2>
+    <form id="form" class="grid2">
+      <label class="field"><span>Date de publication (JO, BO ou décision)</span><input type="date" id="fDate" required></label>
+      <label class="field"><span>Date de signature (facultatif)</span><input type="date" id="fDateTexte"></label>
+      <label class="field"><span>Type</span><select id="fType" required></select></label>
+      <label class="field"><span>Thème</span><select id="fTheme" required></select></label>
+      <label class="field"><span>Sujet (titre de diapositive, court)</span><input type="text" id="fSujet" placeholder="Arrêt maladie - les nouveautés"></label>
+      <label class="field"><span>Accroche (sous-titre)</span><input type="text" id="fAccroche" placeholder="Plafonnement des durées et des indemnisations"></label>
+      <label class="field full"><span>Intitulé officiel</span><input type="text" id="fTitre" required></label>
+      <label class="field full"><span>Résumé (1 à 2 lignes)</span><textarea id="fResume" required></textarea></label>
+      <label class="field full"><span>Points clés (un par ligne, **gras** possible)</span><textarea id="fPoints"></textarea></label>
+      <label class="field"><span>Application / entrée en vigueur</span><input type="text" id="fApplication"></label>
+      <label class="field"><span>Référence (jurisprudence)</span><input type="text" id="fReference" placeholder="Cass. soc. 17 juin 2026, n° 25-16.366"></label>
+      <label class="field full"><span>Conséquence pour l'employeur</span><textarea id="fImpact"></textarea></label>
+      <label class="field"><span>Source</span><input type="text" id="fSource" placeholder="Légifrance, ministère du Travail…"></label>
+      <label class="field"><span>Lien vers la source</span><input type="url" id="fUrl" required placeholder="https://…"></label>
+      <div class="row full"><button class="btn primary" type="submit">Enregistrer</button><button class="btn" type="button" id="fCancel">Annuler</button></div>
+    </form>
+  </section>
+
+  <div id="results"></div>
+</div>
+
+<div class="deck" id="deck" hidden>
+  <div class="deck-bar">
+    <span class="counter" id="deckCount"></span>
+    <div class="row">
+      <button class="btn small" id="dPrev">Précédent</button>
+      <button class="btn small" id="dNext">Suivant</button>
+      <button class="btn small" id="dFull">Plein écran</button>
+      <button class="btn small" id="dClose">Fermer</button>
+    </div>
+  </div>
+  <div class="deck-stage" id="deckStage"></div>
+</div>

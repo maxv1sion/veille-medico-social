@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Récupère les textes du Journal officiel (données ouvertes DILA) et garde ceux qui
-concernent le secteur social et médico-social. Résultat : jorf/candidats.json.
+concernent le secteur social et médico-social ou le droit du travail et le droit social
+applicables à un employeur du secteur. Résultat : jorf/candidats.json.
 
 Source : https://echanges.dila.gouv.fr/OPENDATA/JORF/ (Licence Ouverte Etalab 2.0)
 Les textes retenus sont aussi enregistrés en entier (version lisible .txt et XML officiel)
@@ -43,6 +44,31 @@ GARDER = [
     "pupilles de l'etat", "hebergement d'urgence", "centres d'hebergement",
     "objectif national de depenses d'assurance maladie",
     "attestation d'honorabilite", "dossier usager", "france enfance protegee",
+    # Droit du travail et droit social (employeur)
+    "code du travail", "contrat de travail", "licenciement", "rupture conventionnelle",
+    "salaries proteges", "representants du personnel", "comite social et economique",
+    "duree du travail", "temps de travail", "travail de nuit", "heures supplementaires",
+    "repos quotidien", "repos hebdomadaire", "conges payes", "conge de naissance",
+    "conge de maternite", "conge de paternite", "conge parental", "conge de proche aidant",
+    "arret de travail", "arrets de travail", "indemnites journalieres", "indemnisation des arrets",
+    "accidents du travail", "accident du travail", "maladies professionnelles", "maladie professionnelle",
+    "sante au travail", "medecin du travail", "prevention des risques professionnels",
+    "document unique", "inaptitude", "visite de reprise", "rendez-vous de liaison",
+    "harcelement", "violences sexuelles et sexistes", "egalite professionnelle",
+    "travailleurs handicapes", "obligation d'emploi des travailleurs handicapes",
+    "titres-restaurant", "titre-restaurant", "salaire minimum de croissance",
+    "epargne salariale", "interessement", "participation des salaries", "partage de la valeur",
+    "fraude sociale", "cotisations sociales", "allegements de cotisations", "reduction generale des cotisations",
+    "assurance chomage", "activite partielle", "teletravail", "portage salarial",
+    "inspection du travail", "negociation collective", "dialogue social",
+]
+# Extensions et agréments d'accords : gardés seulement pour les branches du secteur
+BRANCHES = [
+    "aide, de l'accompagnement, des soins et des services a domicile",
+    "personnes inadaptees et handicapees",
+    "etablissements prives d'hospitalisation, de soins, de cure et de garde a but non lucratif",
+    "sanitaire, social et medico-social", "sanitaire, sociale et medico-sociale",
+    "acteurs du lien social et familial", "hospitalisation privee", "medico-social",
 ]
 EXCLURE = [
     "portant nomination", "portant cessation de fonctions", "cessation de fonctions",
@@ -53,6 +79,8 @@ EXCLURE = [
     "portant integration", "portant reintegration", "portant titularisation",
     "jury", "liste des candidats", "liste des admis", "elevation", "citation",
     "personnes autorisees a exercer", "vacance", "eleves directeurs", "taux de promotion",
+    "titre professionnel", "certificat de qualification professionnelle", "portant agrement d'organismes",
+    "habilitation d'organismes", "conseil d'administration de la caisse", "composition du conseil",
 ]
 # Mots-clés retenus seulement en tête d'intitulé (sinon simples renvois à une loi ancienne)
 EN_TETE = ["loi n", "loi organique", "ordonnance", "decret"]
@@ -207,6 +235,9 @@ def pertinent(t):
     n = norm(t["titre"])
     if not n or any(x in n for x in EXCLURE):
         return False
+    # Conventions collectives : uniquement les branches du secteur
+    if "convention collective" in n or "accord collectif" in n or "avenant" in n:
+        return any(b in n for b in BRANCHES)
     if any(k in n for k in GARDER):
         return True
     return any(n.startswith(e) for e in EN_TETE) and any(k in n for k in GARDER_SI_EN_TETE)
