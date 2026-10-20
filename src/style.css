@@ -184,3 +184,4 @@ summary{cursor:pointer;color:var(--red-text);font-weight:600;font-size:13px;widt
 .end-mark{position:absolute;left:0;right:0;top:20cqw;display:flex;justify-content:center;align-items:center;gap:1.4cqw;font-weight:700;font-style:italic;font-size:3cqw}
 .end-h{position:absolute;left:0;right:0;top:30cqw;text-align:center;font-weight:700;font-size:4.6cqw;color:#8b0000 !important}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+#themeChips{display:contents}

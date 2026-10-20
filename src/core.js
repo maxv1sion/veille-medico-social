@@ -97,7 +97,7 @@ function buildControls(){
     render(); }));
   $("#dFrom").addEventListener("change", e => { state.from = e.target.value; render(); });
   $("#dTo").addEventListener("change", e => { state.to = e.target.value; render(); });
-  $("#themeSel").addEventListener("change", e => { state.theme = e.target.value; render(); });
+  $("#themeChips").addEventListener("click", e => { const b = e.target.closest(".chip"); if(!b) return; state.theme = b.dataset.t; fillThemes(); render(); });
   $("#typeSel").addEventListener("change", e => { state.type = e.target.value; render(); });
   $("#q").addEventListener("input", e => { state.q = e.target.value; render(); });
   $("#bMail").addEventListener("click", openMail);
@@ -119,9 +119,9 @@ function buildControls(){
   if(Store.extraControls) Store.extraControls();
 }
 function fillThemes(){
-  const sel = $("#themeSel"); const cur = state.theme; sel.innerHTML = '<option value="">Tous les thèmes</option>';
-  Object.entries(DOMAINES).forEach(([d,ths]) => { if(state.domaine && d !== state.domaine) return; const g = document.createElement("optgroup"); g.label = d; ths.forEach(t => g.appendChild(new Option(t,t))); sel.appendChild(g); });
-  if(cur && (!state.domaine || domaineDe(cur) === state.domaine)) sel.value = cur; else state.theme = "";
+  if(state.theme && state.domaine && domaineDe(state.theme) !== state.domaine) state.theme = "";
+  const ths = state.domaine ? DOMAINES[state.domaine] : THEMES;
+  $("#themeChips").innerHTML = ["", ...ths].map(t => `<button class="chip" data-t="${esc(t)}" aria-pressed="${state.theme === t ? "true" : "false"}">${esc(t || "Tous")}</button>`).join("");
 }
 async function copy(text, el){
   try { await navigator.clipboard.writeText(text); toast("Copié dans le presse-papiers"); }
