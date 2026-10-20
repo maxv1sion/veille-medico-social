@@ -70,6 +70,9 @@ select{flex:0 1 260px}
 
 .summary{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:14px;color:var(--muted)}
 .summary b{color:var(--ink);font-variant-numeric:tabular-nums}
+.summary .rep{display:inline-flex;align-items:center;gap:6px}
+.summary .rep::before{content:"";width:4px;height:14px;border-radius:2px;background:var(--rose)}
+.summary .rep b{background:var(--blush);color:var(--red-text);border-radius:999px;padding:0 8px;font-size:12px}
 
 .panel{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:12px}
 .panel h2{font-size:16px;margin:0;text-transform:uppercase;letter-spacing:.04em;color:var(--ink)}

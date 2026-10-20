@@ -56,9 +56,12 @@ function render(){
   $("#countAll").textContent = state.loaded ? `${state.items.length} textes au registre` : "Chargement du registre…";
   $("#lastUpdate").textContent = state.meta?.derniereMaj ? fmt(state.meta.derniereMaj) : "non renseignée";
   $("#syncState").textContent = Store.syncText();
-  const byDom = {}; list.forEach(i => { const d = domaineDe(i.theme); byDom[d] = (byDom[d]||0) + 1; });
+  // Répartition selon les critères : par domaine, puis par thème du domaine choisi, puis par type du thème choisi
+  const cle = state.theme ? (i => i.type) : state.domaine ? (i => i.theme) : (i => domaineDe(i.theme));
+  const ordre = state.theme ? TYPES : state.domaine ? DOMAINES[state.domaine] : Object.keys(DOMAINES);
+  const rep = {}; list.forEach(i => { const k = cle(i); rep[k] = (rep[k]||0) + 1; });
   $("#summary").innerHTML = `<span><b>${list.length}</b> texte${list.length>1?"s":""} ${esc(periodLabel())}</span>` +
-    Object.entries(byDom).map(([d,n]) => `<span>${esc(d)} <b>${n}</b></span>`).join("");
+    ordre.filter(k => rep[k]).map(k => `<span class="rep">${esc(k)} <b>${rep[k]}</b></span>`).join("");
   const res = $("#results");
   if(!state.loaded){ res.innerHTML = `<div class="list"><div class="empty">Chargement des textes de veille…</div></div>`; return; }
   if(!state.items.length){ res.innerHTML = `<div class="list"><div class="empty">Le registre est vide. Les textes apparaîtront après la prochaine actualisation, ou ajoutez-en un avec « Ajouter un texte ».</div></div>`; return; }
@@ -117,7 +120,7 @@ function buildControls(){
   $("#results").addEventListener("click", onListClick);
   if(Store.extraControls) Store.extraControls();
 }
-const opt = (val, label, n, sel) => `<option value="${esc(val)}"${sel ? " selected" : ""}>${esc(label)} (${n})</option>`;
+const opt = (val, label, n, sel) => `<option value="${esc(val)}"${sel ? " selected" : ""}>${esc(label)}</option>`;
 function fillDomains(){
   const base = filtered({sansDomaine:true, sansTheme:true});
   $("#domSel").innerHTML = opt("", "Tous les domaines", base.length, !state.domaine) +
