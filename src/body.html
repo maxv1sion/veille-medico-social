@@ -25,12 +25,15 @@
         <label for="dTo">au</label><input type="date" id="dTo">
       </span>
     </div>
-    <div class="row" id="domRow"><span class="lbl">Domaine</span></div>
+    <div class="row" id="domRow"><span class="lbl">Domaine</span><span id="domChips" class="row"></span></div>
     <div class="row" id="themeRow"><span class="lbl">Thème</span><span id="themeChips" class="row"></span></div>
     <div class="row">
-      <span class="lbl">Affiner</span>
+      <span class="lbl">Type</span>
       <select id="typeSel" aria-label="Type de texte"><option value="">Tous les types</option></select>
-      <input type="search" id="q" placeholder="Rechercher (EHPAD, arrêt maladie, CSE…)" aria-label="Rechercher">
+    </div>
+    <div class="row">
+      <span class="lbl">Recherche</span>
+      <input type="search" id="q" placeholder="Mot-clé : EHPAD, arrêt maladie, CSE…" aria-label="Rechercher">
     </div>
     <div class="actions">
       <button class="btn primary" id="bPpt">Exporter en PowerPoint</button>

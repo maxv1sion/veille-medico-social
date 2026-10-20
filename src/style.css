@@ -184,4 +184,7 @@ summary{cursor:pointer;color:var(--red-text);font-weight:600;font-size:13px;widt
 .end-mark{position:absolute;left:0;right:0;top:20cqw;display:flex;justify-content:center;align-items:center;gap:1.4cqw;font-weight:700;font-style:italic;font-size:3cqw}
 .end-h{position:absolute;left:0;right:0;top:30cqw;text-align:center;font-weight:700;font-size:4.6cqw;color:#8b0000 !important}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
-#themeChips{display:contents}
+#themeChips,#domChips{display:contents}
+.chip .n{display:inline-block;min-width:1.6em;margin-left:4px;padding:0 6px;border-radius:999px;background:var(--blush);color:var(--red-text);font-size:11px;font-weight:600;text-align:center;font-variant-numeric:tabular-nums}
+.chip[aria-pressed="true"] .n{background:rgba(255,255,255,.25);color:var(--on-btn)}
+.chip.zero{opacity:.5}
