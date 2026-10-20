@@ -1,8 +1,20 @@
 {
   "meta": {
-    "derniereMaj": "2026-10-19"
+    "derniereMaj": "2026-10-20"
   },
   "items": [
+    {
+      "id": "arrete-2026-10-05-mna",
+      "date": "2026-10-20",
+      "dateTexte": "2026-10-05",
+      "type": "Arrêté",
+      "theme": "Enfance et famille",
+      "titre": "Arrêté du 5 octobre 2026 fixant le montant du financement exceptionnel de l'Etat pour la prise en charge des mineurs non accompagnés confiés à l'aide sociale à l'enfance sur décision de justice et pris en charge au 31 décembre 2025",
+      "resume": "L'Etat verse aux départements dont le nombre de mineurs non accompagnés confiés à l'ASE a augmenté entre fin 2024 et fin 2025 une aide de 6 000 € par jeune pour 75 % des jeunes supplémentaires. Le montant par département figure en annexe.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999225",
+      "ajoute": "2026-10-20"
+    },
     {
       "id": "decret-2026-955",
       "date": "2026-10-15",
@@ -16,6 +28,18 @@
       "ajoute": "2026-10-19"
     },
     {
+      "id": "arrete-2026-10-08-d3s-hors-classe",
+      "date": "2026-10-10",
+      "dateTexte": "2026-10-08",
+      "type": "Arrêté",
+      "theme": "RH et fonction publique",
+      "titre": "Arrêté du 8 octobre 2026 fixant la liste des établissements mentionnés aux 3°, 5° et 6° de l'article L. 5 du code général de la fonction publique dont la direction permet l'accès à l'échelon fonctionnel de la hors-classe du corps des directeurs des établissements sanitaires, sociaux et médico-sociaux de la fonction publique hospitalière",
+      "resume": "Met à jour, par département, la liste des établissements (EHPAD, établissements sociaux et médico-sociaux, directions communes) dont la direction ouvre l'accès à l'échelon fonctionnel de la hors-classe des D3S.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969574",
+      "ajoute": "2026-10-20"
+    },
+    {
       "id": "arrete-2026-10-08-d3s",
       "date": "2026-10-10",
       "dateTexte": "2026-10-08",
@@ -26,6 +50,18 @@
       "source": "Légifrance (JORF n° 237)",
       "url": "https://www.legifrance.gouv.fr/eli/arrete/2026/10/8/SFHH2626791A/jo/texte",
       "ajoute": "2026-10-19"
+    },
+    {
+      "id": "arrete-2026-09-23-ccn-bad",
+      "date": "2026-10-03",
+      "dateTexte": "2026-09-23",
+      "type": "Arrêté",
+      "theme": "Domicile",
+      "titre": "Arrêté du 23 septembre 2026 portant extension d'avenants à la convention collective nationale de la branche de l'aide, de l'accompagnement, des soins et des services à domicile (n° 2941)",
+      "resume": "Rend obligatoires pour tous les employeurs et salariés de la branche de l'aide à domicile (CCN BAD) les avenants n° 67/2024 du 28 novembre 2024 et n° 74/2026 du 22 janvier 2026, à compter de la publication au JO.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054945998",
+      "ajoute": "2026-10-20"
     },
     {
       "id": "plfss-2027",
