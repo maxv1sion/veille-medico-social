@@ -21,7 +21,6 @@ gh = f"""<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>{TITRE}</title>
-<meta name="author" content="[Prénom] [Nom]">
 {FONTS}
 <style>[hidden]{{display:none!important}}
 {style}</style>
