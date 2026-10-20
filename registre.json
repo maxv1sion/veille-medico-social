@@ -72,7 +72,7 @@
       "sujet": "PLFSS 2027",
       "accroche": "Les mesures pour la branche autonomie",
       "titre": "Projet de loi de financement de la sécurité sociale (PLFSS) pour 2027",
-      "resume": "Présenté en Conseil des ministres : intéressement à l'efficience des EHPAD et SAD (art. 39), expérimentation de fusion des sections soins et dépendance prolongée jusqu'à fin 2027 (art. 38), recentrage du barème de l'APA (art. 48). Texte en cours de débat au Parlement.",
+      "resume": "Présenté en Conseil des ministres : intéressement à l'efficience des EHPAD et SAD (art. 39), expérimentation de fusion des sections soins et dépendance prolongée jusqu'à fin 2027 (art. 38), recentrage du barème de l'APA (art. 48). **Examen en séance publique** à l'Assemblée nationale depuis le 20 octobre 2026.",
       "points": [
         "Création d'un **intéressement à l'efficience** des EHPAD et des services autonomie à domicile (art. 39)",
         "Expérimentation de **fusion des sections soins et dépendance** prolongée jusqu'à fin 2027 (art. 38)",
@@ -81,11 +81,13 @@
       "etapes": [
         {
           "date": "2026-10-01",
+          "detail": "Conseil des ministres et dépôt à l'Assemblée nationale (n° 3211)",
           "fait": true,
-          "libelle": "Conseil des ministres"
+          "libelle": "Dépôt au Parlement"
         },
         {
-          "detail": "En cours au Parlement",
+          "date": "2026-10-20",
+          "detail": "1re lecture à l'Assemblée nationale - séance publique ouverte le 20 octobre 2026",
           "fait": false,
           "libelle": "Examen et adoption"
         },
