@@ -60,7 +60,7 @@ function render(){
   if(!state.loaded){ res.innerHTML = `<div class="list"><div class="empty">Chargement des textes de veille…</div></div>`; return; }
   if(!state.items.length){ res.innerHTML = `<div class="list"><div class="empty">Le registre est vide. Les textes apparaîtront après la prochaine actualisation, ou ajoutez-en un avec « Ajouter un texte ».</div></div>`; return; }
   if(!list.length){ res.innerHTML = `<div class="list"><div class="empty">Aucun texte sur cette période avec ces filtres. Élargissez la période ou retirez un filtre.</div></div>`; return; }
-  const recent = iso(new Date(Date.now() - 3*864e5));
+  const recent = iso(new Date(Date.now() - 7*864e5)); // « Nouveau » = publié depuis moins de 7 jours
   const groups = {}; list.forEach(i => { const k = i.date.slice(0,7); (groups[k] = groups[k] || []).push(i); });
   res.innerHTML = Object.entries(groups).map(([k,arr]) => {
     const [y,m] = k.split("-"); const titre = new Date(+y,+m-1,1).toLocaleDateString("fr-FR",{month:"long",year:"numeric"});
@@ -68,7 +68,7 @@ function render(){
       <article class="item ${domaineDe(i.theme)==="Médico-social"?"":"dt"}">
         <div class="date">${esc(fmt(i.date))}<small>${i.dateTexte && i.dateTexte !== i.date ? "texte du "+esc(fmtNum(i.dateTexte)) : (i.type==="Jurisprudence"?"décision":"publication")}</small></div>
         <div class="body">
-          <div class="tags"><span class="tag type">${esc(i.type)}</span><span class="tag">${esc(i.theme)}</span>${(i.ajoute||"") >= recent ? '<span class="tag new">Nouveau</span>' : ""}${i.local ? '<span class="tag type">Ajouté sur ce poste</span>' : ""}</div>
+          <div class="tags"><span class="tag type">${esc(i.type)}</span><span class="tag">${esc(i.theme)}</span>${(i.date||"") >= recent ? '<span class="tag new" title="Publié depuis moins de 7 jours">Nouveau</span>' : ""}${i.local ? '<span class="tag type">Ajouté sur ce poste</span>' : ""}</div>
           ${i.sujet || i.accroche ? `<div class="kicker">${esc(i.sujet || i.theme)}${i.accroche ? ` <span>· ${esc(i.accroche)}</span>` : ""}</div>` : ""}
           <p class="ref"><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.titre)}</a></p>
           ${i.reference ? `<div class="src"><u>${esc(i.reference)}</u></div>` : ""}
