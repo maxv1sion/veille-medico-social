@@ -291,7 +291,7 @@ function cadre(p, sl, titre, sous){
 }
 async function exportPpt(){
   if(typeof PptxGenJS === "undefined"){ toast("Le module PowerPoint n'a pas pu se charger"); return; }
-  const p = new PptxGenJS(); p.layout = "LAYOUT_WIDE"; p.author = "[Prénom] [Nom]"; p.company = "OCD"; p.title = `Veille juridique ${periodLabel()}`;
+  const p = new PptxGenJS(); p.layout = "LAYOUT_WIDE"; p.author = "[Prénom] [Nom]"; p.title = `Veille juridique ${periodLabel()}`;
   const base = {fontFace:F, fontSize:14, color:C.text};
   slidesModel().forEach(s => {
     const sl = p.addSlide(); sl.background = {color:"FFFFFF"};
