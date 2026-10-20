@@ -9,10 +9,42 @@
       "dateTexte": "2026-10-05",
       "type": "Arrêté",
       "theme": "Enfance et famille",
+      "sujet": "MNA - financement de l'Etat",
+      "accroche": "6 000 € par jeune pour 75 % des MNA supplémentaires",
       "titre": "Arrêté du 5 octobre 2026 fixant le montant du financement exceptionnel de l'Etat pour la prise en charge des mineurs non accompagnés confiés à l'aide sociale à l'enfance sur décision de justice et pris en charge au 31 décembre 2025",
-      "resume": "L'Etat verse aux départements dont le nombre de mineurs non accompagnés confiés à l'ASE a augmenté entre fin 2024 et fin 2025 une aide de 6 000 € par jeune pour 75 % des jeunes supplémentaires. Le montant par département figure en annexe.",
+      "resume": "L'Etat verse aux départements dont le nombre de **mineurs non accompagnés** confiés à l'ASE sur décision de justice a augmenté entre le 31 décembre 2024 et le 31 décembre 2025 une aide de **6 000 € par jeune pour 75 % des jeunes supplémentaires**. Deux départements en bénéficient, pour un total de **1 338 000 €**.",
+      "points": [
+        "Financement de **6 000 € par jeune** pour **75 % des MNA supplémentaires** pris en charge au 31 décembre 2025 par rapport au 31 décembre 2024 (nombre arrondi à l'entier le plus proche)",
+        "Calcul à partir des données transmises par les départements au **ministère de la justice** (art. R. 221-14 CASF)",
+        "**223 jeunes** pris en compte au niveau national, pour un total de **1 338 000 €**",
+        "Seuls **deux départements** perçoivent une dotation, tous les autres étant à zéro"
+      ],
+      "application": "Dotation 2026 attribuée aux départements, arrêté publié au JO du 20 octobre 2026.",
+      "impact": "Effet limité pour les gestionnaires : la compensation ne bénéficie qu'à deux départements et reste sans incidence directe sur les tarifs des établissements et services de protection de l'enfance ailleurs.",
       "source": "Journal officiel (données DILA)",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999225",
+      "ajoute": "2026-10-20"
+    },
+    {
+      "id": "decret-2026-959",
+      "date": "2026-10-16",
+      "dateTexte": "2026-10-15",
+      "type": "Décret",
+      "theme": "Rémunération et protection sociale",
+      "sujet": "Aide grands rouleurs",
+      "accroche": "Nouvelle indemnité carburant de 100 euros pour fin 2026",
+      "titre": "Décret n° 2026-959 du 15 octobre 2026 relatif à la création, aux conditions et aux modalités de versement d'une indemnité carburant",
+      "resume": "Une nouvelle **indemnité carburant de 100 euros**, versée par l'État, couvre le **dernier trimestre 2026** pour les travailleurs modestes qui utilisent leur **véhicule personnel** pour travailler, avec un **plafond de revenus relevé**.",
+      "points": [
+        "Montant forfaitaire de **100 euros** pour la période **octobre à décembre 2026**",
+        "Revenu fiscal de référence 2024 par part **inférieur ou égal à 22 770 euros** et revenus d'activité déclarés (salaires, BIC, BNC, BA)",
+        "Véhicule personnel thermique ou hybride non rechargeable, assuré, avec **plus de 15 km par trajet domicile-travail** ou **plus de 8 000 km par an** pour le travail",
+        "Versement automatique dès le 16 octobre 2026 pour les bénéficiaires de la première aide, demande en ligne sur **impots.gouv.fr à partir du 27 octobre 2026** pour les autres"
+      ],
+      "application": "Publié au Journal officiel du 16 octobre 2026, il concerne les salariés et indépendants modestes utilisant leur véhicule personnel pour leur activité professionnelle.",
+      "impact": "Aucune démarche ni financement à la charge de l'employeur, mais l'information peut être relayée auprès des professionnels qui se déplacent avec leur véhicule (intervenants à domicile, soignants en tournée). L'aide ne remplace pas les indemnités kilométriques dues par l'employeur.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988304",
       "ajoute": "2026-10-20"
     },
     {
@@ -21,11 +53,105 @@
       "dateTexte": "2026-10-13",
       "type": "Décret",
       "theme": "RH et fonction publique",
+      "sujet": "Infirmiers - actes professionnels",
+      "accroche": "Abrogation de l'ancien décret d'actes infirmiers",
       "titre": "Décret n° 2026-955 du 13 octobre 2026 portant mise en cohérence des dispositions relatives aux actes professionnels des infirmiers",
       "resume": "Abroge les anciennes dispositions sur les actes infirmiers devenues caduques avec le nouveau cadre d'exercice issu de la loi du 27 juin 2025. A prendre en compte pour les fiches de poste des IDE en EHPAD, SSIAD et SAD.",
+      "points": [
+        "Abroge les **anciennes dispositions réglementaires sur les actes professionnels infirmiers** du code de la santé publique, devenues caduques",
+        "Fait suite à la réécriture de l'**article L. 4311-1 CSP** par la **loi n° 2025-581 du 27 juin 2025** (exercice défini par missions)",
+        "Le cadre en vigueur repose désormais sur le **décret n° 2025-1306 du 24 décembre 2025** (activités et compétences) et les **arrêtés du 26 juin 2026** (liste des actes et soins, prescriptions)",
+        "Les actes du **rôle propre délégables** aux aides-soignants, auxiliaires de puériculture et AES relèvent de ce nouveau cadre"
+      ],
+      "application": "Depuis la publication au JO du 15 octobre 2026, pour les infirmiers et leurs employeurs (EHPAD, SSIAD, SAD, établissements de santé et médico-sociaux).",
+      "impact": "Les fiches de poste, protocoles de soins et délégations aux aides-soignants et AES qui renvoient encore à l'ancien décret d'actes doivent être mis à jour sur la base du nouveau cadre réglementaire.",
       "source": "Légifrance (JORF n° 241)",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054983458",
       "ajoute": "2026-10-19"
+    },
+    {
+      "id": "ppl-violences-sexuelles",
+      "date": "2026-10-13",
+      "dateTexte": "2026-08-11",
+      "type": "Proposition de loi",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "Loi intégrale violences sexuelles",
+      "accroche": "Congé de 10 jours pour les victimes et référent dès 50 salariés",
+      "titre": "Proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+      "resume": "Adoptée en première lecture par l'Assemblée nationale le 13 octobre 2026, la « loi intégrale » crée un **congé rémunéré pour les victimes** de violences sexuelles et sexistes et renforce les **obligations de prévention de l'employeur**.",
+      "points": [
+        "**Congé de 10 jours** pour le salarié victime d'agression sexuelle, de harcèlement sexuel ou d'agissements sexistes, **sans perte de rémunération**, fractionnable par demi-journée, avec préavis de **24 heures** et justificatif sous **5 jours** (plainte, attestation de santé ou d'association)",
+        "Pour les **agents publics**, autorisation spéciale d'absence de **10 jours ouvrables** au plus sans perte de traitement",
+        "**Référent** violences sexuelles et sexistes obligatoire **dès 50 salariés** (au lieu de 250), formé dans les 6 mois",
+        "Risques de violences sexuelles et sexistes à inscrire expressément dans le **document unique**, avec actions de prévention et **sensibilisation** des salariés",
+        "**Enquête interne** à déclencher sans délai après un signalement"
+      ],
+      "application": "Texte non définitif, à examiner par le Sénat, qui pourra le modifier.",
+      "impact": "Si ces mesures sont confirmées, l'employeur devra prévoir ce nouveau congé dans sa gestion des absences, désigner et former un référent dès 50 salariés et formaliser sa procédure de signalement et d'enquête interne. Il peut déjà revoir son document unique sur ce risque.",
+      "etapes": [
+        {
+          "date": "2026-08-11",
+          "detail": "Déposée à l'Assemblée nationale (n° 3106), procédure accélérée engagée le 25 septembre 2026, examen par une commission spéciale",
+          "fait": true,
+          "libelle": "Dépôt au Parlement"
+        },
+        {
+          "date": "2026-10-13",
+          "detail": "Adoptée en première lecture par l'Assemblée nationale le 13 octobre 2026 (503 voix pour, aucune contre), examen au Sénat à venir",
+          "fait": false,
+          "libelle": "Examen et adoption"
+        },
+        {
+          "detail": "Après adoption définitive par le Parlement",
+          "fait": false,
+          "libelle": "Promulgation"
+        }
+      ],
+      "source": "Assemblée nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/apporter_reponse_integrale_phenomene_violences_sexuelles_sexistes_contre_femmes_enfants_17e",
+      "ajoute": "2026-10-20"
+    },
+    {
+      "id": "ppl-titre-restaurant",
+      "date": "2026-10-13",
+      "dateTexte": "2026-06-09",
+      "type": "Proposition de loi",
+      "theme": "Rémunération et protection sociale",
+      "sujet": "Réforme du titre-restaurant",
+      "accroche": "Titre 100 % dématérialisé et utilisable tous les jours à partir de 2028",
+      "titre": "Proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant",
+      "resume": "Adoptée en première lecture par l'Assemblée nationale, la proposition de loi rend le **titre-restaurant entièrement dématérialisé**, pérennise son usage pour les **produits alimentaires à préparer** et interdit les **remises consenties aux employeurs** par les émetteurs.",
+      "points": [
+        "Titre-restaurant défini comme un **titre spécial de paiement dématérialisé**, utilisable pour des repas ou des produits permettant de les préparer, **tous les jours y compris le dimanche et les jours fériés**",
+        "**Interdiction des rabais** faisant passer le prix d'achat des titres sous leur **valeur faciale** pour l'employeur, sous peine d'amende pour l'émetteur",
+        "Durée d'utilisation de **3 ans**, contre-valeur des titres périmés versée au **budget des activités sociales et culturelles** et possibilité pour les salariés de donner leurs titres à des associations d'aide alimentaire",
+        "Attribution **maintenue pendant les congés de maternité, paternité, adoption et de naissance supplémentaire** (article ajouté)",
+        "Entrée en vigueur au **1er janvier 2028**, la dérogation actuelle d'usage étant prolongée d'un an jusqu'en 2027"
+      ],
+      "application": "Texte en cours d'examen au Sénat, entrée en vigueur prévue au 1er janvier 2028 pour les titres émis à partir de 2028 si le texte est adopté en l'état.",
+      "impact": "L'employeur devra anticiper la fin des titres papier, la renégociation de ses contrats avec l'émetteur (fin des tarifs remisés, avenants possibles) et le maintien des titres pendant les congés liés à la naissance ou à l'adoption.",
+      "etapes": [
+        {
+          "date": "2026-06-09",
+          "detail": "Déposée à l'Assemblée nationale (n° 2892), procédure accélérée engagée le 28 septembre 2026",
+          "fait": true,
+          "libelle": "Dépôt au Parlement"
+        },
+        {
+          "date": "2026-10-12",
+          "detail": "Adoptée en première lecture par l'Assemblée nationale le 12 octobre 2026 (T.A. n° 352), transmise au Sénat le 13 octobre 2026 (n° 32), examen au Sénat à venir",
+          "fait": false,
+          "libelle": "Examen et adoption"
+        },
+        {
+          "detail": "Après adoption définitive par le Parlement",
+          "fait": false,
+          "libelle": "Promulgation"
+        }
+      ],
+      "source": "Assemblée nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_fonctionnement_titre_restaurant_17e",
+      "ajoute": "2026-10-20"
     },
     {
       "id": "arrete-2026-10-08-d3s-hors-classe",
@@ -33,8 +159,19 @@
       "dateTexte": "2026-10-08",
       "type": "Arrêté",
       "theme": "RH et fonction publique",
+      "sujet": "D3S - échelon fonctionnel",
+      "accroche": "Mise à jour des directions ouvrant la hors-classe fonctionnelle",
       "titre": "Arrêté du 8 octobre 2026 fixant la liste des établissements mentionnés aux 3°, 5° et 6° de l'article L. 5 du code général de la fonction publique dont la direction permet l'accès à l'échelon fonctionnel de la hors-classe du corps des directeurs des établissements sanitaires, sociaux et médico-sociaux de la fonction publique hospitalière",
-      "resume": "Met à jour, par département, la liste des établissements (EHPAD, établissements sociaux et médico-sociaux, directions communes) dont la direction ouvre l'accès à l'échelon fonctionnel de la hors-classe des D3S.",
+      "resume": "Met à jour, par département, la liste des établissements (EHPAD, établissements sociaux et médico-sociaux, directions communes) dont la direction ouvre l'accès à l'**échelon fonctionnel de la hors-classe des D3S**, et remplace l'arrêté du 19 novembre 2025.",
+      "points": [
+        "Pris en application du dernier alinéa de l'**article 24 du décret n° 2007-1930 du 26 décembre 2007** (statut des D3S)",
+        "Liste de **plus de 250 directions ou directions communes**, réparties dans **plus de 80 départements**, y compris en outre-mer",
+        "Les **montants de référence de la prime de fonctions et de résultats** prévus pour l'échelon fonctionnel s'appliquent au **régime indemnitaire 2026** des directeurs concernés",
+        "Liste **révisable à tout moment**",
+        "**Abroge l'arrêté du 19 novembre 2025** ayant le même objet"
+      ],
+      "application": "Applicable depuis la publication au JO du 10 octobre 2026, aux D3S hors classe dirigeant les établissements listés.",
+      "impact": "Les établissements publics concernés doivent vérifier leur inscription sur la liste, qui conditionne l'accès de leur directeur à l'échelon fonctionnel et le niveau de sa prime de fonctions et de résultats pour 2026.",
       "source": "Journal officiel (données DILA)",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969574",
       "ajoute": "2026-10-20"
@@ -45,20 +182,65 @@
       "dateTexte": "2026-10-08",
       "type": "Arrêté",
       "theme": "RH et fonction publique",
+      "sujet": "D3S - classe normale",
+      "accroche": "Liste des établissements réservés à un directeur de classe normale",
       "titre": "Arrêté du 8 octobre 2026 fixant la liste des établissements dirigés par un directeur de classe normale (D3S)",
-      "resume": "Fixe la liste des établissements de la fonction publique hospitalière (art. L. 5, 3° à 6° du CGFP) dirigés par un directeur d'établissement sanitaire, social et médico-social de classe normale.",
+      "resume": "Fixe la liste des établissements de la fonction publique hospitalière (art. L. 5, 3° à 6° du CGFP) dont la direction ne peut être occupée **que par un D3S de classe normale**. La liste ne compte plus qu'**un seul établissement** et remplace l'arrêté du 19 novembre 2025.",
+      "points": [
+        "Pris en application de l'**article 3 du décret n° 2007-1930 du 26 décembre 2007** (statut des D3S)",
+        "Seul un directeur relevant de la **classe normale** peut diriger les établissements listés",
+        "La liste ne comprend qu'**un établissement**, un EHPAD",
+        "Liste **révisable à tout moment** et par période maximale de **trois ans**",
+        "**Abroge l'arrêté du 19 novembre 2025** ayant le même objet"
+      ],
+      "application": "Applicable depuis la publication au JO du 10 octobre 2026, pour les établissements publics sociaux et médico-sociaux et les directeurs D3S.",
+      "impact": "Texte statutaire à portée restreinte, utile aux établissements publics et aux D3S pour vérifier le niveau de grade requis lors d'un recrutement ou d'une mobilité sur un poste de direction.",
       "source": "Légifrance (JORF n° 237)",
       "url": "https://www.legifrance.gouv.fr/eli/arrete/2026/10/8/SFHH2626791A/jo/texte",
       "ajoute": "2026-10-19"
+    },
+    {
+      "id": "cass-soc-2026-10-07-25-10664",
+      "date": "2026-10-07",
+      "dateTexte": "2026-10-07",
+      "type": "Jurisprudence",
+      "theme": "Dialogue social et salariés protégés",
+      "sujet": "Enregistrement des réunions du CSE",
+      "accroche": "L'employeur ne peut pas enregistrer pour contrôler le procès-verbal",
+      "titre": "Cour de cassation, civile, Chambre sociale, 7 octobre 2026, 25-10.664, Publié au bulletin",
+      "resume": "L'enregistrement des séances du **CSE** a pour **seule finalité** la rédaction du **procès-verbal** par le secrétaire. L'employeur qui enregistre les réunions pour contrôler la fidélité des PV ou se constituer des preuves ne poursuit pas d'**intérêt légitime au sens du RGPD** et commet un **trouble manifestement illicite**.",
+      "points": [
+        "Les articles **L. 2315-34 et D. 2315-27** du code du travail rattachent l'enregistrement des séances à l'établissement du **procès-verbal**",
+        "Enregistrer pour vérifier les PV, retracer les débats ou **se constituer des preuves** n'est pas un intérêt légitime (article **6.1 f du RGPD**)",
+        "Les enregistrements audio sont des **données personnelles** dès lors que les participants sont identifiables",
+        "L'interdiction sous **astreinte** prononcée en référé et confirmée en appel est approuvée, y compris pour les réunions de la **commission santé, sécurité et conditions de travail**"
+      ],
+      "application": "Arrêt publié au bulletin, applicable à tous les employeurs dotés d'un CSE et, le cas échéant, d'une CSSCT.",
+      "impact": "La direction ne doit pas enregistrer de sa propre initiative les réunions du CSE ou de la CSSCT. En cas de désaccord sur un procès-verbal, elle doit passer par les observations sur le PV ou le règlement intérieur du CSE plutôt que par un enregistrement unilatéral.",
+      "reference": "Cass. soc. 7 octobre 2026, n° 25-10.664",
+      "source": "Cour de cassation",
+      "url": "https://www.courdecassation.fr/decision/6ac6079ec27382d099f5a06e",
+      "ajoute": "2026-10-20"
     },
     {
       "id": "arrete-2026-09-23-ccn-bad",
       "date": "2026-10-03",
       "dateTexte": "2026-09-23",
       "type": "Arrêté",
-      "theme": "Domicile",
+      "theme": "Rémunération et protection sociale",
+      "sujet": "CCN BAD - extension d'avenants",
+      "accroche": "Nouvelle classification des emplois obligatoire dans toute la branche",
       "titre": "Arrêté du 23 septembre 2026 portant extension d'avenants à la convention collective nationale de la branche de l'aide, de l'accompagnement, des soins et des services à domicile (n° 2941)",
-      "resume": "Rend obligatoires pour tous les employeurs et salariés de la branche de l'aide à domicile (CCN BAD) les avenants n° 67/2024 du 28 novembre 2024 et n° 74/2026 du 22 janvier 2026, à compter de la publication au JO.",
+      "resume": "Rend obligatoires pour **tous les employeurs et salariés de la branche de l'aide à domicile (CCN BAD, IDCC 2941)** les avenants **n° 67/2024** du 28 novembre 2024 et **n° 74/2026** du 22 janvier 2026, ce dernier refondant le **tableau de classification des emplois**, à compter de la publication au JO du 3 octobre 2026.",
+      "points": [
+        "Extension des **avenants n° 67/2024** (modification de la convention collective) et **n° 74/2026** (classification des emplois)",
+        "L'avenant 74/2026 **remplace le tableau de positionnement des emplois** par filière (intervention, support) et par catégorie, intègre le **responsable de la coordination aide et soins** et la classification de l'aide-soignant",
+        "Le classement conventionnel constitue **un minimum** : le salarié dont le classement contractuel est plus favorable **le conserve**",
+        "Mise à jour des **éléments complémentaires de rémunération (ECR) des cadres** (Complexité et Responsabilité pour le responsable de la coordination aide et soins)",
+        "Effet **à compter du 3 octobre 2026** pour les employeurs non adhérents à une organisation signataire"
+      ],
+      "application": "Depuis le 3 octobre 2026, date de publication de l'arrêté au JO, pour tous les employeurs entrant dans le champ de la CCN BAD, y compris non adhérents à une organisation signataire.",
+      "impact": "Les employeurs de la branche non adhérents doivent revoir le positionnement de leurs salariés dans la nouvelle grille et les ECR des cadres, sans pouvoir réduire un classement contractuel plus favorable. Les fiches de poste et la paie sont à mettre à jour.",
       "source": "Journal officiel (données DILA)",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054945998",
       "ajoute": "2026-10-20"
@@ -78,6 +260,8 @@
         "Expérimentation de **fusion des sections soins et dépendance** prolongée jusqu'à fin 2027 (art. 38)",
         "**Recentrage du barème de l'APA** sur les bénéficiaires les plus modestes (art. 48)"
       ],
+      "application": "Mesures applicables pour l'essentiel à compter de 2027 après adoption définitive et promulgation de la loi, l'expérimentation de fusion des sections étant prolongée jusqu'à fin 2027.",
+      "impact": "Les EHPAD et services autonomie à domicile doivent anticiper une progression limitée de l'objectif de dépenses médico-social (+2,6 % à champ constant) et un futur intéressement lié à des objectifs de santé publique, comme la réduction des chutes.",
       "etapes": [
         {
           "date": "2026-10-01",
@@ -101,13 +285,46 @@
       "ajoute": "2026-10-19"
     },
     {
+      "id": "decret-2026-909",
+      "date": "2026-10-01",
+      "dateTexte": "2026-09-30",
+      "type": "Décret",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "AT/MP",
+      "accroche": "Abaissement du plafond des indemnités journalières à 1,8 Smic",
+      "titre": "Décret n° 2026-909 du 30 septembre 2026 fixant la limite maximale de la rémunération annuelle servant de base au calcul des indemnités journalières dues au titre d'arrêts de travail résultant d'un accident du travail ou d'une maladie professionnelle et relatif à la procédure de fixation de la participation des assurés",
+      "resume": "Le salaire servant au calcul des **indemnités journalières AT/MP** est plafonné à **0,226 % du PASS**, soit environ **1,8 Smic**, contre 0,834 % auparavant. Le **complément employeur** augmente lorsqu'un maintien de salaire s'applique.",
+      "points": [
+        "Modification de l'article **R. 433-2 du code de la sécurité sociale**",
+        "Gain journalier de base plafonné à **108,62 €** (contre 400,82 €)",
+        "IJ maximale de **65,17 €** par jour les 28 premiers jours (60 %) et **86,90 €** à partir du 29e jour (80 %)",
+        "Concerne les accidents du travail, accidents de trajet et maladies professionnelles **survenus à compter du 1er novembre 2026**"
+      ],
+      "application": "Indemnités journalières versées au titre d'accidents du travail ou de maladies professionnelles survenus à compter du 1er novembre 2026.",
+      "impact": "Pour les salariés rémunérés au-delà de 1,8 Smic, le coût du maintien de salaire à la charge de l'employeur (ou de son régime de prévoyance) augmente : il convient de chiffrer l'impact et d'informer l'organisme de prévoyance.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054930447",
+      "ajoute": "2026-10-20"
+    },
+    {
       "id": "instruction-2026-129",
       "date": "2026-09-28",
       "dateTexte": "2026-09-24",
       "type": "Instruction / circulaire",
       "theme": "Financement",
+      "sujet": "Fongibilité des crédits",
+      "accroche": "Les crédits médico-sociaux ne peuvent pas quitter le secteur",
       "titre": "Instruction n° DGOS/FIP1/2026/129 du 24 septembre 2026 relative aux opérations de fongibilité et transferts pris en compte pour la détermination des objectifs de dépenses sanitaires et médico-sociaux",
-      "resume": "Fixe les règles de transfert de crédits entre enveloppes sanitaires et médico-sociales lors de conversions d'activité. Les crédits médico-sociaux (OGD, OSMS, FIR médico-social) ne peuvent pas être basculés vers d'autres secteurs.",
+      "resume": "Fixe les règles de **transfert de crédits** entre enveloppes sanitaires et médico-sociales lors de **conversions d'activité**. Les crédits médico-sociaux (**OGD, OSMS, FIR médico-social**) ne peuvent pas être basculés vers d'autres secteurs.",
+      "points": [
+        "Transferts possibles lors de la **transformation ou fermeture d'une activité**, dans une même structure ou entre structures d'une même région",
+        "Montant transféré **plafonné au montant libéré** sur l'enveloppe d'origine, en base et pour des besoins pérennes",
+        "Exemple de clé : conversion de lits de psychiatrie en **MAS** imputée à 85 % sur la dotation populationnelle et 15 % sur la file active",
+        "Opérations remontées par les ARS **avant le 15 septembre de l'année N** pour l'année N+1, par exception jusqu'au **31 octobre 2026** pour 2027",
+        "Abroge l'instruction du 21 décembre 2018"
+      ],
+      "application": "Applicable aux nouvelles opérations mises en oeuvre à compter du 1er janvier 2027, les opérations déjà validées sous l'instruction de 2018 n'étant pas réexaminées.",
+      "impact": "Un projet de reconversion de lits sanitaires en places médico-sociales peut être financé par transfert de crédits, à condition d'être signalé par l'ARS dans les délais : sinon il doit être financé sur les marges régionales.",
       "source": "Bulletin officiel Santé - Protection sociale - Solidarité",
       "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-dgosfip12026129-du-24-septembre-2026-relative-aux-operations-de-fongibilite-et-transferts-pris-en-compte-pour-la-determination-des-objectifs-de-depenses-sanitaires-et-medico-sociaux",
       "ajoute": "2026-10-19"
@@ -135,13 +352,48 @@
       "ajoute": "2026-10-19"
     },
     {
+      "id": "cass-soc-2026-09-09-25-11901",
+      "date": "2026-09-09",
+      "dateTexte": "2026-09-09",
+      "type": "Jurisprudence",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "Préconisations du médecin du travail",
+      "accroche": "Leur non-respect ouvre droit à réparation sans preuve d'un préjudice",
+      "titre": "Cour de cassation, civile, Chambre sociale, 9 septembre 2026, 25-11.901, Publié au bulletin",
+      "resume": "Revirement : le **seul constat du non-respect** par l'employeur des **préconisations du médecin du travail** portant sur des aménagements individuels du poste ouvre droit à **réparation**, sans que le salarié ait à prouver un **préjudice distinct**.",
+      "points": [
+        "Arrêt rendu en formation plénière de chambre (**FP-B+R**), publié au bulletin et au rapport",
+        "Le non-respect des mesures individuelles (adaptation, aménagement ou transformation du poste) porte **en lui-même atteinte à la santé et à la sécurité** du salarié",
+        "Le salarié n'a **plus à démontrer un préjudice** : la Cour abandonne sa jurisprudence du 9 décembre 2020 (n° 19-13.470) sur ce point",
+        "Fondement : articles **L. 4121-1, L. 4121-2, L. 4121-4 et L. 4624-6** du code du travail, lus à la lumière de la directive 89/391/CEE",
+        "**Cassation partielle** de l'arrêt qui avait débouté la salariée de sa demande de dommages et intérêts pour manquement à l'obligation de sécurité"
+      ],
+      "application": "Arrêt publié au bulletin et au rapport, applicable à tout salarié faisant l'objet d'un avis du médecin du travail préconisant des aménagements de poste.",
+      "impact": "Dans des métiers à forte exposition physique (soins, aide à domicile, accompagnement), chaque préconisation du médecin du travail doit être mise en oeuvre et tracée, ou le refus motivé par écrit. Tout écart non justifié expose désormais l'employeur à des dommages et intérêts quasi automatiques.",
+      "reference": "Cass. soc. 9 septembre 2026, n° 25-11.901",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000054929246",
+      "ajoute": "2026-10-20"
+    },
+    {
       "id": "instruction-2026-125",
       "date": "2026-09-04",
       "dateTexte": "2026-09-01",
       "type": "Instruction / circulaire",
       "theme": "Qualité et droits des usagers",
+      "sujet": "MJPM - formation continue",
+      "accroche": "14 heures de formation par an à partir du 1er janvier 2027",
       "titre": "Instruction n° DGCS/SD2A/2026/125 du 1er septembre 2026 relative à la mise en œuvre de la formation continue obligatoire (FCO) des mandataires judiciaires à la protection des majeurs (MJPM)",
-      "resume": "Précise la formation continue obligatoire des MJPM et des cadres des services mandataires, en vigueur au 1er janvier 2027, et le contrôle confié aux DDETS. Les services MJPM doivent planifier ces formations dès maintenant.",
+      "resume": "Précise la **formation continue obligatoire** des **mandataires judiciaires à la protection des majeurs** et de leurs encadrants directs, en vigueur au **1er janvier 2027**, et son contrôle par les **DDETS**. Les services MJPM doivent planifier ces formations dès maintenant.",
+      "points": [
+        "Durée : **14 heures par an** ou **28 heures sur deux années consécutives**, fractionnables",
+        "Publics : MJPM inscrits sur la liste départementale et, dans les services, les délégués exerçant les mesures et leurs **encadrants directs**",
+        "Organismes éligibles : formations certifiantes, organismes **Qualiopi** ou universités, organismes de la liste nationale (arrêté du 6 février 2026) ou d'une liste régionale",
+        "**Justificatifs annuels** transmis à la DDETS par le MJPM ou son employeur (identité, dates, nombre d'heures, intitulé, prestataire)",
+        "Financement mobilisable via les **OPCO**, l'ANFH ou le FIF-PL"
+      ],
+      "application": "À compter du 1er janvier 2027 pour les professionnels déjà agréés ou recrutés à cette date, et à compter du 1er janvier suivant l'agrément ou le recrutement pour les autres.",
+      "impact": "Les services mandataires doivent intégrer ces 14 heures annuelles par délégué et encadrant direct dans leur plan de développement des compétences 2027 et organiser la collecte des attestations à transmettre chaque année à la DDETS.",
       "source": "Bulletin officiel Santé - Protection sociale - Solidarité",
       "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-dgcssd2a2026125-du-1er-septembre-2026-relative-la-mise-en-oeuvre-de-la-formation-continue-obligatoire-fco-des-mandataires-judiciaires-la-protection-des-majeurs-mjpm",
       "ajoute": "2026-10-19"
@@ -152,8 +404,19 @@
       "dateTexte": "2026-08-31",
       "type": "Instruction / circulaire",
       "theme": "Enfance et famille",
+      "sujet": "Schémas services aux familles",
+      "accroche": "Renouvellement des comités et des schémas départementaux après les municipales 2026",
       "titre": "Instruction n° DGCS/SD2C/2026/127 du 31 août 2026 relative aux comités et schémas départementaux des services aux familles",
-      "resume": "Organise l'animation des comités départementaux des services aux familles (CDSF) et le renouvellement des schémas départementaux des services aux familles (SDSF).",
+      "resume": "Organise l'animation des **comités départementaux des services aux familles (CDSF)** et le renouvellement des **schémas départementaux (SDSF)**, avec des orientations nationales sur le **soutien à la parentalité** et l'**accueil du jeune enfant**. Elle remplace la circulaire de 2022.",
+      "points": [
+        "Renouvellement des membres des CDSF **tous les six ans**, notamment après les élections municipales et communautaires de 2026",
+        "Adoption du nouveau SDSF dans les **douze mois** suivant le renouvellement du comité, pour **six ans**",
+        "Orientations nationales : **maillage de l'offre de parentalité**, accès aux services en cas de rupture familiale, **diversification des modes d'accueil** et **attractivité des métiers de la petite enfance**",
+        "Une **sous-commission** dédiée à chacune de ces deux thématiques dans chaque schéma",
+        "Comité présidé par le **préfet**, secrétariat assuré par la **CAF**"
+      ],
+      "application": "Applicable aux schémas départementaux renouvelés en 2026 et 2027, sous l'égide des préfets et des CAF.",
+      "impact": "Les gestionnaires d'établissements d'accueil du jeune enfant et de services de soutien à la parentalité ont intérêt à participer aux travaux des sous-commissions, qui orienteront les besoins identifiés et les financements du territoire pour six ans.",
       "source": "Bulletins officiels Solidarités",
       "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-dgcssd2c2026127-du-31-aout-2026-relative-lanimation-des-comites-departementaux-des-services-aux-familles-cdsf-et-au-renouvellement-des-schemas-departementaux-des-services-aux-familles-sdsf",
       "ajoute": "2026-10-19"
@@ -181,13 +444,87 @@
       "ajoute": "2026-10-20"
     },
     {
+      "id": "decret-2026-801",
+      "date": "2026-08-19",
+      "dateTexte": "2026-08-18",
+      "type": "Décret",
+      "theme": "Temps de travail et congés",
+      "sujet": "Élus municipaux - commémorations",
+      "accroche": "La liste des journées ouvrant droit à absence",
+      "titre": "Décret n° 2026-801 du 18 août 2026 pris pour l'application du 5° de l'article 15 de la loi n° 2025-1249 du 22 décembre 2025 portant création d'un statut de l'élu local",
+      "resume": "Le décret fixe la **liste des commémorations, fêtes et journées nationales** pour lesquelles un salarié **conseiller municipal** peut s'absenter afin d'y participer.",
+      "points": [
+        "Outre les fêtes légales (8 mai, 14 juillet, 11 novembre), la liste comprend notamment le **11 mars** (victimes du terrorisme), le **19 mars**, le **27 mai** (Résistance), le **18 juin**, le **25 septembre** (Harkis) et le **5 décembre**",
+        "Journées liées à l'**abolition de l'esclavage** prévues, certaines propres aux territoires ultramarins",
+        "Le salarié bénéficie du **temps nécessaire** pour se rendre à l'événement et y participer, après **information écrite** de l'employeur"
+      ],
+      "application": "En vigueur depuis le 20 août 2026, pour les salariés et agents élus municipaux.",
+      "impact": "La liste permet à l'employeur de vérifier le bien-fondé d'une demande d'absence et d'anticiper les plannings, notamment dans les services fonctionnant en continu.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054708703",
+      "ajoute": "2026-10-20"
+    },
+    {
+      "id": "decret-2026-800",
+      "date": "2026-08-19",
+      "dateTexte": "2026-08-17",
+      "type": "Décret",
+      "theme": "Temps de travail et congés",
+      "sujet": "Salariés élus municipaux",
+      "accroche": "Deux nouveaux motifs d'autorisation d'absence",
+      "titre": "Décret n° 2026-800 du 17 août 2026 pris pour l'application de l'article 15 de la loi n° 2025-1249 du 22 décembre 2025 portant création d'un statut de l'élu local",
+      "resume": "Le décret met en oeuvre les deux nouveaux motifs d'**autorisation d'absence** des salariés **conseillers municipaux** : participation aux **commémorations et fêtes nationales** et mise en oeuvre des **mesures de sûreté** prescrites par le maire en cas de danger grave ou imminent.",
+      "points": [
+        "Absence pour le **temps nécessaire** pour se rendre et participer aux fêtes légales, commémorations et journées nationales, avec **information écrite** de l'employeur dès que l'élu connaît la date et la durée",
+        "Absence pour appliquer les **mesures de sûreté du maire** (incendie, inondation, éboulement, épidémie...) : information **sans délai et par tout moyen**, confirmée par écrit sous **48 heures** au plus",
+        "Absences **non rémunérées** par l'employeur sauf disposition plus favorable, mais assimilées à du **temps de travail effectif** pour les congés payés et l'ancienneté",
+        "Dispositif étendu aux élus des **EPCI à fiscalité propre**, avec adaptation de la compensation financière par la collectivité et de la prise en charge des frais de garde"
+      ],
+      "application": "En vigueur depuis le 20 août 2026, pour les salariés et agents membres d'un conseil municipal ou d'un conseil d'EPCI à fiscalité propre.",
+      "impact": "L'employeur doit accorder ces absences sans pouvoir sanctionner ni licencier le salarié en raison de son mandat, et adapter ses procédures d'absence pour mandat électif, notamment pour les absences imprévues liées aux mesures de sûreté.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054708683",
+      "ajoute": "2026-10-20"
+    },
+    {
+      "id": "decret-2026-775",
+      "date": "2026-08-15",
+      "dateTexte": "2026-08-13",
+      "type": "Décret",
+      "theme": "Temps de travail et congés",
+      "sujet": "Dérogations durée du travail",
+      "accroche": "Délai de réponse harmonisé à 30 jours, le silence vaut accord",
+      "titre": "Décret n° 2026-775 du 13 août 2026 portant clarification de certaines procédures de dérogation à la durée du travail",
+      "resume": "Le décret harmonise à **30 jours** le délai dans lequel l'administration statue sur plusieurs **demandes de dérogation à la durée du travail**, en cohérence avec le régime du **silence valant acceptation**.",
+      "points": [
+        "**Dépassement de la durée maximale hebdomadaire** (article R. 3121-8) : décision sous **30 jours** à compter de la réception de la demande",
+        "**Horaires individualisés** sans représentants du personnel (article R. 3121-29) : délai de **30 jours** au lieu de 2 mois",
+        "**Travail de nuit des jeunes travailleurs et apprentis** (articles R. 3163-5 et R. 6222-24) : « un mois » remplacé par **30 jours**",
+        "À l'issue du délai, le **silence de l'administration vaut autorisation**"
+      ],
+      "application": "Demandes de dérogation déposées à compter du 16 août 2026, lendemain de la publication au Journal officiel.",
+      "impact": "L'employeur qui sollicite une dérogation doit déposer un dossier complet et conserver la preuve de sa date de réception, qui fait courir le délai de 30 jours au terme duquel l'accord est acquis.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054683078",
+      "ajoute": "2026-10-20"
+    },
+    {
       "id": "decret-2026-786",
       "date": "2026-08-12",
       "dateTexte": "2026-08-12",
       "type": "Décret",
       "theme": "Enfance et famille",
+      "sujet": "France enfance protégée",
+      "accroche": "4,9 millions d'euros de contribution des départements pour 2026",
       "titre": "Décret n° 2026-786 du 12 août 2026 fixant la contribution des départements au GIP « France enfance protégée » pour 2026",
-      "resume": "Fixe le montant de la contribution financière des départements au fonctionnement du groupement d'intérêt public France enfance protégée au titre de 2026.",
+      "resume": "Fixe la **contribution des départements** au fonctionnement du **GIP France enfance protégée** au titre de 2026, soit **4,9 millions d'euros** au total, répartis selon la population de chaque département.",
+      "points": [
+        "Contribution totale des départements de **4,9 millions d'euros** pour 2026",
+        "Répartition entre départements **en fonction de leur population**",
+        "Le GIP est financé **à parts égales par l'Etat et les départements**"
+      ],
+      "application": "Départements, au titre de l'exercice 2026 (décret publié au JO du 15 août 2026).",
+      "impact": "Pas d'obligation nouvelle pour les employeurs : le texte sécurise le financement du GIP qui porte notamment les outils nationaux de la protection de l'enfance utilisés par les établissements et services du secteur.",
       "source": "Légifrance",
       "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000054683460",
       "ajoute": "2026-10-19"
@@ -198,8 +535,19 @@
       "dateTexte": "2026-08-11",
       "type": "Décret",
       "theme": "Domicile",
+      "sujet": "SAD - étude nationale des coûts",
+      "accroche": "437 services volontaires pour objectiver les coûts du domicile",
       "titre": "Décret n° 2026-769 du 11 août 2026 relatif à l'étude nationale des coûts des services autonomie à domicile",
       "resume": "Crée le traitement de données de la première étude nationale des coûts des SAD (DGCS et CNSA, réalisation ATIH) auprès de 437 services volontaires : dépendance, tarifs, reste à charge, effectifs et temps d'intervention.",
+      "points": [
+        "Création d'un **traitement de données** pour une **étude nationale de coûts** des SAD, demandée par la **CNSA et la DGCS** et réalisée par l'**ATIH**",
+        "**437 SAD retenus**, soit 7 % des SAD autorisés et 17 % des heures APA et PCH",
+        "Données sur les **personnes accompagnées** (âge, GIR, prestations, tarifs, reste à charge) et sur les **intervenants** (fonction, temps de travail, activités, temps de déplacement), ainsi que la **comptabilité analytique 2025**",
+        "Calendrier : comptabilité analytique de **juillet à octobre 2026**, recueil de coupe sur **deux semaines en novembre-décembre 2026**, consolidation **jusqu'en mai 2027**",
+        "**Financement forfaitaire de 5 000 €** par service participant, sous réserve de transmission des données dans les délais"
+      ],
+      "application": "Services autonomie à domicile volontaires retenus pour l'étude, recueil de 2026 à mai 2027 et résultats attendus en 2027.",
+      "impact": "Pour les SAD participants, l'étude mobilise les équipes administratives et nécessite d'informer les salariés et les personnes accompagnées du traitement de leurs données. Ses résultats serviront de base aux futures discussions sur le financement du domicile.",
       "source": "Légifrance",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054673231",
       "ajoute": "2026-10-19"
@@ -210,8 +558,19 @@
       "dateTexte": "2026-08-08",
       "type": "Décret",
       "theme": "Personnes âgées / EHPAD",
+      "sujet": "EHPAD - indicateurs RH publics",
+      "accroche": "Taux d'encadrement, d'absentéisme et de rotation publiés par la CNSA",
       "titre": "Décret n° 2026-760 du 8 août 2026 relatif aux indicateurs transmis par les EHPAD et publiés par la CNSA",
       "resume": "Ajoute trois indicateurs RH publiés par la CNSA pour chaque EHPAD : taux d'encadrement, taux d'absentéisme et taux de rotation du personnel. Modalités de calcul fixées par un arrêté du même jour.",
+      "points": [
+        "Trois indicateurs ajoutés à l'**article D. 312-211 du CASF**, pris pour l'application de l'article L. 312-9 issu de la **loi Bien vieillir**",
+        "**Taux d'encadrement** : ETP réels de personnels médicaux, paramédicaux et socio-éducatifs **par personne accompagnée** au 31 décembre N-1",
+        "**Taux d'absentéisme** : jours calendaires d'absence **hors congés et formation**, rapportés aux ETP réels x 365, sur l'année N-1",
+        "**Taux de rotation** : moyenne des **taux d'entrée et de sortie** du personnel sur l'année N-1",
+        "Données transmises **chaque année** via le **tableau de bord de la performance (ATIH)** et publiées sur le site **pour-les-personnes-agees.gouv.fr**, modalités de calcul fixées par un **arrêté du 8 août 2026**"
+      ],
+      "application": "Tous les EHPAD, indicateurs visibles sur l'annuaire public de la CNSA depuis août 2026.",
+      "impact": "La situation RH de chaque EHPAD devient publique et comparable par les familles : fiabiliser les données saisies dans le tableau de bord de la performance et suivre l'absentéisme et le turn-over devient un enjeu d'attractivité et d'image.",
       "source": "Légifrance",
       "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000054646534",
       "ajoute": "2026-10-19"
@@ -222,8 +581,18 @@
       "dateTexte": "2026-07-21",
       "type": "Instruction / circulaire",
       "theme": "Numérique et données",
+      "sujet": "ESMS Numérique - généralisation",
+      "accroche": "Financement du dossier usager informatisé pour le handicap enfant et la protection de l'enfance",
       "titre": "Instruction n° DNS/TS/DGCS/TOPH/CNSA/DAPO/2026/91 du 21 juillet 2026 sur la généralisation du programme ESMS Numérique",
-      "resume": "Fixe les modalités de la phase de généralisation du programme ESMS Numérique (dossier usager informatisé et financements associés) pour les établissements et services.",
+      "resume": "Ouvre la phase de **généralisation du programme ESMS Numérique** : une enveloppe de **8,26 M€** finance le **dossier usager informatisé (DUI)** des ESMS handicap et protection de l'enfance non encore équipés, via des **grappes** de structures.",
+      "points": [
+        "Éligibles : ESMS **personnes handicapées** et ESSMS **protection de l'enfance** non financés par le Ségur numérique 2021-2025 et sans DUI référencé Ségur, avec **priorité aux structures accueillant des enfants**",
+        "Aide forfaitaire par structure : **14 000 €** pour le DUI et **7 000 €** pour les usages, plus jusqu'à **15 000 €** d'équipements (handicap enfant) ou **10 000 €** (protection de l'enfance, petits organismes gestionnaires)",
+        "**Mutualisation obligatoire** : rejoindre ou constituer une grappe (seuil recommandé de **9 structures** en métropole, 4 en outre-mer et en Corse)",
+        "Calendrier : candidatures auprès de l'ARS jusqu'au **15 octobre 2026**, décision ARS au plus tard le **15 novembre 2026**, notification avant le **31 décembre 2026**"
+      ],
+      "application": "D'application immédiate depuis sa publication au BO du 22 juillet 2026, pour les ESMS handicap (FINESS 4100 et 4500) et protection de l'enfance non encore équipés d'un DUI.",
+      "impact": "Les organismes gestionnaires non encore équipés devaient se rattacher à une grappe et déposer leur demande avant le 15 octobre 2026 : passé ce délai, la demande est irrecevable et le financement de l'équipement en DUI reste à leur charge.",
       "source": "Bulletins officiels Solidarités",
       "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-dnstsdgcstophcnsadapo202691-du-21-juillet-2026-relative-la-mise-en-oeuvre-de-la-phase-de-generalisation-du-programme-esms-numerique",
       "ajoute": "2026-10-19"
@@ -234,8 +603,19 @@
       "dateTexte": "2026-07-09",
       "type": "Instruction / circulaire",
       "theme": "Financement",
+      "sujet": "PAI personnes âgées 2026",
+      "accroche": "Des aides à l'investissement centrées sur la qualité et la transformation des EHPAD",
       "titre": "Instruction n° DGCS/SD5/CNSA/DAPO/2026/96 du 9 juillet 2026 relative au Plan d'aide à l'investissement 2026",
-      "resume": "Précise la mise en oeuvre du Plan d'aide à l'investissement (PAI) 2026 des établissements et services pour personnes âgées.",
+      "resume": "Précise la mise en oeuvre du **Plan d'aide à l'investissement (PAI) 2026** des établissements et services pour personnes âgées : critères d'éligibilité fondés sur la **qualité** et les **piliers du Ségur**, taux d'aide et calendrier de sélection des projets par les ARS.",
+      "points": [
+        "Projets éligibles sur **cinq critères** : qualité fonctionnelle et architecturale, adéquation territoriale, ouverture sur l'extérieur, **soutenabilité financière**, prévention des risques professionnels (objectif **zéro port de charge**)",
+        "Les **mises aux normes seules** ne sont pas finançables",
+        "Taux d'aide maximal de **60 % pour les travaux** et **80 % pour les prestations intellectuelles**, avec un seuil plancher de **800 000 € HT** pour les travaux",
+        "Bonification facultative du taux d'aide selon la maturité du projet, et financement possible d'études pour l'**habitat intermédiaire** et l'**assistance à maîtrise d'usage**",
+        "Sélection des projets par les ARS au plus tard le **15 novembre 2026** et décision de la CNSA avant le **31 décembre 2026**"
+      ],
+      "application": "D'application immédiate depuis sa publication au BO du 10 juillet 2026, pour les projets d'investissement des EHPAD et autres établissements pour personnes âgées.",
+      "impact": "Un employeur porteur d'un projet de rénovation ou de construction doit présenter un projet transformant, financièrement soutenable et intégrant la prévention des troubles musculosquelettiques, la simple mise aux normes n'étant plus aidée.",
       "source": "Bulletins officiels Solidarités",
       "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-dgcssd5cnsadapo202696-du-9-juillet-2026-relative-la-mise-en-oeuvre-du-plan-daide-linvestissement-pai-des-etablissements-et-services-pour-personnes-agees-en-2026",
       "ajoute": "2026-10-19"
@@ -246,11 +626,91 @@
       "dateTexte": "2026-07-03",
       "type": "Décret",
       "theme": "Personnes âgées / EHPAD",
+      "sujet": "Registre communal des vulnérables",
+      "accroche": "Un registre utilisé toute l'année, alimenté par l'APA et la PCH",
       "titre": "Décret n° 2026-590 du 3 juillet 2026 relatif au registre communal des personnes vulnérables",
-      "resume": "Pris en application de la loi Bien vieillir, élargit les finalités du registre communal des personnes vulnérables et précise le cadre du traitement des données.",
+      "resume": "Pris en application de la **loi Bien vieillir** du 8 avril 2024, le décret élargit les finalités du **registre communal des personnes vulnérables** (contacts périodiques, lutte contre l'isolement et le non-recours) et organise son **alimentation par les départements et les caisses de retraite**.",
+      "points": [
+        "Registre utilisé **tout au long de l'année** et plus seulement lors du **plan d'alerte et d'urgence** (canicule)",
+        "Finalités : **contacts périodiques**, **lutte contre l'isolement**, repérage des pertes d'autonomie, information sur les dispositifs et **lutte contre le non-recours**",
+        "Transmission aux maires, **une fois par an**, des bénéficiaires de l'**APA à domicile**, de la **PCH** et de certaines aides des caisses de retraite, avec **droit d'opposition** des personnes",
+        "Accès réservé au maire et aux **agents désignés et habilités** (commune, CCAS/CIAS), tenus au **secret professionnel**, et communication possible à certains **ESSMS** dans des limites fixées",
+        "**Réutilisation interdite** à des fins électorales ou commerciales"
+      ],
+      "application": "Décret publié au JO du 4 juillet 2026, pour les communes, CCAS/CIAS, départements et caisses de retraite.",
+      "impact": "Les SAD, établissements et services sociaux et médico-sociaux peuvent être destinataires de certaines données du registre pour leurs missions : ils doivent en encadrer l'usage (confidentialité, finalités limitées) et peuvent s'appuyer sur le dispositif pour le repérage des personnes isolées.",
       "source": "Légifrance",
       "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000054386844/",
       "ajoute": "2026-10-19"
+    },
+    {
+      "id": "cass-soc-2026-07-01-25-14861",
+      "date": "2026-07-01",
+      "dateTexte": "2026-07-01",
+      "type": "Jurisprudence",
+      "theme": "Contrat de travail et rupture",
+      "sujet": "Indemnité de rupture conventionnelle",
+      "accroche": "Le plancher peut résulter d'un accord d'entreprise plus favorable",
+      "titre": "Cour de cassation, civile, Chambre sociale, 1 juillet 2026, 25-14.861, Inédit",
+      "resume": "Lorsque l'employeur relève de l'**ANI du 11 janvier 2008**, l'**indemnité de rupture conventionnelle** ne peut être inférieure à l'indemnité de licenciement prévue par un **accord d'entreprise** plus favorable que la convention de branche, dès lors que les deux indemnités ont le **même objet**.",
+      "points": [
+        "L'article 12 de l'**ANI du 11 janvier 2008** impose une indemnité de rupture conventionnelle au moins égale à l'**indemnité conventionnelle de licenciement**",
+        "L'accord d'entreprise prévoyant une indemnité de départ plus favorable **prévaut** sur l'accord de branche ayant le même objet (article **L. 2253-3** du code du travail)",
+        "Peu importe la **dénomination** de l'indemnité dans l'accord d'entreprise (ici une « indemnité de congédiement ») si elle a le même objet",
+        "La Cour de cassation **rejette le pourvoi** de l'employeur condamné à verser le **complément d'indemnité**"
+      ],
+      "application": "Arrêt inédit, concernant les employeurs relevant de l'ANI du 11 janvier 2008 qui appliquent un accord d'entreprise prévoyant une indemnité de licenciement ou de départ.",
+      "impact": "Avant de signer une rupture conventionnelle, l'employeur doit vérifier si un accord d'entreprise ou d'établissement prévoit une indemnité de départ plus favorable que la convention collective. A défaut, il s'expose à un rappel d'indemnité devant le conseil de prud'hommes.",
+      "reference": "Cass. soc. 1er juillet 2026, n° 25-14.861",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000054422615",
+      "ajoute": "2026-10-20"
+    },
+    {
+      "id": "loi-2026-534",
+      "date": "2026-06-26",
+      "dateTexte": "2026-06-25",
+      "type": "Loi",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "Fraude sociale - mesures employeur",
+      "accroche": "Amende administrative en l'absence de document unique",
+      "titre": "LOI n° 2026-534 du 25 juin 2026 relative à la lutte contre les fraudes sociales et fiscales",
+      "resume": "La loi crée une **amende administrative** en cas d'**absence de document unique d'évaluation des risques (DUERP)** et renforce le contrôle des **arrêts de travail**, avec de nouvelles possibilités pour l'employeur en cas de **fraude avérée** aux indemnités journalières.",
+      "points": [
+        "Absence de DUERP : avertissement ou **amende administrative de 4 000 € par salarié concerné** prononcée par l'inspection du travail (articles **L. 8115-1 et L. 8115-3 du code du travail**)",
+        "Amende portée à **6 000 €** après un avertissement de moins d'un an et à **8 000 €** après une amende de moins de deux ans",
+        "En cas de **fraude avérée aux IJ**, la caisse peut transmettre les éléments à l'employeur, qui n'est plus tenu au **maintien de salaire**",
+        "Suspension des IJ notifiée par la caisse : l'employeur doit en informer l'**organisme de prévoyance**",
+        "Arrêt prescrit en **télémédecine** renouvelable une seule fois, sauf par le médecin traitant ou la sage-femme référente"
+      ],
+      "application": "Dispositions applicables depuis le 27 juin 2026, sauf mesures renvoyant à un décret d'application ou à entrée en vigueur différée.",
+      "impact": "Tout employeur doit s'assurer de disposer d'un DUERP formalisé et à jour, sous peine d'une amende par salarié lors d'un contrôle, et adapter ses procédures de maintien de salaire en lien avec la prévoyance en cas de suspension des IJ.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054309429",
+      "ajoute": "2026-10-20"
+    },
+    {
+      "id": "cass-soc-2026-06-17-25-12181",
+      "date": "2026-06-17",
+      "dateTexte": "2026-06-17",
+      "type": "Jurisprudence",
+      "theme": "Contrat de travail et rupture",
+      "sujet": "Arrêt maladie et rupture conventionnelle",
+      "accroche": "Proposer une rupture conventionnelle n'est pas en soi discriminatoire",
+      "titre": "Cour de cassation, civile, Chambre sociale, 17 juin 2026, 25-12.181, Publié au bulletin",
+      "resume": "Proposer, même à plusieurs reprises, une **rupture conventionnelle** à un salarié en **arrêt maladie** ne constitue pas, en soi, un élément laissant supposer une **discrimination liée à l'état de santé**. La Cour de cassation censure les juges qui avaient annulé pour ce seul motif le licenciement prononcé ensuite pour absence prolongée.",
+      "points": [
+        "La proposition de rupture conventionnelle pendant un arrêt maladie **ne constitue pas, en soi, un élément matériel** laissant supposer une discrimination",
+        "Le fait de **renouveler la proposition** ne suffit pas non plus à faire présumer une discrimination",
+        "Dans l'affaire, le salarié avait ensuite été **licencié pour absence prolongée perturbant le fonctionnement** de l'entreprise, licenciement jugé nul par la cour d'appel puis censuré",
+        "La rupture conventionnelle conclue pendant une suspension du contrat reste contestable en cas de **fraude ou de vice du consentement** (pressions)"
+      ],
+      "application": "Arrêt publié au bulletin, applicable à tout employeur de droit privé, notamment pour les salariés en arrêt maladie de longue durée.",
+      "impact": "L'employeur peut évoquer une rupture conventionnelle avec un salarié en arrêt maladie sans que cela suffise à caractériser une discrimination, à condition de ne pas exercer de pression. En cas de licenciement ultérieur pour absence prolongée, il doit toujours prouver la perturbation du fonctionnement et le remplacement définitif.",
+      "reference": "Cass. soc. 17 juin 2026, n° 25-12.181",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000054293643",
+      "ajoute": "2026-10-20"
     },
     {
       "id": "instruction-2026-80",
@@ -258,11 +718,113 @@
       "dateTexte": "2026-06-16",
       "type": "Instruction / circulaire",
       "theme": "Financement",
+      "sujet": "Campagne budgétaire ESMS 2026",
+      "accroche": "Taux d'actualisation de 0,92 % (PA) et 0,95 % (PH)",
       "titre": "Instruction n° DGCS/SD5B/DSS/SD1A/CNSA/DFO/2026/80 du 16 juin 2026 relative à la campagne budgétaire 2026 des ESMS PA/PH",
-      "resume": "Fixe les orientations de la campagne budgétaire 2026 des établissements et services médico-sociaux accueillant des personnes âgées et des personnes en situation de handicap.",
+      "resume": "Fixe les orientations de la **campagne budgétaire 2026** des établissements et services médico-sociaux pour personnes âgées et personnes handicapées : **taux d'actualisation**, mesures nouvelles et priorités de tarification des ARS.",
+      "points": [
+        "**Taux d'actualisation** des dotations : **+0,92 %** pour les personnes âgées et **+0,95 %** pour les personnes handicapées",
+        "Progression de l'OGD ESMS de **+2,9 %** (PA +3,2 %, PH +2,5 %), avec une **mise en réserve de 215 M€**",
+        "Compensation de la **hausse de 3 points de la cotisation CNRACL** au 1er janvier 2026 (95,3 M€) et financement des **avenants de la branche de l'aide à domicile** (28,9 M€)",
+        "PA : **330 M€** pour l'extension de la fusion des sections soins et dépendance, 124,6 M€ de médicalisation, fonds de soutien aux EHPAD en difficulté de **140 M€**",
+        "PH : 174,8 M€ de crédits pour le **plan 50 000 solutions**, dont 56,4 M€ pour les pôles d'appui à la scolarité, et réforme **Serafin-PH** au 1er janvier 2027 pour les structures enfants"
+      ],
+      "application": "Applicable à l'exercice 2026 pour l'ensemble des ESMS PA et PH financés par l'assurance maladie (tarification par les ARS).",
+      "impact": "Les employeurs doivent construire leurs EPRD et budgets 2026 sur un taux d'actualisation inférieur à 1 %, très en deçà de l'évolution réelle des charges salariales et de l'inflation, et préparer la bascule Serafin-PH pour les structures enfants au 1er janvier 2027.",
       "source": "Bulletins officiels Solidarités",
       "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-dgcssd5bdsssd1acnsadfo202680-du-16-juin-2026-relative-aux-orientations-de-la-campagne-budgetaire-des-etablissements-et-services-medico-sociaux-accueillant-des-personnes-en-situation-de-handicap-et-des-personnes-agees-pour-lexercice",
       "ajoute": "2026-10-19"
+    },
+    {
+      "id": "decret-2026-503",
+      "date": "2026-06-14",
+      "dateTexte": "2026-06-12",
+      "type": "Décret",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "Visite de reprise",
+      "accroche": "Dispense de visite de reprise après une visite de préreprise",
+      "titre": "Décret n° 2026-503 du 12 juin 2026 relatif aux modalités des visites de préreprise et de reprise",
+      "resume": "La **visite de reprise** n'est plus requise lorsqu'une **visite de préreprise** a eu lieu dans les **30 jours** précédant la reprise et qu'aucun aménagement n'est nécessaire. L'employeur est désormais **informé de la visite de préreprise**, sauf opposition du salarié.",
+      "points": [
+        "Dispense de visite de reprise si la **visite de préreprise** s'est tenue dans les **30 jours** précédant la reprise effective",
+        "Condition : le médecin du travail a conclu qu'**aucun aménagement** du poste ou du temps de travail n'était nécessaire",
+        "Le salarié, l'employeur ou le médecin du travail peuvent toujours **demander une visite de reprise**",
+        "L'employeur est **informé de l'organisation d'une visite de préreprise**, même sans recommandation du médecin, sauf **opposition du salarié**",
+        "Sinon, la visite de reprise reste due le jour de la reprise ou au plus tard dans les **8 jours**"
+      ],
+      "application": "Arrêts de travail délivrés à compter du 15 juin 2026, y compris dans les établissements relevant de la fonction publique hospitalière auxquels s'applique la quatrième partie du code du travail.",
+      "impact": "L'employeur doit vérifier, avant toute reprise après un arrêt long, si une visite de préreprise récente permet la dispense, et mettre à jour ses procédures de suivi médical et ses tableaux d'absences.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054248175",
+      "ajoute": "2026-10-20"
+    },
+    {
+      "id": "loi-2026-492",
+      "date": "2026-06-13",
+      "dateTexte": "2026-06-12",
+      "type": "Loi",
+      "theme": "Temps de travail et congés",
+      "sujet": "Parents d'enfants gravement malades",
+      "accroche": "Congé d'annonce doublé et protection contre le licenciement renforcée",
+      "titre": "LOI n° 2026-492 du 12 juin 2026 visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap",
+      "resume": "La loi renforce les droits des salariés parents d'un enfant atteint d'un **cancer**, d'une **maladie grave** ou d'un **handicap** : **congé d'annonce** allongé, **protection contre le licenciement** prolongée après le congé de présence parentale et **aménagement des horaires**.",
+      "points": [
+        "Congé pour l'annonce d'un handicap, d'une pathologie chronique ou d'un cancer chez l'enfant porté de 5 à **10 jours ouvrables** (un accord collectif peut prévoir plus)",
+        "Congé de présence parentale : **protection contre le licenciement pendant les 10 semaines suivant la fin du congé**, sauf faute grave ou impossibilité de maintenir le contrat pour un motif étranger à l'état de santé de l'enfant",
+        "Délai d'information de l'employeur avant un congé de présence parentale ramené de **15 à 10 jours**",
+        "Droit à des **horaires individualisés** élargi, avec **accès prioritaire au télétravail** et protection contre les mutations géographiques non consenties",
+        "Nouveau cas de **déblocage anticipé de l'épargne salariale** (PERECO, PERO) et délai de réexamen de l'AJPP porté à **14 mois**"
+      ],
+      "application": "Loi publiée au Journal officiel du 13 juin 2026, applicable aux salariés parents d'un enfant gravement malade ou handicapé, certaines mesures relatives à l'AJPP étant renvoyées à un décret.",
+      "impact": "L'employeur doit mettre à jour ses procédures de congés (congé d'annonce de 10 jours, délai de prévenance de 10 jours) et sécuriser toute rupture du contrat dans les 10 semaines suivant un congé de présence parentale. Les demandes d'aménagement d'horaires ou de télétravail de ces parents doivent être examinées en priorité.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054245251",
+      "ajoute": "2026-10-20"
+    },
+    {
+      "id": "decret-2026-498",
+      "date": "2026-06-13",
+      "dateTexte": "2026-06-12",
+      "type": "Décret",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "Arrêt maladie - durée plafonnée",
+      "accroche": "Un mois maximum pour une première prescription, deux mois pour une prolongation",
+      "titre": "Décret n° 2026-498 du 12 juin 2026 relatif au plafonnement de la durée des arrêts de travail donnant lieu au versement d'indemnités journalières",
+      "resume": "Pris en application de la **LFSS pour 2026**, le décret plafonne la durée des **arrêts de travail indemnisés** : **31 jours** pour une première prescription et **62 jours** pour une prolongation.",
+      "points": [
+        "Nouvel article **R. 162-1-7-1 du code de la sécurité sociale**",
+        "Durée maximale de **31 jours** pour une **première prescription** d'arrêt de travail",
+        "Durée maximale de **62 jours** pour une **prolongation**",
+        "Plafonds applicables aux prescriptions des **médecins, chirurgiens-dentistes et sages-femmes**",
+        "Plafonds non applicables à **Mayotte**"
+      ],
+      "application": "Prescriptions et prolongations d'arrêts de travail établies à compter du 1er septembre 2026.",
+      "impact": "Les arrêts longs seront fractionnés en prolongations plus fréquentes : l'employeur doit s'attendre à recevoir davantage d'avis de prolongation et adapter le suivi des absences, du maintien de salaire et des remplacements.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054245585",
+      "ajoute": "2026-10-20"
+    },
+    {
+      "id": "loi-2026-470",
+      "date": "2026-06-12",
+      "dateTexte": "2026-06-11",
+      "type": "Loi",
+      "theme": "Contrat de travail et rupture",
+      "sujet": "Rupture conventionnelle et chômage",
+      "accroche": "Durée d'indemnisation chômage réduite après une rupture conventionnelle",
+      "titre": "LOI n° 2026-470 du 11 juin 2026 portant transposition de l'avenant n° 3 du 25 février 2026 au protocole d'accord du 10 novembre 2023 relatif à l'assurance chômage",
+      "resume": "La loi transpose l'accord des partenaires sociaux réduisant la **durée maximale d'indemnisation chômage** des salariés dont le contrat prend fin par **rupture conventionnelle** : **15 mois** avant 55 ans au lieu de 18.",
+      "points": [
+        "Moins de 55 ans : **15 mois** au lieu de 18 (métropole)",
+        "55 ans et plus : **20,5 mois** au lieu de 22,5 mois (55-56 ans) ou 27 mois (57 ans et plus)",
+        "Outre-mer hors Mayotte : **20 mois** avant 55 ans et **30 mois** à partir de 55 ans",
+        "Applicable aux contrats **rompus à compter du 1er septembre 2026**"
+      ],
+      "application": "Salariés dont le contrat de travail est rompu par rupture conventionnelle à compter du 1er septembre 2026 (Mayotte non concernée).",
+      "impact": "La rupture conventionnelle devient moins attractive pour les salariés : l'employeur doit l'intégrer dans les négociations de départ et informer clairement le salarié de la durée d'indemnisation réduite.",
+      "source": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054237287",
+      "ajoute": "2026-10-20"
     },
     {
       "id": "arrete-2026-04-28-honorabilite",
@@ -270,8 +832,19 @@
       "dateTexte": "2026-04-28",
       "type": "Arrêté",
       "theme": "Qualité et droits des usagers",
+      "sujet": "Attestation d'honorabilité",
+      "accroche": "Déploiement par vagues dans les ESMS pour enfants handicapés",
       "titre": "Arrêté du 28 avril 2026 relatif au déploiement de l'attestation d'honorabilité",
-      "resume": "Déploie l'attestation d'honorabilité des professionnels et bénévoles des ESMS accueillant des enfants handicapés : Occitanie en 1re vague depuis le 30 avril, 2e vague au 1er septembre 2026, extension adultes et personnes âgées prévue d'ici début 2027.",
+      "resume": "Organise le **déploiement progressif de l'attestation d'honorabilité** exigée des **professionnels et bénévoles** des établissements et services accueillant des **enfants en situation de handicap** : 1re vague dans sept régions depuis le 30 avril 2026, 2e vague dans les autres territoires à compter du 3e trimestre 2026, avant une extension aux structures pour adultes handicapés puis pour personnes âgées.",
+      "points": [
+        "**1re vague depuis le 30 avril 2026** : Grand Est, Hauts-de-France, Île-de-France, La Réunion, Mayotte, Normandie et Occitanie",
+        "**2e vague à compter du 3e trimestre 2026** (mise en service opérationnelle le **1er septembre 2026**) : les autres régions et collectivités d'outre-mer",
+        "Concerne **tout professionnel ou bénévole** intervenant auprès des enfants, qui demande l'attestation en ligne sur **honorabilite.social.gouv.fr**",
+        "Le gestionnaire **vérifie l'authenticité et la validité** de l'attestation (QR code) **avant la prise de fonction**, puis à intervalles réguliers",
+        "Extension prévue ensuite aux **ESMS pour adultes handicapés**, puis aux **ESMS pour personnes âgées**"
+      ],
+      "application": "Applicable aux ESMS accueillant des enfants en situation de handicap selon le calendrier régional, depuis le 30 avril 2026 pour la 1re vague et à compter du 3e trimestre 2026 pour la 2e vague.",
+      "impact": "Les employeurs doivent intégrer la vérification de l'attestation dans leurs processus de recrutement et d'accueil des bénévoles, et organiser le contrôle régulier des personnels déjà en poste. Les structures pour adultes et personnes âgées ont intérêt à anticiper l'extension annoncée.",
       "source": "Légifrance",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053975457",
       "ajoute": "2026-10-19"
