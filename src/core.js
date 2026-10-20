@@ -26,6 +26,7 @@ function range(){
   const today = new Date(); let from = "", to = iso(today);
   if(state.period === "custom"){ from = state.from; to = state.to || to; }
   else if(state.period === "year"){ from = `${today.getFullYear()}-01-01`; }
+  else if(state.period === "all"){ from = ""; }
   else { const d = new Date(today); d.setDate(d.getDate() - Number(state.period)); from = iso(d); }
   return {from, to};
 }
@@ -34,7 +35,7 @@ function filtered(opt = {}){
   const r = range(), q = state.q.trim().toLowerCase();
   return state.items.filter(i => (!r.from || i.date >= r.from) && (!r.to || i.date <= r.to)
       && (opt.sansDomaine || !state.domaine || domaineDe(i.theme) === state.domaine) && (opt.sansTheme || !state.theme || i.theme === state.theme)
-      && (!state.type || i.type === state.type)
+      && (opt.sansType || !state.type || i.type === state.type)
       && (!q || [i.titre,i.resume,i.source,i.theme,i.type,i.sujet,i.accroche,(i.points||[]).join(" "),i.reference].join(" ").toLowerCase().includes(q)))
     .sort((a,b) => b.date.localeCompare(a.date));
 }
@@ -51,7 +52,7 @@ function detailHtml(i){
 function render(){
   if(state.theme && state.domaine && domaineDe(state.theme) !== state.domaine) state.theme = "";
   const list = filtered();
-  fillDomains(); fillThemes();
+  fillDomains(); fillThemes(); fillTypes();
   $("#countAll").textContent = state.loaded ? `${state.items.length} textes au registre` : "Chargement du registre…";
   $("#lastUpdate").textContent = state.meta?.derniereMaj ? fmt(state.meta.derniereMaj) : "non renseignée";
   $("#syncState").textContent = Store.syncText();
@@ -86,17 +87,16 @@ function render(){
 // ---------- Commandes ----------
 function buildControls(){
   document.querySelectorAll("[data-only]").forEach(el => { if(el.dataset.only !== Store.kind) el.remove(); });
-  $("#domChips").addEventListener("click", e => { const b = e.target.closest(".chip"); if(!b) return; state.domaine = b.dataset.d; render(); });
+  $("#domSel").addEventListener("change", e => { state.domaine = e.target.value; render(); });
   Object.entries(DOMAINES).forEach(([d,ths]) => { const g = document.createElement("optgroup"); g.label = d; ths.forEach(t => g.appendChild(new Option(t,t))); $("#fTheme").appendChild(g); });
-  TYPES.forEach(t => { $("#typeSel").add(new Option(t,t)); $("#fType").add(new Option(t,t)); });
-  document.querySelectorAll("[data-p]").forEach(b => b.addEventListener("click", () => {
-    state.period = b.dataset.p; document.querySelectorAll("[data-p]").forEach(c => c.setAttribute("aria-pressed", c === b ? "true" : "false"));
-    $("#customBox").hidden = state.period !== "custom";
+  TYPES.forEach(t => $("#fType").add(new Option(t,t)));
+  $("#perSel").addEventListener("change", e => {
+    state.period = e.target.value; $("#customBox").hidden = state.period !== "custom";
     if(state.period === "custom" && !state.from){ const d = new Date(); d.setDate(1); state.from = iso(d); $("#dFrom").value = state.from; $("#dTo").value = iso(new Date()); state.to = $("#dTo").value; }
-    render(); }));
+    render(); });
   $("#dFrom").addEventListener("change", e => { state.from = e.target.value; render(); });
   $("#dTo").addEventListener("change", e => { state.to = e.target.value; render(); });
-  $("#themeChips").addEventListener("click", e => { const b = e.target.closest(".chip"); if(!b) return; state.theme = b.dataset.t; render(); });
+  $("#themeSel").addEventListener("change", e => { state.theme = e.target.value; render(); });
   $("#typeSel").addEventListener("change", e => { state.type = e.target.value; render(); });
   $("#q").addEventListener("input", e => { state.q = e.target.value; render(); });
   $("#bMail").addEventListener("click", openMail);
@@ -117,16 +117,23 @@ function buildControls(){
   $("#results").addEventListener("click", onListClick);
   if(Store.extraControls) Store.extraControls();
 }
-const chip = (attr, val, label, n, on) => `<button class="chip${n ? "" : " zero"}" ${attr}="${esc(val)}" aria-pressed="${on ? "true" : "false"}">${esc(label)} <span class="n">${n}</span></button>`;
+const opt = (val, label, n, sel) => `<option value="${esc(val)}"${sel ? " selected" : ""}>${esc(label)} (${n})</option>`;
 function fillDomains(){
   const base = filtered({sansDomaine:true, sansTheme:true});
-  $("#domChips").innerHTML = ["", ...Object.keys(DOMAINES)].map(d => chip("data-d", d, d || "Tous", d ? base.filter(i => domaineDe(i.theme) === d).length : base.length, state.domaine === d)).join("");
+  $("#domSel").innerHTML = opt("", "Tous les domaines", base.length, !state.domaine) +
+    Object.keys(DOMAINES).map(d => opt(d, d, base.filter(i => domaineDe(i.theme) === d).length, state.domaine === d)).join("");
 }
 function fillThemes(){
-  if(state.theme && state.domaine && domaineDe(state.theme) !== state.domaine) state.theme = "";
   const base = filtered({sansTheme:true});
-  const ths = state.domaine ? DOMAINES[state.domaine] : THEMES;
-  $("#themeChips").innerHTML = chip("data-t", "", "Tous", base.length, !state.theme) + ths.map(t => chip("data-t", t, t, base.filter(i => i.theme === t).length, state.theme === t)).join("");
+  const groupe = ths => ths.map(t => opt(t, t, base.filter(i => i.theme === t).length, state.theme === t)).join("");
+  $("#themeSel").innerHTML = opt("", "Tous les thèmes", base.length, !state.theme) + (state.domaine
+    ? groupe(DOMAINES[state.domaine])
+    : Object.entries(DOMAINES).map(([d, ths]) => `<optgroup label="${esc(d)}">${groupe(ths)}</optgroup>`).join(""));
+}
+function fillTypes(){
+  const base = filtered({sansType:true});
+  $("#typeSel").innerHTML = opt("", "Tous les types", base.length, !state.type) +
+    TYPES.map(t => opt(t, t, base.filter(i => i.type === t).length, state.type === t)).join("");
 }
 async function copy(text, el){
   try { await navigator.clipboard.writeText(text); toast("Copié dans le presse-papiers"); }

@@ -194,7 +194,9 @@ summary{cursor:pointer;color:var(--red-text);font-weight:600;font-size:13px;widt
 .end-mark{position:absolute;left:0;right:0;top:20cqw;display:flex;justify-content:center;align-items:center;gap:1.4cqw;font-weight:700;font-style:italic;font-size:3cqw}
 .end-h{position:absolute;left:0;right:0;top:30cqw;text-align:center;font-weight:700;font-size:4.6cqw;color:#8b0000 !important}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
-#themeChips,#domChips{display:contents}
+.filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+.filters .field select{width:100%;max-width:none;flex:none}
+.filters .lbl{min-width:0}
 .chip .n{display:inline-block;min-width:1.6em;margin-left:4px;padding:0 6px;border-radius:999px;background:var(--blush);color:var(--red-text);font-size:11px;font-weight:600;text-align:center;font-variant-numeric:tabular-nums}
 .chip[aria-pressed="true"] .n{background:rgba(255,255,255,.25);color:var(--on-btn)}
 .chip.zero{opacity:.5}
@@ -216,23 +218,24 @@ summary{cursor:pointer;color:var(--red-text);font-weight:600;font-size:13px;widt
   </header>
 
   <section class="tools" aria-label="Filtres">
-    <div class="row">
-      <span class="lbl">Période</span>
-      <button class="chip" data-p="7">7 jours</button>
-      <button class="chip" data-p="30">30 jours</button>
-      <button class="chip" data-p="90" aria-pressed="true">3 mois</button>
-      <button class="chip" data-p="year">Depuis janvier</button>
-      <button class="chip" data-p="custom">Personnalisée</button>
-      <span id="customBox" class="row" hidden>
-        <label for="dFrom">du</label><input type="date" id="dFrom">
-        <label for="dTo">au</label><input type="date" id="dTo">
-      </span>
+    <div class="filters">
+      <label class="field"><span class="lbl">Période</span>
+        <select id="perSel">
+          <option value="7">7 derniers jours</option>
+          <option value="30">30 derniers jours</option>
+          <option value="90" selected>3 derniers mois</option>
+          <option value="year">Depuis janvier</option>
+          <option value="all">Tout le registre</option>
+          <option value="custom">Période personnalisée…</option>
+        </select></label>
+      <label class="field"><span class="lbl">Domaine</span><select id="domSel"></select></label>
+      <label class="field"><span class="lbl">Thème</span><select id="themeSel"></select></label>
+      <label class="field"><span class="lbl">Type</span><select id="typeSel"></select></label>
     </div>
-    <div class="row" id="domRow"><span class="lbl">Domaine</span><span id="domChips" class="row"></span></div>
-    <div class="row" id="themeRow"><span class="lbl">Thème</span><span id="themeChips" class="row"></span></div>
-    <div class="row">
-      <span class="lbl">Type</span>
-      <select id="typeSel" aria-label="Type de texte"><option value="">Tous les types</option></select>
+    <div id="customBox" class="row" hidden>
+      <span class="lbl">Dates</span>
+      <label for="dFrom">du</label><input type="date" id="dFrom">
+      <label for="dTo">au</label><input type="date" id="dTo">
     </div>
     <div class="row">
       <span class="lbl">Recherche</span>
@@ -424,6 +427,7 @@ function range(){
   const today = new Date(); let from = "", to = iso(today);
   if(state.period === "custom"){ from = state.from; to = state.to || to; }
   else if(state.period === "year"){ from = `${today.getFullYear()}-01-01`; }
+  else if(state.period === "all"){ from = ""; }
   else { const d = new Date(today); d.setDate(d.getDate() - Number(state.period)); from = iso(d); }
   return {from, to};
 }
@@ -432,7 +436,7 @@ function filtered(opt = {}){
   const r = range(), q = state.q.trim().toLowerCase();
   return state.items.filter(i => (!r.from || i.date >= r.from) && (!r.to || i.date <= r.to)
       && (opt.sansDomaine || !state.domaine || domaineDe(i.theme) === state.domaine) && (opt.sansTheme || !state.theme || i.theme === state.theme)
-      && (!state.type || i.type === state.type)
+      && (opt.sansType || !state.type || i.type === state.type)
       && (!q || [i.titre,i.resume,i.source,i.theme,i.type,i.sujet,i.accroche,(i.points||[]).join(" "),i.reference].join(" ").toLowerCase().includes(q)))
     .sort((a,b) => b.date.localeCompare(a.date));
 }
@@ -449,7 +453,7 @@ function detailHtml(i){
 function render(){
   if(state.theme && state.domaine && domaineDe(state.theme) !== state.domaine) state.theme = "";
   const list = filtered();
-  fillDomains(); fillThemes();
+  fillDomains(); fillThemes(); fillTypes();
   $("#countAll").textContent = state.loaded ? `${state.items.length} textes au registre` : "Chargement du registre…";
   $("#lastUpdate").textContent = state.meta?.derniereMaj ? fmt(state.meta.derniereMaj) : "non renseignée";
   $("#syncState").textContent = Store.syncText();
@@ -484,17 +488,16 @@ function render(){
 // ---------- Commandes ----------
 function buildControls(){
   document.querySelectorAll("[data-only]").forEach(el => { if(el.dataset.only !== Store.kind) el.remove(); });
-  $("#domChips").addEventListener("click", e => { const b = e.target.closest(".chip"); if(!b) return; state.domaine = b.dataset.d; render(); });
+  $("#domSel").addEventListener("change", e => { state.domaine = e.target.value; render(); });
   Object.entries(DOMAINES).forEach(([d,ths]) => { const g = document.createElement("optgroup"); g.label = d; ths.forEach(t => g.appendChild(new Option(t,t))); $("#fTheme").appendChild(g); });
-  TYPES.forEach(t => { $("#typeSel").add(new Option(t,t)); $("#fType").add(new Option(t,t)); });
-  document.querySelectorAll("[data-p]").forEach(b => b.addEventListener("click", () => {
-    state.period = b.dataset.p; document.querySelectorAll("[data-p]").forEach(c => c.setAttribute("aria-pressed", c === b ? "true" : "false"));
-    $("#customBox").hidden = state.period !== "custom";
+  TYPES.forEach(t => $("#fType").add(new Option(t,t)));
+  $("#perSel").addEventListener("change", e => {
+    state.period = e.target.value; $("#customBox").hidden = state.period !== "custom";
     if(state.period === "custom" && !state.from){ const d = new Date(); d.setDate(1); state.from = iso(d); $("#dFrom").value = state.from; $("#dTo").value = iso(new Date()); state.to = $("#dTo").value; }
-    render(); }));
+    render(); });
   $("#dFrom").addEventListener("change", e => { state.from = e.target.value; render(); });
   $("#dTo").addEventListener("change", e => { state.to = e.target.value; render(); });
-  $("#themeChips").addEventListener("click", e => { const b = e.target.closest(".chip"); if(!b) return; state.theme = b.dataset.t; render(); });
+  $("#themeSel").addEventListener("change", e => { state.theme = e.target.value; render(); });
   $("#typeSel").addEventListener("change", e => { state.type = e.target.value; render(); });
   $("#q").addEventListener("input", e => { state.q = e.target.value; render(); });
   $("#bMail").addEventListener("click", openMail);
@@ -515,16 +518,23 @@ function buildControls(){
   $("#results").addEventListener("click", onListClick);
   if(Store.extraControls) Store.extraControls();
 }
-const chip = (attr, val, label, n, on) => `<button class="chip${n ? "" : " zero"}" ${attr}="${esc(val)}" aria-pressed="${on ? "true" : "false"}">${esc(label)} <span class="n">${n}</span></button>`;
+const opt = (val, label, n, sel) => `<option value="${esc(val)}"${sel ? " selected" : ""}>${esc(label)} (${n})</option>`;
 function fillDomains(){
   const base = filtered({sansDomaine:true, sansTheme:true});
-  $("#domChips").innerHTML = ["", ...Object.keys(DOMAINES)].map(d => chip("data-d", d, d || "Tous", d ? base.filter(i => domaineDe(i.theme) === d).length : base.length, state.domaine === d)).join("");
+  $("#domSel").innerHTML = opt("", "Tous les domaines", base.length, !state.domaine) +
+    Object.keys(DOMAINES).map(d => opt(d, d, base.filter(i => domaineDe(i.theme) === d).length, state.domaine === d)).join("");
 }
 function fillThemes(){
-  if(state.theme && state.domaine && domaineDe(state.theme) !== state.domaine) state.theme = "";
   const base = filtered({sansTheme:true});
-  const ths = state.domaine ? DOMAINES[state.domaine] : THEMES;
-  $("#themeChips").innerHTML = chip("data-t", "", "Tous", base.length, !state.theme) + ths.map(t => chip("data-t", t, t, base.filter(i => i.theme === t).length, state.theme === t)).join("");
+  const groupe = ths => ths.map(t => opt(t, t, base.filter(i => i.theme === t).length, state.theme === t)).join("");
+  $("#themeSel").innerHTML = opt("", "Tous les thèmes", base.length, !state.theme) + (state.domaine
+    ? groupe(DOMAINES[state.domaine])
+    : Object.entries(DOMAINES).map(([d, ths]) => `<optgroup label="${esc(d)}">${groupe(ths)}</optgroup>`).join(""));
+}
+function fillTypes(){
+  const base = filtered({sansType:true});
+  $("#typeSel").innerHTML = opt("", "Tous les types", base.length, !state.type) +
+    TYPES.map(t => opt(t, t, base.filter(i => i.type === t).length, state.type === t)).join("");
 }
 async function copy(text, el){
   try { await navigator.clipboard.writeText(text); toast("Copié dans le presse-papiers"); }
