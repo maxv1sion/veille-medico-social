@@ -1,8 +1,29 @@
 {
   "meta": {
-    "derniereMaj": "2026-10-20"
+    "derniereMaj": "2026-10-22"
   },
   "items": [
+    {
+      "id": "loi-2026-975",
+      "date": "2026-10-22",
+      "dateTexte": "2026-10-21",
+      "type": "Loi",
+      "theme": "Qualité et droits des usagers",
+      "sujet": "ESSMS expérimentaux",
+      "accroche": "Expérimentation renouvelable jusqu'à 10 ans au total",
+      "titre": "LOI n° 2026-975 du 21 octobre 2026 visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (1)",
+      "resume": "La loi modifie l'article **L. 313-7 du CASF** : l'autorisation d'un **ESSMS expérimental** peut être renouvelée après **évaluation positive**, dans la limite d'une **durée totale de dix ans**, avant un passage possible à une autorisation de droit commun.",
+      "points": [
+        "Article unique modifiant l'**article L. 313-7 du code de l'action sociale et des familles**",
+        "Renouvellement de l'autorisation expérimentale **au vu des résultats positifs d'une évaluation**, dans la limite d'une **durée totale de dix ans**",
+        "Au terme de l'expérimentation, sous réserve d'une **nouvelle évaluation positive**, autorisation possible **pour la durée de droit commun** prévue au I de l'article L. 313-1 du CASF"
+      ],
+      "application": "Applicable dès le lendemain de sa publication au Journal officiel du 22 octobre 2026, pour les établissements et services autorisés à titre expérimental.",
+      "impact": "Un gestionnaire porteur d'un dispositif expérimental dispose de plus de temps pour prouver son intérêt avant de basculer vers une autorisation classique, à condition d'anticiper et de soigner les évaluations demandées par l'autorité de tarification.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055005805",
+      "ajoute": "2026-10-22"
+    },
     {
       "id": "arrete-2026-10-05-mna",
       "date": "2026-10-20",
