@@ -748,6 +748,27 @@
       "ajoute": "2026-10-22"
     },
     {
+      "id": "arrete-2026-08-06-modeles-rc-fp",
+      "date": "2026-08-07",
+      "dateTexte": "2026-08-06",
+      "type": "Arrêté",
+      "theme": "RH et fonction publique",
+      "sujet": "Rupture conventionnelle FP - modèles",
+      "accroche": "Nouveaux modèles de convention",
+      "titre": "Arrêté du 6 août 2026 fixant les modèles de convention de rupture conventionnelle prévus par le décret n° 2019-1593 du 31 décembre 2019 relatif à la procédure de rupture conventionnelle dans la fonction publique",
+      "resume": "L'arrêté remplace les **modèles de convention de rupture conventionnelle** applicables aux agents publics, en cohérence avec la pérennisation du dispositif.",
+      "points": [
+        "Nouveau modèle pour les **fonctionnaires** (annexe 1 de l'arrêté du 6 février 2020 remplacée)",
+        "Le modèle reprend l'identification des parties, l'**ancienneté** de l'agent et les dates de la demande et des **entretiens préalables**",
+        "Complète les **décrets n° 2026-745 et 2026-746** du 6 août 2026"
+      ],
+      "application": "Applicable depuis la publication au JO du 7 août 2026, pour les ruptures conventionnelles d'agents publics.",
+      "impact": "Les établissements publics doivent utiliser les nouveaux modèles pour toute convention de rupture conventionnelle conclue depuis août 2026.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054632945",
+      "ajoute": "2026-10-22"
+    },
+    {
       "id": "arrete-2026-07-21-ehpad-coordination",
       "date": "2026-07-25",
       "dateTexte": "2026-07-21",
@@ -832,6 +853,28 @@
       "impact": "Les services de protection de l'enfance devront intégrer l'avocat de l'enfant dans le suivi des mesures et faciliter ses échanges avec le mineur accueilli.",
       "source": "Journal officiel (données DILA)",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054423823",
+      "ajoute": "2026-10-22"
+    },
+    {
+      "id": "arrete-2026-07-10-agrement",
+      "date": "2026-07-11",
+      "dateTexte": "2026-07-10",
+      "type": "Arrêté",
+      "theme": "Rémunération et protection sociale",
+      "sujet": "Agrément - CCN 66, CCN 51, BAD",
+      "accroche": "Accords de branche agréés en juillet 2026",
+      "titre": "Arrêté du 10 juillet 2026 relatif à l'agrément de certains accords de travail applicables dans les établissements et services du secteur social et médico-social privé à but non lucratif",
+      "resume": "Plusieurs accords de branche du secteur sont **agréés** : intégration des **accords CHRS dans la CCN 66**, réévaluation du **salaire minimum conventionnel de la CCN 51** et avenant BAD sur l'**entretien professionnel**.",
+      "points": [
+        "**CCN 66** : accord du 22 mai 2026 intégrant les accords CHRS dans la convention du 15 mars 1966",
+        "**CCN 51** : recommandations patronales des **25 mars et 17 juin 2026** réévaluant le salaire minimum conventionnel",
+        "**BAD** : avenant **78/2026** du 12 mai 2026 sur l'entretien professionnel (loi du 24 octobre 2025)",
+        "**Non agréés** : l'additif n° 7 de la CCN 51 (hausse du taux de cotisation de la **complémentaire santé**) et un avenant de prorogation d'un régime de prévoyance"
+      ],
+      "application": "Agrément à compter de la date prévue par chaque accord ou, à défaut, de la publication au JO du 11 juillet 2026.",
+      "impact": "Les accords agréés peuvent s'appliquer dans les ESSMS financés, alors que l'additif CCN 51 sur la complémentaire santé, non agréé, ne peut pas prendre effet en l'état (article L. 314-6 du CASF).",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054415958",
       "ajoute": "2026-10-22"
     },
     {
@@ -1256,6 +1299,27 @@
       "ajoute": "2026-10-20"
     },
     {
+      "id": "arrete-2026-05-28-agrement-bad",
+      "date": "2026-05-29",
+      "dateTexte": "2026-05-28",
+      "type": "Arrêté",
+      "theme": "Rémunération et protection sociale",
+      "sujet": "Agrément - BAD salaires et déplacements",
+      "accroche": "Avenants 75/2026 et 76/2026 agréés",
+      "titre": "Arrêté du 28 mai 2026 relatif à l'agrément de certains accords de travail applicables dans les établissements et services du secteur social et médico-social privé à but non lucratif",
+      "resume": "Deux avenants de la **branche de l'aide à domicile** sont agréés : l'avenant **75/2026** sur les **grilles salariales** et l'avenant **76/2026** sur la **prise en charge des déplacements**.",
+      "points": [
+        "Avenant **75/2026** du 24 mars 2026 : évolution des **coefficients des grilles salariales**",
+        "Avenant **76/2026** du 24 mars 2026 : modalités de prise en charge des **déplacements** des professionnels de l'aide à domicile",
+        "L'avenant 75/2026 a ensuite été **étendu** par arrêté du 15 juillet 2026"
+      ],
+      "application": "Agrément à compter de la date prévue par chaque avenant ou, à défaut, de la publication au JO du 29 mai 2026.",
+      "impact": "Les services d'aide à domicile peuvent appliquer ces avenants avec une prise en compte dans leur tarification par les financeurs.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054149228",
+      "ajoute": "2026-10-22"
+    },
+    {
       "id": "arrete-2026-05-22-smic",
       "date": "2026-05-24",
       "dateTexte": "2026-05-22",
@@ -1274,6 +1338,27 @@
       "impact": "Les premiers coefficients des grilles conventionnelles (CCN 66, CCN 51, BAD) doivent être vérifiés et, si besoin, complétés par une indemnité différentielle pour atteindre le SMIC.",
       "source": "Journal officiel (données DILA)",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054126589",
+      "ajoute": "2026-10-22"
+    },
+    {
+      "id": "arrete-2026-05-21-agrement",
+      "date": "2026-05-24",
+      "dateTexte": "2026-05-21",
+      "type": "Arrêté",
+      "theme": "Rémunération et protection sociale",
+      "sujet": "Agrément - BAD classification",
+      "accroche": "Avenants 74/2026 et 77/2026 agréés",
+      "titre": "Arrêté du 21 mai 2026 relatif à l'agrément de certains accords de travail applicables dans les établissements et services du secteur social et médico-social privé à but non lucratif",
+      "resume": "Deux avenants de la **branche de l'aide à domicile** sont agréés, sur la **classification des emplois** et sur la **transition professionnelle** avec la nouvelle **période de reconversion (PREC)**.",
+      "points": [
+        "Avenant **74/2026** du 22 janvier 2026 : actualisation de la **classification des emplois** et de leur positionnement",
+        "Avenant **77/2026** du 24 mars 2026 : remplacement de **Pro-A** par la **période de reconversion (PREC)**, conformément à la loi du 24 octobre 2025",
+        "Un avenant d'augmentation de la **valeur du point** d'une autre convention nationale du secteur n'est **pas agréé**"
+      ],
+      "application": "Agrément à compter de la date prévue par chaque avenant ou, à défaut, de la publication au JO du 24 mai 2026.",
+      "impact": "Les employeurs de la BAD doivent repositionner les emplois selon la nouvelle classification et intégrer la PREC dans leur politique de formation.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054126843",
       "ajoute": "2026-10-22"
     },
     {
