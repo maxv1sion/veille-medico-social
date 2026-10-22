@@ -24,6 +24,8 @@ import xml.etree.ElementTree as ET
 BASE = "https://echanges.dila.gouv.fr/OPENDATA/JORF/"
 OUT = "jorf/candidats.json"
 DIAG = "jorf/diagnostic.txt"
+EXAMINES = "jorf/examines.json"   # identifiants JORFTEXT déjà examinés par la veille (retenus ou écartés)
+REGISTRE = "registre.json"
 DOSSIER_TELECHARGEMENTS = "telechargements/JO"   # un sous-dossier par date de publication
 JOURS_TELECHARGEMENTS = 365                        # on garde 1 an de textes téléchargés
 JOURS_MAX_PREMIER_PASSAGE = 14   # au premier lancement, on remonte 14 jours
@@ -276,6 +278,18 @@ def empreinte_regles():
     return hashlib.sha256(regles.encode("utf-8")).hexdigest()[:12]
 
 
+def deja_examines():
+    """Identifiants déjà examinés : liste jorf/examines.json et textes présents au registre."""
+    ids = set()
+    if os.path.exists(EXAMINES):
+        with open(EXAMINES, encoding="utf-8") as f:
+            ids |= set(json.load(f))
+    if os.path.exists(REGISTRE):
+        with open(REGISTRE, encoding="utf-8") as f:
+            ids |= set(re.findall(r"JORFTEXT\d{12}", f.read()))
+    return ids
+
+
 def main():
     os.makedirs("jorf", exist_ok=True)
     etat = {"maj": "", "traites": [], "items": []}
@@ -320,6 +334,11 @@ def main():
             diag.append(f"{nom} : erreur {e!r}")
 
     borne = (aujourd_hui - dt.timedelta(days=JOURS_CONSERVES)).isoformat()
+    examines = deja_examines()
+    avant = len(etat["items"])
+    etat["items"] = [i for i in etat["items"] if i["id"] not in examines]
+    if avant != len(etat["items"]):
+        diag.append(f"{avant - len(etat['items'])} candidat(s) déjà examiné(s) retiré(s) de la liste")
     etat["items"] = sorted([i for i in etat["items"] if (i.get("datePubli") or i["ajoute"]) >= borne],
                            key=lambda i: i.get("datePubli", ""), reverse=True)
     purger_telechargements(aujourd_hui)
