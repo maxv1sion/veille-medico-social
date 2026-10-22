@@ -1,0 +1,847 @@
+Arrêté du 16 septembre 2026 relatif à l'agrément de certains accords de travail applicables dans les établissements et services du secteur social et médico-social privé à but non lucratif
+
+Type : Arrêté
+Date de signature : 2026-09-16
+Publication au Journal officiel : 2026-09-19
+NOR : SFHA2624118A
+Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054860495
+Source : données ouvertes DILA, archive JORF_20260919-002738.tar.gz
+
+VISAS
+La ministre de la santé, des familles, de l'autonomie et des personnes handicapées,
+Vu le code de l'action sociale et des familles, notamment ses articles L. 314-6 et R. 314-197 à R. 314-200 ;
+Vu l'arrêté du 21 mai 2026 relatif à l'agrément de certains accords de travail applicables dans les établissements et services du secteur social et médico-social privé à but non lucratif ;
+Vu les avis de la Commission nationale d'agrément, mentionnée à l'article R. 314-198 du code de l'action sociale et des familles, en date du 10 septembre 2026,
+Arrête :
+
+Article 1
+Sont agréés, sous réserve de l'application des dispositions législatives ou réglementaires en vigueur, à compter de la date prévue dans le texte ou, à défaut, de la date de publication du présent arrêté au Journal officiel de la République française, les accords d'entreprises et décisions unilatérales mentionnés dans le tableau joint en annexe 1 au présent arrêté.
+
+Article 2
+Ne sont pas agréés les accords d'entreprises et décisions unilatérales mentionnés dans le tableau joint en annexe 2 au présent arrêté.
+
+Article 3
+A l'annexe 4 de l'arrêté du 21 mai 2026 susvisé, la cinquième ligne du tableau mentionnant la décision unilatérale du 29/01/2026 de l'association AEFH relatif à la mise en œuvre du télétravail est abrogée.
+
+Article 4
+Le présent arrêté sera publié au Journal officiel de la République française.
+
+Article
+ANNEXES
+ANNEXE 1
+ACCORDS ET DÉCISIONS UNILATÉRALES VISÉS À L'ARTICLE 1ER
+
+n° dpt
+
+association
+
+code
+
+ postal
+
+ville
+
+nature
+
+date
+
+objet
+
+01
+
+ADSEA
+
+01960
+
+Péronnas
+
+accord
+
+07/07/2025
+
+Modalités d'aménagement du temps de travail
+
+13
+
+Association SERENA
+
+13010
+
+Marseille
+
+accord
+
+09/06/2026
+
+Modalités d'aménagement du temps de travail
+
+14
+
+APEI du Bocage Virois et de la Suisse Normande
+
+14500
+
+Vire-en-Normandie
+
+accord
+
+22/06/2026
+
+Financement des activités sociales et culturelles du CSE
+
+17
+
+Association ALTEA-CABESTAN
+
+17000
+
+La Rochelle
+
+accord
+
+23/04/2026
+
+Modernisation de l'organisation du temps de travail
+
+19
+
+ADAPEI
+
+19360
+
+Malemort
+
+accord
+
+05/05/2026
+
+Précisions sur les modalités d'organisation des astreintes
+
+19
+
+ADAPEI
+
+19360
+
+Malemort
+
+accord
+
+09/06/2026
+
+Mise en œuvre du dispositif de don de jours
+
+30
+
+APSH 30
+
+30900
+
+Nimes
+
+Accord
+
+25/06/2026
+
+Congé pour accompagner un parent ou un conjoint malade
+
+31
+
+PEP 31
+
+31100
+
+Toulouse
+
+Accord
+
+18/06/2026
+
+Egalité professionnelle entre les femmes et les hommes
+
+34
+
+Association GAMMES
+
+34000
+
+Montpellier
+
+Accord
+
+14/04/2026
+
+PV de NAO 2025 :
+
+34
+
+UDAF 34
+
+34000
+
+Montpellier
+
+Accord
+
+02/07/2026
+
+Remboursement des frais de déjeuner en cas de déplacement professionnel
+
+34
+
+UDAF 34
+
+34000
+
+Montpellier
+
+Accord
+
+02/07/2026
+
+Modalités d'accompagnement à la retraite progressive
+
+36
+
+UDAF 36
+
+36000
+
+Châteauroux
+
+Accord
+
+19/03/2026
+
+Participation de l'employeur aux œuvres sociales
+
+45
+
+AEFH
+
+45800
+
+Saint-Jean-de-Braye
+
+DUE
+
+29/01/2026
+
+Mise en œuvre du télétravail
+
+48
+
+Association L'Education par le Travail
+
+48600
+
+Saint Bonnet-Laval
+
+Accord
+
+09/06/2026
+
+Prime de partage de la valeur
+
+49
+
+Association ARPEJE 49
+
+49100
+
+Angers
+
+Accord
+
+19/06/2026
+
+Fonctionnement du CSE
+
+49
+
+Association ARPEJE 49
+
+49100
+
+Angers
+
+Accord
+
+19/06/2026
+
+Droit d'expression des salariés
+
+49
+
+ASEA 49
+
+49182
+
+Saint-Barthélemy-d'Anjou
+
+accord
+
+26/05/2026
+
+Représentants de proximité et durée des mandats
+
+51
+
+UDAF de la Marne
+
+51000
+
+Châlons-en-Champagne
+
+Accord
+
+25/06/2026
+
+Mise en place d'un CSE unique
+
+57
+
+CMSEA
+
+57000
+
+Metz
+
+Accord
+
+10/06/2026
+
+Mise en conformité de l'accord relatif à la GEPP avec les dispositions légales
+
+58
+
+Association PAGODE
+
+58160
+
+Imphy
+
+Accord
+
+13/07/2026
+
+Définition des modalités d'aménagement du temps de travail
+
+58
+
+Association PAGODE
+
+58160
+
+Imphy
+
+Accord
+
+13/07/2026
+
+Organisation et indemnisation des astreintes
+
+59
+
+Groupement Associations Partenaires
+
+59700
+
+Marcq-en-Barœul
+
+Accord
+
+03/04/2026
+
+PV de désaccord NAO temps de travail
+
+61
+
+Association Vivre en famille
+
+61700
+
+Champsecret
+
+Accord
+
+10/07/2026
+
+Annualisation du temps de travail
+
+63
+
+Altéris
+
+63000
+
+Clermont-Ferrand
+
+Accord
+
+26/01/2026
+
+Précision concernant les modalités de prévoyance
+
+63
+
+Altéris
+
+63000
+
+Clermont-Ferrand
+
+Accord
+
+26/01/2026
+
+Précision concernant les modalités de complémentaire santé
+
+69
+
+Association LA ROCHE
+
+69170
+
+Les Sauvages
+
+Accord
+
+02/04/2026
+
+Droit d'expression des salariés
+
+69
+
+Association LA ROCHE
+
+69170
+
+Les Sauvages
+
+Accord
+
+20/04/2026
+
+Egalité professionnelle entre les femmes et les hommes
+
+69
+
+Association LA ROCHE
+
+69170
+
+Les Sauvages
+
+accord
+
+20/04/2026
+
+Clôture des négociations annuelles obligatoires
+
+69
+
+Association HABITAT ET HUMANISME SOIN
+
+69300
+
+Caluire-et-Cuire
+
+Accord
+
+29/06/2026
+
+Qualité de vie au travail
+
+69
+
+Groupe ACPPA
+
+69340
+
+Francheville
+
+DUE
+
+01/04/2026
+
+Prime de partage de la valeur
+
+69
+
+Groupe ACPPA
+
+69340
+
+Francheville
+
+DUE
+
+03/07/2026
+
+Prime de partage de la valeur
+
+69
+
+Fondation ACOLEA
+
+69416
+
+Lyon
+
+Accord
+
+26/05/2026
+
+Heures de délégation des représentants du personnel
+
+69
+
+Fondation ACOLEA
+
+69416
+
+Lyon
+
+Accord
+
+26/05/2026
+
+Entretiens de parcours professionnels
+
+69
+
+Fondation ACOLEA
+
+69416
+
+Lyon
+
+Accord
+
+15/06/2026
+
+Modalités d'aménagement du temps de travail
+
+72
+
+UDAF 72
+
+72019
+
+Le Mans
+
+DUE
+
+24/06/2026
+
+Prime de partage de la valeur
+
+75
+
+Association RESEAU QUIETUDE
+
+75018
+
+Paris
+
+Accord
+
+24/07/2026
+
+Modalités d'aménagement du temps de travail
+
+75
+
+ATFPO
+
+75020
+
+Paris
+
+Accord
+
+15/06/2026
+
+Versement d'une prime carburant pour les salariés contraints d'utiliser leur véhicule personnel
+
+82
+
+SEHOC
+
+82000
+
+Montauban
+
+DUE
+
+03/09/2026
+
+Plan de sauvegarde pour l'emploi
+
+82
+
+APIM
+
+82120
+
+Lavit
+
+Accord
+
+08/07/2026
+
+Modalités d'aménagement du temps de travail
+
+84
+
+AVSEA
+
+84000
+
+Avignon
+
+Accord
+
+03/04/2025
+
+Egalité professionnelle entre les femmes et les hommes
+
+86
+
+AUDACIA
+
+86000
+
+Poitiers
+
+Accord
+
+16/06/2026
+
+Plan de sauvegarde pour l'emploi
+
+91
+
+Association ALTÉRITÉ
+
+91260
+
+Juvisy-sur-Orge
+
+Accord
+
+24/06/2026
+
+Prorogation des membres du CSE, du 05/12/2026 au 14/02/2027.
+
+92
+
+AMFD IDF Ouest
+
+92330
+
+Sceaux
+
+Accord
+
+13/01/2026
+
+Définition des modalités d'organisation des congés
+
+971
+
+Association LE RELAIS
+
+97115
+
+Sainte-Rose
+
+Accord
+
+17/07/2026
+
+Modalités d'aménagement du temps de travail
+
+Article
+ANNEXE 2
+ACCORDS ET DÉCISIONS UNILATÉRALES VISÉS À L'ARTICLE 2
+
+n° dpt
+
+association
+
+code
+
+ postal
+
+ville
+
+nature
+
+date
+
+objet
+
+01
+
+ADSEA 01
+
+10960
+
+Peronnas
+
+Accord
+
+11/12/2024
+
+Mise en place d'un CET
+
+13
+
+ADAMAL
+
+13300
+
+Salon-de-Provence
+
+Accord
+
+22/06/2026
+
+Mesures complémentaires pour les salariés en vue de leur reclassement dans la CCN 66.
+
+56
+
+UDAF du Morbihan
+
+56000
+
+Vannes
+
+DUE
+
+30/04/2026
+
+Prime de partage de la valeur
+
+60
+
+Association ENVOL PICARDIE
+
+60280
+
+Margny-lès-Compiègne
+
+accord
+
+06/07/2026
+
+Prime de partage de la valeur
+
+64
+
+ASFA
+
+64000
+
+Pau
+
+Accord
+
+26/05/2026
+
+Prime de partage de la valeur
+
+64
+
+ASFA
+
+64000
+
+Pau
+
+Accord
+
+26/05/2026
+
+Tickets restaurants
+
+69
+
+Prado Education
+
+69270
+
+Fontaines-Saint-Martin
+
+Accord
+
+20/11/2025
+
+Accompagnement des fins de carrière des salariés
+
+69
+
+Fondation ACOLEA
+
+69416
+
+Lyon
+
+Accord
+
+26/05/2026
+
+Prise en charge des frais de transports publics
+
+69
+
+Fondation ACOLEA
+
+69416
+
+Lyon
+
+Accord
+
+26/05/2026
+
+Versement d'indemnités kilométriques
+
+77
+
+Association Française d'Entraide
+
+77460
+
+Souppes-sur-Loing
+
+DUE
+
+29/06/2026
+
+Prime de partage de la valeur
+
+84
+
+ADVSEA
+
+84000
+
+Avignon
+
+Accord
+
+16/04/2026
+
+Formation professionnelle et versement d'une indemnité de tutorat
+
+SIGNATAIRES
+Fait le 16 septembre 2026.
+
+Pour la ministre et par délégation :
+
+Le sous-directeur des professions sociales, de l'emploi et des territoires,
+
+J.-R. JOURDAN

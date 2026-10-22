@@ -1,0 +1,46 @@
+Arrêté du 17 septembre 2026 relatif aux modalités de calcul du coefficient de déflation applicable aux départements expérimentateurs au titre de l'article 79 de la loi n° 2023-1250 du 26 décembre 2023 concernant l'attribution des concours attribués par la Caisse nationale de solidarité pour l'autonomie
+
+Type : Arrêté
+Date de signature : 2026-09-17
+Publication au Journal officiel : 2026-09-25
+NOR : SFHS2624735A
+Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054894533
+Source : données ouvertes DILA, archive JORF_20260925-002729.tar.gz
+
+VISAS
+La ministre de la santé, des familles, de l'autonomie et des personnes handicapées et le ministre de l'action et des comptes publics,
+Vu le code de la sécurité sociale, notamment ses articles L. 223-8, L. 223-11 et L. 223-12 ;
+Vu la loi n° 2020-1576 du 14 décembre 2020 de financement de la sécurité sociale pour 2021, notamment son article 47 ;
+Vu la loi n° 2023-1250 du 26 décembre 2023 de financement de la sécurité sociale pour 2024, notamment son article 79 ;
+Vu la loi n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025, notamment son article 81 ;
+Vu l'ordonnance n° 2021-1554 du 1er décembre 2021 relative à la mise en œuvre de la création de la cinquième branche du régime général de la sécurité sociale relative à l'autonomie, notamment son article 2 ;
+Vu le décret n° 2025-885 du 3 septembre 2025 relatif aux concours versés par la Caisse nationale de solidarité pour l'autonomie en application du 3° de l'article L. 223-8 du code de la sécurité sociale ;
+Vu l'avis du conseil de la Caisse nationale de solidarité pour l'autonomie en date du 8 septembre 2026 ;
+Vu l'avis du conseil du Conseil national d'évaluation des normes en date du 10 septembre 2026,
+Arrêtent :
+
+Article 1
+La correction de la dynamique moyenne des dépenses, mentionnée au f du 3° de l'article 2 du décret n° 2025-885 du 3 septembre 2025 relatif aux concours versés par la Caisse nationale de solidarité pour l'autonomie est de 0,89 % et correspond à l'évolution de l'indice des prix à la consommation hors tabac entre 2024 et 2025, publié par l'Institut national de la statistique et des études économiques et connu au 1er juillet 2026.
+Il est appliqué à la formule prévue au f de l'article susmentionné de la manière suivante : CCD1PAE25 * 1/(1+0,89 %).
+
+Article 2
+Le présent arrêté sera publié au Journal officiel de la République française.
+
+SIGNATAIRES
+Fait le 17 septembre 2026.
+
+La ministre de la santé, des familles, de l'autonomie et des personnes handicapées,
+
+Pour la ministre et par délégation :
+
+La cheffe de service, adjointe au directeur de la sécurité sociale,
+
+D. CHAMPETIER
+
+Le ministre de l'action et des comptes publics,
+
+Pour le ministre et par délégation :
+
+La cheffe de service, adjointe au directeur de la sécurité sociale,
+
+D. CHAMPETIER

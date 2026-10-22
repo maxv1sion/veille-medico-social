@@ -1,0 +1,109 @@
+Décret n° 2026-769 du 11 août 2026 portant création d'un traitement de données à caractère personnel ayant pour finalité la réalisation d'une étude relative aux coûts de l'activité d'aide et d'accompagnement des services autonomie à domicile mentionnés à l'article L. 313-1-3 du code de l'action sociale et des familles
+
+Type : Décret
+Date de signature : 2026-08-11
+Publication au Journal officiel : 2026-08-13
+NOR : SFHA2618542D
+Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054673231
+Source : données ouvertes DILA, archive JORF_20260813-002133.tar.gz
+
+NOTICE
+Publics concernés : services autonomie à domicile, personnels exerçant au sein de ces services, personnes âgées de plus de soixante ans en perte d'autonomie ou malades, personnes handicapées et personnes de moins de soixante ans atteintes de pathologies chroniques accompagnées par ces services, personnes chargées d'une mesure de protection juridique avec représentation de la personne à l'égard de ces personnes.
+
+Objet : le décret crée un traitement de données à caractère personnel ayant pour objet la réalisation d'une étude relative aux coûts de l'activité d'aide et d'accompagnement des services autonomie à domicile. Il précise les finalités du traitement, détermine les catégories de données à caractère personnel qui y sont collectées, les destinataires et la durée de conservation de ces données, ainsi que les modalités d'information et d'exercice des droits des personnes dont les données sont traitées.
+
+Entrée en vigueur : le texte entre en vigueur le lendemain de sa publication.
+
+Application : le présent décret est un décret autonome.
+
+VISAS
+Le Premier ministre,
+Sur le rapport de la ministre de la santé, des familles de l'autonomie et des personnes handicapées,
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE ;
+Vu le code de l'action sociale et des familles, notamment ses articles L. 312-9, L. 313-1-3 et R. 232-3 ;
+Vu le code de la santé publique, notamment son article R. 6113-33 ;
+Vu le code de la sécurité sociale, notamment son article L. 223-5 ;
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés ;
+Vu le décret n° 2010-95 du 25 janvier 2010 modifié relatif à l'administration centrale des ministères chargés des affaires sociales et portant création d'une direction générale de la cohésion sociale ;
+Vu le décret n° 2022-1496 du 30 novembre 2022 portant création d'un traitement de données à caractère personnel dénommé « Tableau de bord de la performance dans le secteur médico-social » ;
+Vu l'avis de la Commission nationale de l'informatique et des libertés en date du 28 mai 2026,
+Décrète :
+
+Article 1
+I. - Il est créé un traitement de données à caractère personnel ayant pour finalité la réalisation d'une étude relative aux coûts de l'activité d'aide et d'accompagnement des services autonomie à domicile mentionnés à l'article L. 313-1-3 du code de l'action sociale et des familles.
+Ce traitement, placé sous la responsabilité conjointe de la direction générale de la cohésion sociale et de la Caisse nationale de solidarité pour l'autonomie, est mis en œuvre pour l'exécution d'une mission d'intérêt public, conformément aux dispositions du e du 1 de l'article 6 du règlement (UE) du 27 avril 2016 susvisé, et pour les motifs d'intérêt public mentionnés au i du 2 de l'article 9 du même règlement.
+II. - Dans le cadre de l'étude mentionnée au I, une enquête est conduite auprès d'un échantillon de services autonomie à domicile volontaires, sur une période déterminée par les responsables conjoints de traitement, et à la réutilisation de données issues du traitement dénommé « Tableau de bord de la performance dans le secteur médico-social » prévu par le décret du 30 novembre 2022 susvisé.
+Cette enquête a pour objectifs de :
+1° Disposer d'un état des lieux national sur les caractéristiques, l'organisation et les coûts de l'activité d'aide et d'accompagnement des services mentionnés au I ;
+2° Simuler des modèles de financement alternatifs de l'activité d'aide et d'accompagnement de ces mêmes services ;
+3° Mettre à disposition des services autonomie à domicile participant à l'enquête des documents de synthèse leur permettant de s'évaluer par rapport aux autres services ;
+4° Produire des études à des fins de pilotage et d'évaluation du financement de ces services, ainsi qu'à des fins d'appui aux politiques publiques relatives à l'autonomie à domicile des personnes âgées et des personnes handicapées.
+
+Article 2
+Les catégories de données à caractère personnel et informations susceptibles d'être collectées et traitées dans le traitement de données mentionné à l'article 1er sont :
+1° S'agissant des personnes bénéficiant de prestations d'aide et d'accompagnement réalisées par les services autonomie à domicile mentionnés au II de l'article 1er, et financées par des prestations, allocations ou aides sociales légales ou extra-légales, durant la période de l'enquête mentionnée au même II :
+
+a) Le code interne d'identification attribué à la personne par le service participant à l'enquête, l'année de naissance, le sexe, la commune et le code postal du domicile ;
+b) Les informations relatives au degré de perte d'autonomie dans l'accomplissement des actes de la vie quotidienne tel qu'évalué par les professionnels du service autonomie à domicile dans le cadre de l'enquête, ainsi que, le cas échéant, le niveau de dépendance mesuré selon la grille « Autonomie gérontologique et groupes iso-ressources » (AGGIR) prévue à l'annexe 2-1 du code de l'action sociale et des familles ;
+c) Les informations relatives aux éventuels facteurs de complexité dans la prise en charge de la personne accompagnée ;
+d) Les informations relatives aux conditions de vie à domicile et au logement ;
+e) Les informations relatives au bénéfice de prestations d'aide et d'accompagnement par le service autonomie à domicile répondant à l'enquête mentionnée au II de l'article 1er, et aux prestations, allocations et aides sociale légales ou extra-légales reçues pour financer ces prestations d'aide et d'accompagnement ;
+f) Les informations relatives à l'existence d'un accompagnement de la personne complémentaire à celui du service autonomie à domicile participant à l'enquête ;
+g) La durée de la prise en charge pendant l'enquête, et les éventuels événements impactant cette durée de prise en charge ;
+h) Les informations relatives aux tarifs des prestations d'aide et d'accompagnement applicables, montant du reste-à-charge et modalités de financement par la personne accompagnée ;
+
+2° S'agissant des professionnels des services autonomie à domicile mentionnés au II de l'article 1er :
+
+a) Les données d'identification et d'activité des professionnels des services autonomie à domicile intervenant au domicile des personnes accompagnées durant la période de l'enquête mentionnée au II de l'article 1er : code interne d'identification, statut à l'égard du service, fonction exercée, quotité de travail, description et durée des activités réalisées, y compris des trajets effectués pour les besoins de ces activités ;
+b) Les données d'identification et de contact des professionnels correspondants de l'enquête mentionnée au II de l'article 1er au sein des services autonomie à domicile : nom, prénom, fonction, adresse électronique et numéro de téléphone ;
+
+3° S'agissant des services autonomie à domicile mentionnés au II de l'article 1er :
+
+a) Les données d'identification : raison sociale, numéro d'identification au système d'identification du répertoire des établissements, les numéros géographique et juridique du fichier national des établissements sanitaires et sociaux, statut juridique, localisation géographique et convention collective majoritaire de la structure ou statut majoritaire des professionnels y exerçant ;
+b) Le nombre de personnes accompagnées durant l'enquête mentionnée au II de l'article 1er ;
+c) Le nombre de postes occupés, absents et vacants et le nombre de leur équivalent temps plein, selon la catégorie de professionnels (salarié et personnel mis à disposition, intérimaires), durant la même enquête ;
+d) Les événements significatifs ayant eu des conséquences sur l'activité du service autonomie à domicile pendant la même enquête ;
+
+4° S'agissant des données issues du traitement dénommé « Tableau de bord de la performance dans le secteur médico-social » prévu par le décret du 30 novembre 2022 susvisé et caractérisant les services autonomie à domicile :
+
+a) Les informations relatives aux locaux des services autonomie à domicile ;
+b) Les informations relatives au personnel administratif, encadrant et intervenant à domicile, de ces services ;
+c) Le profil et le parcours des personnes accompagnées par ces services.
+
+Article 3
+I. - Seuls ont accès au traitement mentionné à l'article 1er, à raison de leurs attributions respectives et dans la limite de leur besoin d'en connaître :
+1° Les personnels des services autonomie à domicile mentionnés au II de l'article 1er, spécialement habilités par les responsables de ces services, pour le seul enregistrement des données mentionnées aux 1° à 3° de l'article 2 et qui concernent leurs services ;
+2° Le cas échéant et sans préjudice du respect du secret médical, les sous-traitants auxquels les responsables de traitement ont recours, dans le respect des conditions fixées par l'article 28 du règlement (UE) du 27 avril 2016 susvisé, à l'exclusion du code interne d'identification des professionnels des services autonomie à domicile et des personnes accompagnées.
+II. - Peuvent être destinataires des données et informations mentionnées à l'article 2, à l'exclusion du code interne d'identification des professionnels des services autonomie à domicile et des personnes accompagnées et après application de mesures adéquates de pseudonymisation permettant d'assurer la confidentialité de l'identité des personnes mentionnées au 1° et au a du 2° de l'article 2 :
+1° Les personnels de la Caisse nationale de la solidarité pour l'autonomie spécialement habilités par leur directeur, pour l'ensemble des finalités mentionnées au II de l'article 1er ;
+2° Les personnels de la direction générale de la cohésion sociale spécialement habilités par leur directeur, pour la seule finalité mentionnée au 4° du II de l'article 1er.
+III. - Pour la seule finalité mentionnée au 4° du II de l'article 1er, peuvent être destinataires des données et informations mentionnées à l'article 2, à l'exclusion du code interne d'identification des professionnels des services autonomie à domicile et des personnes accompagnées et après application de mesures adéquates de pseudonymisation permettant d'assurer la confidentialité de l'identité des personnes, et à l'exclusion des données d'identification et de contact des professionnels correspondants de l'enquête mentionnées au b du 2° de l'article 2 :
+1° Les personnels de la direction de la sécurité sociale spécialement habilités par leur directeur ;
+2° Les personnels de la direction la recherche, des études, de l'évaluation et des statistiques spécialement habilités par leur directeur.
+IV. - Pour la finalité mentionnée au 3° du II de l'article 1er, des documents de synthèse, élaborés à partir des données concernant leur situation, sont adressés aux personnes mentionnées au 1° du I du présent article.
+
+Article 4
+Les données et informations mentionnées à l'article 2 sont conservées pendant une durée maximale de dix ans à compter de leur collecte, à l'exception des données mentionnées au b du 2° de l'article 2 qui sont conservées pour une durée maximale de cinq ans à compter de leur collecte.
+Elles sont mises à disposition :
+1° Des personnes mentionnées au 1° du I de l'article 3, pendant une durée de cinq ans à compter de leur collecte, pour les seules données que leur service autonomie à domicile a transmises ;
+2° Des personnes mentionnées aux II et III de l'article 3, pendant une durée de dix ans à compter de leur collecte.
+Les données techniques et de traçabilité liées à l'utilisation du traitement mentionné à l'article 1er font l'objet d'un enregistrement et sont conservées pendant une durée d'un an.
+
+Article 5
+I. - Les personnes dont les données et informations sont traitées reçoivent les informations prévues aux articles 13 et 14 du règlement (UE) du 27 avril 2016 susvisé, et en particulier l'information selon laquelle le droit d'opposition ne s'applique pas au traitement de données, tel que prévu au III du présent article, par les services autonomie à domicile mentionnés au II de l'article 1er. Cette information est également disponible sur le site internet de la direction générale de la cohésion sociale et de la Caisse nationale de solidarité pour l'autonomie.
+II. - Les personnes dont les données et informations sont traitées peuvent exercer leurs droits d'accès et de rectification des données, ainsi que le droit à la limitation du traitement, prévus respectivement aux articles 15, 16 et 18 du règlement (UE) du 27 avril 2016 susvisé, auprès du service autonomie à domicile dont elles dépendent.
+III. - En application de l'article 23 du règlement (UE) du 27 avril 2016 susvisé et de l'article 56 de la loi du 6 janvier 1978 susvisée, le droit d'opposition prévu à l'article 21 de ce même règlement ne s'applique pas au présent traitement de données.
+
+Article 6
+La ministre de la santé, des familles, de l'autonomie et des personnes handicapées est chargée de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+SIGNATAIRES
+Fait le 11 août 2026.
+
+Sébastien LECORNU
+
+Par le Premier ministre :
+
+La ministre de la santé, des familles, de l'autonomie et des personnes handicapées,
+
+Stéphanie RIST

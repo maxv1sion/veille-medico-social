@@ -1,0 +1,50 @@
+Arrêté du 8 août 2026 modifiant l'arrêté du 13 décembre 2022 relatif à la définition et aux modalités de calcul des indicateurs mentionnés à l'article D. 312-211 du code de l'action sociale et des familles
+
+Type : Arrêté
+Date de signature : 2026-08-08
+Publication au Journal officiel : 2026-08-09
+NOR : SFHA2615328A
+Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054646614
+Source : données ouvertes DILA, archive JORF_20260809-002504.tar.gz
+
+NOTICE
+Publics concernés : gestionnaires des établissements et des services relevant du 6° du I de l'article L. 312-1 du code de l'action sociale et des familles.
+
+Objet : cet arrêté précise le contenu et les modalités de calcul de trois indicateurs (taux d'encadrement des personnes accompagnées, taux d'absentéisme et de taux de rotation du personnel) devant faire l'objet d'une publication pour le grand public.
+
+Entrée en vigueur : le texte entre en vigueur le lendemain de sa publication.
+
+Application : le présent arrêté est pris pour l'application du décret n° 2026-760 du 8 août 2026 relatif aux indicateurs transmis par les établissements et services relevant du 6° du I de l'article L. 312-1 du code de l'action sociale et des familles et publiés par la Caisse nationale de solidarité pour l'autonomie.
+
+VISAS
+La ministre de la santé, des familles, de l'autonomie et des personnes handicapées,
+Vu le code de l'action sociale et des familles, notamment ses articles L. 312-9, L. 313-3 et D. 312-211 ;
+Vu le code de la santé publique ;
+Vu la loi n° 2024-317 du 8 avril 2024 portant mesures pour bâtir la société du bien vieillir et de l'autonomie notamment son article 32 ;
+Vu le décret n° 2026-760 du 8 août 2026 relatif aux indicateurs transmis par les établissements et services relevant du 6° du I de l'article L. 312-1 du code de l'action sociale et des familles et publiés par la Caisse nationale de solidarité pour l'autonomie ;
+Vu l'arrêté du 13 décembre 2022 relatif à la définition et aux modalités de calcul des indicateurs mentionnés à l'article D. 312-211 du code de l'action sociale et des familles ;
+Vu l'avis du Conseil national d'évaluation des normes en date du 2 juillet 2026 ;
+Vu l'avis du conseil de la Caisse nationale de solidarité pour l'autonomie en date du 2 juillet 2026 ;
+Vu l'avis du Comité national de l'organisation sanitaire et sociale en date du 7 juillet 2026,
+Arrête :
+
+Article 1
+A la fin de l'article 1er de l'arrêté du 13 décembre 2022 susvisé, sont ajoutés six alinéas ainsi rédigés :
+« VI. - Indicateur n° 6 : “Taux d'encadrement des résidents par le personnel médical, paramédical et socio-éducatif” : Cet indicateur mesure le nombre moyen de membres du personnel de l'établissement accompagnant chaque personne accueillie.
+« Il est calculé en divisant la somme des effectifs du personnel médical, paramédical et socio-éducatif, en équivalent temps plein réel, au 31 décembre de l'année précédente, par le nombre de personnes accompagnées au 31 décembre de l'année précédente.
+« VII. - Indicateur n° 7 : “Taux d'absentéisme du personnel” : Cet indicateur mesure le taux d'absentéisme moyen du personnel de l'établissement au cours de l'année précédente.
+« Il est calculé en divisant le nombre total de jours calendaires d'absence des effectifs réels (hors congés et formation) par le nombre d'équivalents temps plein réel multiplié par trois cent soixante-cinq.
+« VIII. - Indicateur n° 8 : “Taux de rotation du personnel” : Cet indicateur mesure le taux de renouvellement du personnel de l'établissement au cours de l'année précédente.
+« Il est calculé en faisant la somme du taux d'entrée (nombre de recrutements au cours de l'année précédente divisé par les effectifs réels en nombre de personnes au 31 décembre de l'année précédente) et du taux de sortie (nombre de départs dans l'année précédente divisé par les effectifs réels en nombre de personnes au 31 décembre de l'année précédente), divisée par deux. »
+
+Article 2
+Le présent arrêté sera publié au Journal officiel de la République française.
+
+SIGNATAIRES
+Fait le 8 août 2026.
+
+Pour la ministre et par délégation :
+
+Le directeur général de la cohésion sociale,
+
+J.-B. DUJOL

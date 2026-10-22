@@ -1,0 +1,81 @@
+Arrêté du 25 juin 2026 portant création d'un traitement automatisé de données à caractère personnel relatif à l'état des ressources humaines des établissements et services sanitaires, sociaux et médico-sociaux, dénommé « Vigie RH »
+
+Type : Arrêté
+Date de signature : 2026-06-25
+Publication au Journal officiel : 2026-07-07
+NOR : SFHA2615952A
+Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054392900
+Source : données ouvertes DILA, archive JORF_20260707-002241.tar.gz
+
+VISAS
+La ministre de la santé, des familles, de l'autonomie et des personnes handicapées,
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE ;
+Vu le code de l'action sociale et des familles, notamment son article L. 312-1 ;
+Vu le code de la santé publique, notamment son article L. 6111-1 ;
+Vu le code de la sécurité sociale, notamment son article L. 133-5-3 ;
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés ;
+Vu la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique ;
+Vu le décret n° 2013-266 du 28 mars 2013 relatif à la déclaration sociale nominative ;
+Vu l'arrêté du 9 février 2022 fixant les données de la déclaration sociale nominative adressées aux administrations et organismes compétents,
+Arrête :
+
+Article 1
+La direction générale de la cohésion sociale et la direction générale de l'offre de soins mettent conjointement en œuvre un traitement automatisé de données à caractère personnel, dénommé « Vigie RH », ayant pour finalités de :
+1° Disposer, tous les trimestres, d'indicateurs agrégés relatifs à l'état des ressources humaines, calculés au niveau de chaque établissement, pour tous les établissements et services sociaux et médico-sociaux mentionnés à l'article L. 312-1 du code de l'action sociale et des familles, ainsi que pour tous les établissements de santé mentionnés à l'article L. 6111-1 du code de la santé publique, dans le cadre du pilotage et l'évaluation des politiques publiques relatives à la cohésion sociale et à l'offre de soins ;
+2° Diffuser ces indicateurs aux autorités compétentes en matière d'autorisation, de tarification ou de contrôle de ces établissements et services.
+Ce traitement est mis en œuvre pour l'exécution d'une mission d'intérêt public, conformément aux dispositions du e du 1 de l'article 6 du règlement (UE) du 27 avril 2016 susvisé.
+
+Article 2
+I. - Les catégories de données à caractère personnel et les informations susceptibles d'être collectées et traitées dans le traitement « Vigie RH » sont :
+1° Les données d'identification des établissements et services sanitaires, sociaux et médico-sociaux : numéro système d'identification du répertoire des entreprises (SIREN) et numéro interne de classement (NIC), code activité principale exercée pour un établissement ou un service (APET), code convention collective principale, code postal, code INSEE et commune d'affectation, numéro Finess de l'établissement géographique d'exercice ;
+2° Concernant les personnels des établissements et services sanitaires, sociaux et médico-sociaux mentionnés au 1° de l'article 1er :
+a) Le sexe et la date de naissance ;
+b) Les données relatives au lieu de travail ;
+c) Les données relatives à la fonction exercée et au statut professionnel ;
+d) Les données relatives au temps de travail et à l'activité professionnelle ;
+e) Les données relatives au contrat (contrat de travail, convention, mandat) ;
+f) Les données relatives à l'ancienneté professionnelle ;
+g) Les données relatives à la rémunération (salaire de base, primes, gratifications et indemnités) ;
+h) Les données et montants relatifs aux cotisations acquittées par l'employeur (cotisations, exonérations et réductions) ;
+i) Le cas échéant, les données relatives au compte professionnel de prévention ;
+j) Le cas échéant, les données relatives à l'arrêt de travail ;
+k) Le cas échéant, les données relatives à la suspension de l'exécution du contrat ;
+l) Le cas échéant, les données relatives à la fin du contrat ;
+3° Concernant les personnes disposant d'un compte utilisateur pour accéder à « Vigie RH » : données d'identification et structure de rattachement.
+II. - Les indicateurs agrégés mentionnés au 1° de l'article 1er, établis à partir des données mentionnées au I et issues de la déclaration sociale nominative mentionnée à l'article L. 133-5-3 du code de la sécurité sociale, portent sur :
+1° Les effectifs, la rémunération de ces effectifs, les cotisations la masse salariale et le type de professions au sein des établissements et services mentionnés au même 1° ;
+2° Les tensions liées au recrutement ainsi que la rotation et l'absentéisme du personnel de ces mêmes établissements et services ;
+3° La qualité de vie et des conditions de travail des personnels intervenant au sein de ces mêmes établissements et services.
+
+Article 3
+Seuls ont accès au traitement mentionné à l'article 1er, à raison de leurs attributions respectives et dans la limite du besoin d'en connaître :
+1° Le sous-traitant auquel les responsables de traitement ont recours, dans le respect des conditions fixées à l'article 28 du règlement (UE) du 27 avril 2016 susvisé ;
+2° Les agents de la direction générale de la cohésion sociale, spécialement habilités par leur directeur, pour les seuls indicateurs mentionnés au II de l'article 2 ;
+3° Les agents de la direction générale de l'offre de soins, spécialement habilités par leur directeur, pour les seuls indicateurs mentionnés au II de l'article 2 ;
+4° Les agents des services déconcentrés de l'Etat chargés des solidarités, spécialement habilités par leurs directeurs, pour les seuls indicateurs mentionnés au II de l'article 2 concernant les établissements et services relevant de leur ressort territorial ;
+5° Les personnels des agences régionales de santé, spécialement habilités par leurs directeurs généraux, pour les seuls indicateurs mentionnés au II de l'article 2 concernant les établissements et services relevant de leur ressort territorial ;
+6° Les personnels des services des Départements, spécialement habilités par les présidents des conseils départementaux, pour les seuls indicateurs mentionnés au II de l'article 2 concernant les établissements et services relevant de leur ressort territorial.
+
+Article 4
+Les données mentionnées aux 1° et 2° du I de l'article 2 sont conservées pendant une durée maximale de cinq ans, à l'exception des données mentionnées au 3° du même I qui sont conservées pendant une durée maximale d'un an à compter de la date de désactivation du compte utilisateur.
+Les données techniques et de traçabilité liées à l'utilisation du traitement mentionné à l'article 1er font l'objet d'un enregistrement et sont conservées pendant une durée d'un an.
+
+Article 5
+Les personnes dont les données et informations sont traitées reçoivent les informations prévues aux articles 13 et 14 du règlement (UE) du 27 avril 2016 susvisé. Cette information est disponible sur le site internet du ministère chargé de la cohésion sociale et de la santé.
+Ces mêmes personnes peuvent exercer leurs droits d'accès aux données, de rectification des données, à la limitation du traitement et d'opposition au traitement, prévus respectivement aux articles 15, 16, 18 et 21 du règlement (UE) du 27 avril 2016 susvisé, auprès de la direction générale de la cohésion sociale et de la direction générale de l'offre de soins.
+
+Article 6
+Le présent arrêté sera publié au Journal officiel de la République française.
+
+SIGNATAIRES
+Fait le 25 juin 2026.
+
+Pour la ministre et par délégation :
+
+Le directeur général de la cohésion sociale,
+
+J.-B. DUJOL
+
+Le directeur général de l'offre de soins,
+
+H. GILARDI

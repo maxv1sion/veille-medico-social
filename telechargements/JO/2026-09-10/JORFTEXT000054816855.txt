@@ -1,0 +1,82 @@
+Décret n° 2026-853 du 9 septembre 2026 relatif aux données transmises par les départements à la Caisse nationale de solidarité pour l'autonomie au titre des financements destinés à couvrir une partie du coût de l'allocation personnalisée d'autonomie, la prestation de compensation et des mesures liées à l'attractivité, à la dignité et à l'amélioration des salaires des métiers des services d'accompagnement et d'aide à domicile
+
+Type : Décret
+Date de signature : 2026-09-09
+Publication au Journal officiel : 2026-09-10
+NOR : SFHS2616963D
+Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054816855
+Source : données ouvertes DILA, archive JORF_20260910-002824.tar.gz
+
+NOTICE
+Publics concernés : départements, Caisse nationale de solidarité pour l'autonomie.
+
+Objet : définition des catégories de données devant être transmises par les départements à la Caisse nationale de solidarité pour l'autonomie pour le calcul, le contrôle et le versement des concours relatifs à l'allocation personnalisée d'autonomie mentionnée à l'article L. 232-1 du code de l'action sociale et des familles, à la prestation de compensation mentionnée à l'article L. 245-1 du même code, et aux mesures liées à l'attractivité, à la dignité et à l'amélioration des salaires des métiers des professionnels des services d'accompagnement et d'aide à domicile, ainsi qu'à l'évaluation de l'activité de ces services.
+
+Entrée en vigueur : le texte entre en vigueur au lendemain de sa publication.
+
+Application : le présent décret est pris en application de l'article L. 223-8 du code de la sécurité sociale.
+
+VISAS
+Le Premier ministre,
+Sur le rapport de la ministre la santé, des familles, de l'autonomie et des personnes handicapées,
+Vu le code de l'action sociale et des familles, notamment son article L. 312-1 ;
+Vu le code de la sécurité sociale, notamment ses articles L. 223-8, L. 223-11 et L. 223-12 ;
+Vu la loi n° 2023-1250 du 26 décembre 2023 modifiée de financement de la sécurité sociale pour 2024, notamment son article 79 ;
+Vu le décret n° 2025-885 du 3 septembre 2025 relatif aux concours versés par la Caisse nationale de solidarité pour l'autonomie en application du 3° de l'article L. 223-8 du code de la sécurité sociale ;
+Vu l'avis de la commission normative de la Caisse nationale de solidarité pour l'autonomie en date du 12 mai 2026 ;
+Vu l'avis du Conseil national d'évaluation des normes du 4 juin 2026,
+Décrète :
+
+Article 1
+Le code de la sécurité sociale est ainsi modifié :
+1° A l'article R. 178-5 :
+
+a) Le 2° est remplacé par les dispositions suivantes :
+
+« 2° pour le coût des mesures contribuant à l'attractivité, à la dignité et à l'amélioration des salaires des métiers des professionnels des services d'accompagnement et d'aide à domicile relevant du 7° du I de l'article L. 312-1 du code de l'action sociale et des familles :
+
+- les données relatives à la tarification de ces services, en particulier les éléments relatifs aux mesures salariales mises en œuvre ;
+- les données permettant d'apprécier les moyens humains mobilisés par ces services ; »
+
+b) Le dernier alinéa est remplacé par les dispositions suivantes :
+
+« Les départements communiquent également à la caisse, à sa demande et dans le délai prévu au premier alinéa, toute information complémentaire liée à l'exercice de sa mission, notamment :
+
+- les données relatives à l'identification administrative et juridique des services d'accompagnement et d'aide à domicile relevant du 7° du I de l'article L. 312-1 du code de l'action sociale et des familles ;
+- les données relatives à la tarification de ces services ;
+- les données permettant de mesurer l'activité de ces services au titre de la prestation de compensation du handicap et de l'aide-ménagère ;
+- les données permettant d'apprécier la contribution financière des bénéficiaires de la prestation de compensation du handicap. » ;
+
+2° A l'article R. 178-13 :
+
+a) Au deuxième alinéa, les mots : « des données dont la liste est fixée par décret » sont remplacés par les mots : « les données suivantes :
+
+- les données relatives à la tarification de ces services, en particulier les éléments relatifs aux mesures salariales mises en œuvre ;
+- les données permettant d'apprécier les moyens humains mobilisés par ces services ; »
+
+b) Le dernier alinéa est remplacé par les dispositions suivantes :
+
+« Les départements communiquent également à la caisse, à sa demande et dans le délai prévu au premier alinéa, toute information complémentaire liée à l'exercice de sa mission, notamment :
+
+- les données relatives à l'identification administrative et juridique des services d'accompagnement et d'aide à domicile relevant du 6° du I de l'article L. 312-1 du code de l'action sociale et des familles ;
+- les données relatives à la tarification de ces services ;
+- les données permettant de mesurer l'activité des services au titre de l'allocation personnalisée d'autonomie et de l'aide-ménagère ;
+- les données permettant d'apprécier la contribution financière des bénéficiaires de l'allocation personnalisée d'autonomie. »
+
+Article 2
+La ministre de la santé, des familles, de l'autonomie et des personnes handicapées et le ministre de l'action et des comptes publics sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+SIGNATAIRES
+Fait le 9 septembre 2026.
+
+Sébastien LECORNU
+
+Par le Premier ministre :
+
+La ministre de la santé, des familles, de l'autonomie et des personnes handicapées,
+
+Stéphanie RIST
+
+Le ministre de l'action et des comptes publics,
+
+David AMIEL

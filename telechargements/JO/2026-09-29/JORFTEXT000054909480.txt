@@ -1,0 +1,93 @@
+Décret n° 2026-902 du 24 septembre 2026 relatif aux modalités d'établissement du diagnostic des maladies prévues dans les tableaux de maladies professionnelles annexés au code rural et de la pêche maritime
+
+Type : Décret
+Date de signature : 2026-09-24
+Publication au Journal officiel : 2026-09-29
+NOR : AGRS2623481D
+Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054909480
+Source : données ouvertes DILA, archive JORF_20260929-002340.tar.gz
+
+NOTICE
+Publics concernés : personnes exposées aux risques professionnels mentionnés aux tableaux de maladies professionnelles annexés au livre VII du code rural et de la pêche maritime, dont les salariés et non-salariés du régime d'assurance-accidents du code local des assurances sociales en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, salariés du régime des salariés des professions agricoles, non-salariés du régime des non-salariés des professions agricoles ; médecins-conseils des caisses dont relève l'assuré, professionnels de santé.
+
+Objet : en application du décret en Conseil d'Etat n° 2026-900 du 24 septembre 2026 pris conformément au 1° du I de l'article 95 de la loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026, qui modifie le cinquième alinéa de l'article L. 461-1 du code de la sécurité sociale, le décret procède à la suppression de certains examens complémentaires des modalités d'établissement du diagnostic des maladies prévues dans les tableaux de maladies professionnelles annexés au code rural et de la pêche maritime.
+
+Entrée en vigueur : le décret entre en vigueur le 30 septembre 2026.
+
+Application : le décret est pris en application de l'article 95 de la loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026.
+
+VISAS
+Le Premier ministre,
+Sur le rapport de la ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire,
+Vu le code rural et de la pêche maritime, notamment ses articles L. 751-7, L. 752-2 et R. 751-23 ;
+Vu le code de la sécurité sociale, notamment son article L. 461-2 ;
+Vu la loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026, notamment son article 95 ;
+Vu le décret n° 2026-900 du 24 septembre 2026 relatif aux modalités générales d'établissement du diagnostic des maladies prévues dans les tableaux de maladies professionnelles ;
+Vu l'avis du conseil central d'administration de la mutualité sociale agricole en date du 15 septembre 2026 ;
+Vu l'avis de la Commission supérieure des maladies professionnelles en agriculture en date du 16 septembre 2026,
+Décrète :
+
+Article 1
+L'annexe II du livre VII (partie réglementaire) du code rural et de la pêche maritime est ainsi modifiée :
+I. - En première colonne du tableau n° 5 bis relatif à la maladie de Lyme, les mots : « Pour les manifestations secondaires et tertiaires, le diagnostic doit être confirmé par un examen biologique spécifique. » sont supprimés.
+II. - En première colonne du tableau n° 10 relatif aux affections provoquées par l'arsenic et ses composés minéraux, les mots : « - confirmée par un examen électrophysiologique, » sont supprimés.
+III. - En première colonne du tableau n° 21 relatif aux affections professionnelles provoquées par les hydrocarbures aliphatiques halogénés :
+1° Au D, les mots : « , confirmées par des examens électrophysiologiques. » sont supprimés ;
+2° Au E, les mots : « confirmée par des examens complémentaires » sont supprimés.
+IV. - En première colonne du tableau n° 22 relatif aux affections consécutives à l'inhalation de poussières minérales renfermant de la silice cristalline, ou des silicates cristallins :
+1° Au A-1, les mots : « mises en évidence par des examens radiographiques ou tomodensitométriques ou par des constatations anatomopathologiques (lipoprotéinose) lorsqu'elles existent : ces signes ou ces constatations s'accompagnent » sont remplacés par les mots : « accompagnées » ;
+2° Au A-2 :
+
+- les mots : « révélées par des examens radiographiques tomodensitométriques ou par des constatations anatomopathologiques lorsqu'elles existent ; ces signes ou ces constatations s'accompagnent » sont remplacés par les mots : « accompagnées » ;
+- les mots « confirmée par la sérologie » sont supprimés ;
+
+3° Au B, les mots : « révélées par des examens radiographiques ou tomodensitométriques ou par des constatations anatomopathologiques lorsqu'elles existent, que ces signes radiologiques ou ces constatations s'accompagnent » sont remplacés par les mots : « accompagnées ».
+V. - En première colonne du tableau n° 25 relatif aux affections provoquées par les huiles et graisses d'origine minérale ou de synthèse, les mots : « confirmé médicalement » sont supprimés.
+VI. - En première colonne du tableau n° 26 relatif aux maladies professionnelles engendrées par la chlorpromazine, le mot « épicutanés » est supprimé.
+VII. - En première colonne du tableau n° 29 relatif aux affections provoquées par les vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs itératifs du talon de la main sur des éléments fixes :
+1° Au A :
+
+- à la première ligne, les mots : « confirmées par des examens radiologiques » sont supprimés ;
+- à la seconde ligne, le mot : « radiologiques » est supprimé ;
+- à la cinquième ligne, les mots : « et confirmés par des épreuves fonctionnelles » sont supprimés ;
+
+2° Au B :
+
+- à la première ligne, les mots : « confirmées par des examens radiologiques » sont supprimés ;
+- à la seconde ligne, le mot : « radiologiques » est supprimé ;
+
+3° Au C, les mots : « confirmée par l'artère cubitale ou de l'arcade palmaire superficielle » sont supprimés.
+VIII. - En première colonne du tableau n° 35 bis relatif aux affections cancéreuses provoquées par les goudrons de houille, huiles de houille, brais de houille et suies de combustion du charbon, au C, les mots : « confirmée par examen histopathologique ou cytopathologique » sont supprimés.
+IX. - En première colonne du tableau n° 42 relatif aux maladies professionnelles provoquées par le cadmium et ses composés, les mots : « radiologiquement confirmée par examen » sont supprimés.
+X. - En première colonne du tableau n° 44 relatif aux affections cutanées et muqueuses professionnelles de mécanisme allergique, les mots : « épicutané positif au produit manipulé » sont supprimés.
+XI. - En première colonne du tableau n° 45 relatif aux affections respiratoires professionnelles de mécanisme allergique :
+1° Au A, les mots : « objectivé par explorations fonctionnelles respiratoires » sont supprimés ;
+2° Au B, les mots : « - signes radiologiques ; » sont supprimés ;
+3° Au C, les mots : « avec signes radiologiques, altération des explorations fonctionnelles respiratoires, lorsqu'il y a des » sont remplacés par les mots : « en présence de ».
+XII. - En première colonne du tableau n° 47 relatif aux affections consécutives à l'inhalation de poussières d'amiante :
+1° Au A, les mots : « confirmée par examen tomodensitométrique (1), qu'il y ait ou non, des » sont remplacés par les mots : « avec ou sans » ;
+2° Au B :
+
+- les mots : « , lorsqu'elles sont confirmées par un examen tomodensitométrique » sont supprimés ;
+- les mots : « Ces anomalies devront être confirmées par un examen tomodensitométrique » sont supprimés ;
+
+3° La dernière ligne du présent tableau est supprimée.
+XIII. - En première colonne du tableau n° 53 relatif aux lésions chroniques du ménisque, les mots : « confirmées par examens complémentaires ou au cours de l'intervention curative, » sont supprimés.
+XIV. - En première colonne du tableau n° 58 relatif à la maladie de Parkinson provoquée par les pesticides, les mots : « confirmée par un examen effectué par un médecin spécialiste qualifié en neurologie » sont supprimés.
+
+Article 2
+Les dispositions du présent décret entrent en vigueur le 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.
+
+Article 3
+La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire est chargée de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+SIGNATAIRES
+Fait le 24 septembre 2026.
+
+Sébastien LECORNU
+
+Par le Premier ministre :
+
+La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire,
+
+Annie GENEVARD

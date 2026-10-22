@@ -1,0 +1,568 @@
+Arrêté du 14 octobre 2026 fixant le montant de la répartition entre départements des crédits du Fonds national d'action sanitaire et sociale de la Mutualité sociale agricole destinés à la prise en charge des cotisations sociales des personnes non salariées des professions agricoles et des employeurs de main-d'œuvre agricole
+
+Type : Arrêté
+Date de signature : 2026-10-14
+Publication au Journal officiel : 2026-10-16
+NOR : AGRS2627280A
+Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988419
+Source : données ouvertes DILA, archive JORF_20261016-002645.tar.gz
+
+VISAS
+La ministre de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire,
+Vu le code rural et de la pêche maritime, notamment ses articles L. 726-3 et R. 726-1 ;
+Vu la proposition du conseil central d'administration de la Mutualité sociale agricole, en date du 14 octobre 2026,
+Arrête :
+
+Article 1
+En application de l'article R. 726-1 du code rural et de la pêche maritime, une enveloppe de crédits du Fonds national d'action sanitaire et sociale de la Mutualité sociale agricole d'un montant de 20 millions d'euros, destinés au financement de prises en charge de cotisations sociales pour les personnes non-salariées des professions agricoles et les employeurs de main-d'œuvre agricole, est répartie par départements, conformément au tableau figurant en annexe.
+
+Article 2
+Le présent arrêté sera publié au Journal officiel de la République française.
+
+Article
+ANNEXE
+
+Département
+
+Montant de la dotation
+
+01
+
+AIN
+
+132 245
+
+02
+
+AISNE
+
+360 150
+
+03
+
+ALLIER
+
+265 750
+
+04
+
+ALPES DE HAUTE PROVENCE
+
+78 250
+
+05
+
+HAUTES-ALPES
+
+77 250
+
+06
+
+ALPES-MARITIMES
+
+74 996
+
+07
+
+ARDECHE
+
+167 187
+
+08
+
+ARDENNES
+
+235 157
+
+09
+
+ARIEGE
+
+88 247
+
+10
+
+AUBE
+
+350 154
+
+11
+
+AUDE
+
+155 627
+
+12
+
+AVEYRON
+
+443 542
+
+13
+
+BOUCHES-DU-RHONE
+
+231 978
+
+14
+
+CALVADOS
+
+233 283
+
+15
+
+CANTAL
+
+240 291
+
+16
+
+CHARENTE
+
+204 052
+
+17
+
+CHARENTE-MARITIME
+
+272 846
+
+18
+
+CHER
+
+228 241
+
+19
+
+CORREZE
+
+175 353
+
+20
+
+CORSE
+
+219 152
+
+21
+
+COTE D'OR
+
+253 150
+
+22
+
+COTES D'ARMOR
+
+344 232
+
+23
+
+CREUSE
+
+190 805
+
+24
+
+DORDOGNE
+
+210 880
+
+25
+
+DOUBS
+
+177 280
+
+26
+
+DROME
+
+241 243
+
+27
+
+EURE
+
+243 489
+
+28
+
+EURE ET LOIR
+
+231 813
+
+29
+
+FINISTERE
+
+339 938
+
+30
+
+GARD
+
+177 122
+
+31
+
+HAUTE-GARONNE
+
+194 738
+
+32
+
+GERS
+
+225 454
+
+33
+
+GIRONDE
+
+245 837
+
+34
+
+HERAULT
+
+231 509
+
+35
+
+ILE-ET-VILAINE
+
+324 775
+
+36
+
+INDRE
+
+181 953
+
+37
+
+INDRE ET LOIRE
+
+61 040
+
+38
+
+ISERE
+
+128 701
+
+39
+
+JURA
+
+125 087
+
+40
+
+LANDES
+
+200 549
+
+41
+
+LOIR ET CHER
+
+138 502
+
+42
+
+LOIRE
+
+236 214
+
+43
+
+HAUTE-LOIRE
+
+184 807
+
+44
+
+LOIRE-ATLANTIQUE
+
+376 099
+
+45
+
+LOIRET
+
+227 535
+
+46
+
+LOT
+
+166 204
+
+47
+
+LOT ET GARONNE
+
+286 542
+
+48
+
+LOZERE
+
+155 705
+
+49
+
+MAINE ET LOIRE
+
+268 152
+
+50
+
+MANCHE
+
+286 777
+
+51
+
+MARNE
+
+617 322
+
+52
+
+HAUTE-MARNE
+
+190 054
+
+53
+
+MAYENNE
+
+270 079
+
+54
+
+MEURTHE ET MOSELLE
+
+114 403
+
+55
+
+MEUSE
+
+236 793
+
+56
+
+MORBIHAN
+
+266 450
+
+57
+
+MOSELLE
+
+145 415
+
+58
+
+NIEVRE
+
+150 659
+
+59
+
+NORD
+
+416 002
+
+60
+
+OISE
+
+278 533
+
+61
+
+ORNE
+
+240 053
+
+62
+
+PAS-DE-CALAIS
+
+466 113
+
+63
+
+PUY DE DOME
+
+265 869
+
+64
+
+PYRENEES-ATLANTIQUES
+
+255 980
+
+65
+
+HAUTES-PYRENEES
+
+120 153
+
+66
+
+PYRENEES-ORIENTALES
+
+85 288
+
+67
+
+BAS-RHIN
+
+187 732
+
+68
+
+HAUT-RHIN
+
+162 776
+
+69
+
+RHONE
+
+200 370
+
+70
+
+HAUTE-SAONE
+
+111 159
+
+71
+
+SAONE-ET-LOIRE
+
+386 677
+
+72
+
+SARTHE
+
+257 121
+
+73
+
+SAVOIE
+
+107 943
+
+74
+
+HAUTE-SAVOIE
+
+118 882
+
+75
+
+ILE-DE-FRANCE
+
+523 441
+
+76
+
+SEINE-MARITIME
+
+333 373
+
+79
+
+DEUX-SEVRES
+
+283 726
+
+80
+
+SOMME
+
+370 191
+
+81
+
+TARN
+
+222 818
+
+82
+
+TARN-ET-GARONNE
+
+160 458
+
+83
+
+VAR
+
+172 987
+
+84
+
+VAUCLUSE
+
+174 703
+
+85
+
+VENDEE
+
+384 542
+
+86
+
+VIENNE
+
+260 917
+
+87
+
+HAUTE-VIENNE
+
+213 472
+
+88
+
+VOSGES
+
+115 232
+
+89
+
+YONNE
+
+217 212
+
+90
+
+TERRITOIRE-DE-BELFORT
+
+25 219
+
+TOTAL
+
+20 000 000
+
+SIGNATAIRES
+Fait le 14 octobre 2026.
+
+Pour la ministre et par délégation :
+
+Le sous-directeur du travail et de la protection sociale,
+
+J.-L. LETONTURIER

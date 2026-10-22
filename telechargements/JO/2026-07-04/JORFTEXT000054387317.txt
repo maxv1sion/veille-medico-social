@@ -1,0 +1,120 @@
+Délibération n° 2025-129 du 18 décembre 2025 portant avis sur un projet de décret pris pour l'application de l'article L. 121-6-1 du code de l'action sociale et des familles et fixant les modalités de recueil, transmission et conservation des données à caractère personnel
+
+Type : Deliberation
+Date de signature : 2025-12-18
+Publication au Journal officiel : 2026-07-04
+NOR : CNIX2618058X
+Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054387317
+Source : données ouvertes DILA, archive JORF_20260704-002403.tar.gz
+
+Article
+N° de demande d'avis : 25010550
+
+Thématiques : loi « Bien-vieillir », registre communal, article L. 121-6-1 du code de l'action sociale et des familles
+
+Organisme(s) à l'origine de la saisine : Ministères sociaux
+
+Fondement de la saisine : Article 8. I. 4°, a de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés
+
+L'essentiel :
+1. Le projet de décret a pour objet de redéfinir le cadre juridique relatif au registre communal, en application de l'article L. 121-6-1 du code de l'action sociale et des familles modifié par de la loi n° 2024-317 du 8 avril 2024. Il en étend les finalités, prévoit la collecte de nouvelles données et ajoute de nouveaux destinataires disposant d'une compétence dans le domaine social et médico-social.
+2. Le registre communal repose sur le traitement de données hautement personnelles, et pour certaines sensibles au sens de l'article 9 du RGPD, d'un nombre important de personnes en situation de vulnérabilité. La CNIL relève notamment que la nature de la prestation sociale attribuée au bénéficiaire, compte tenu de sa perte d'autonomie ou de son handicap, constitue une donnée de santé.
+3. Enfin, au regard des menaces fortes en matière de cybersécurité, du public concerné et en application des garanties de confidentialité précisées dans le projet de décret, la CNIL invite les collectivités à mettre en œuvre une politique rigoureuse de sécurité, notamment en conditionnant les accès aux données du registre et leur transmission à l'habilitation d'agents au regard de leurs attributions respectives et dans la limite de leur besoin d'en connaître.
+
+La Commission nationale de l'informatique et des libertés,
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données ou RGPD) ;
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés (« loi informatique et libertés »), notamment son article 8. I (4°), a ;
+Après avoir entendu le rapport de M. Philippe Latombe, commissaire, et les observations de M. Damien Milic, commissaire du Gouvernement,
+Adopte la délibération suivante :
+
+I. - La saisine
+A. - Le contexte
+
+Le registre nominatif communal prévu à l'article L. 121-6-1 du code de l'action sociale et des familles (CASF) a été créé en 2004. Il permet aux maires de répertorier les personnes âgées et celles en situation de handicap afin d'organiser l'information et l'intervention des services sociaux, médico-sociaux et sanitaires en cas de risques exceptionnels, notamment climatiques (canicules par exemple).
+A l'heure actuelle, l'inscription sur le registre s'effectue sur la base du volontariat de la personne concernée, ou à la demande d'un tiers à la condition que la personne concernée, ou son représentant légal, ne s'y soit pas opposée.
+Le traitement de données réalisé dans le cadre de l'inscription des personnes concernées, de la tenue et de l'utilisation du registre a fait l'objet d'une délibération de la CNIL (CNIL, SP, 1er juillet 2004, délibération n° 04-058).
+La crise du COVID-19 a souligné l'importance de pouvoir identifier en amont les personnes en situation de vulnérabilité afin de leur fournir un accompagnement adapté et d'éviter une surcharge du système de santé en cas de crise.
+Dans ce contexte, la lutte contre l'isolement social et la prévention de la perte d'autonomie des personnes en situation de vulnérabilité constituent désormais un axe stratégique des politiques publiques nationale et territoriale. L'article 8 de la loi n° 2024-317 du 8 avril 2024 portant mesures pour bâtir la société du bien vieillir et de l'autonomie (dite loi « Bien-vieillir ») modifie l'article L. 121- 6-1 du CASF et prévoit l'extension du registre communal dans le but affiché de mieux atteindre ces objectifs.
+
+B. - L'objet de la saisine
+
+Le nouvel article L. 121-6-1 du CASF prévoit qu'en plus des personnes inscrites à leur demande ou à celle d'un tiers, seront inscrites d'office dans le registre, sauf s'ils s'y opposent, les bénéficiaires :
+
+- de l'allocation personnalisée d'autonomie à domicile (APA) ;
+- de la prestation de compensation du handicap (PCH) ;
+- et des prestations d'action sociale versées au titre de la perte d'autonomie par des organismes d'assurance vieillesse.
+
+Par ailleurs, outre l'organisation d'un contact périodique, en cas de risques exceptionnels, par les services sociaux et sanitaires avec les personnes inscrites sur le registre, l'article L. 121-6-1 du CASF prévoit deux nouvelles finalités :
+
+- le repérage des situations de perte d'autonomie et des situations d'isolement social des personnes répertoriées ;
+- l'information de ces dernières et de leurs proches quant aux dispositifs d'aide et d'accompagnement existants, ainsi que leur droit au bénéfice éventuel d'une prestation ou d'un avantage.
+
+Au regard de ces mesures d'extension du registre, cet article prévoit également l'ajout de nouveaux destinataires.
+L'article L. 121-6-1 du CASF précise que les modalités du traitement sont fixées par décret en Conseil d'Etat pris après avis de la CNIL. C'est l'objet du présent projet de décret, qui redéfinit le cadre juridique relatif au registre communal, tout en continuant de le placer sous la responsabilité de chaque maire, uniquement en ce qui concerne sa commune.
+
+II. - L'avis de la CNIL
+A. - Sur les modalités de collecte des données
+
+L'article 1er du projet de décret prévoit l'ajout d'un nouvel article R. 121-2 du CASF précisant les modalités de collecte des données à caractère personnel pour l'inscription des personnes concernées au registre nominatif communal. Il s'agit de :
+
+- la collecte directe des données par le maire auprès des personnes qui sollicitent leur inscription sur le registre ;
+- la collecte indirecte des données auprès d'un tiers demandant l'inscription sur le registre d'une personne en situation de vulnérabilité ;
+- la collecte indirecte des données relatives aux bénéficiaires de prestations sociales transmises au maire par le président du conseil départemental (PCD) et la caisse d'assurance retraite et de la santé au travail (CARSAT).
+
+Par ailleurs, la CNIL relève que le maire peut demander aux personnes ainsi inscrites sur le registre communal, via un formulaire, des informations complémentaires à ajouter au registre. Ces informations, dont la fourniture resterait facultative, pourraient porter, par exemple, sur les conditions de vie ou de logement, les périodes d'absence prolongée ou encore les coordonnées des services intervenant à domicile.
+La CNIL prend acte de l'engagement du ministère de mettre en cohérence, dans le projet de décret, l'ensemble des modalités de collecte des données nécessaires pour l'inscription des personnes concernées sur le registre puis pour sa tenue.
+
+B. - Sur la collecte de données de santé
+
+L'article 5 du projet de décret, prévoit que la nature de la prestation attribuée au bénéficiaire peut être collectée par le maire. Il s'agit des données relatives à l'allocation personnalisée d'autonomie (APA) à domicile, à la prestation de compensation du handicap (PCH) et aux prestations d'action sociale versées au titre de la perte d'autonomie par des organismes d'assurance vieillesse.
+La CNIL relève que l'obtention de ces aides est conditionnée à un protocole et une évaluation fine de l'état de santé de la personne concernée, notamment à partir de la grille nationale AGGIR (Autonomie gérontologique groupes iso-ressources) ou de référentiels d'activités mentionnés à l'article L. 146-8 et à l'annexe 2-5 du CASF.
+Par conséquent, la nature de la prestation sociale perçue révèle la perte d'autonomie de la personne concernée réduisant de manière significative ou rendant impossibles ses capacités de travailler et de réaliser des activités du quotidien, telle qu'établie dans des grilles et référentiel. Ces informations apportent ainsi des indications sur l'état de santé du bénéficiaire.
+La CNIL observe à cet égard que la jurisprudence récente de la Cour de justice de l'Union européenne (CJUE) consacre une appréciation particulièrement large de la notion de donnée sensible (CJUE, grande chambre, 4 octobre 2024, Lindenapotheke, C-21/23).
+A cette occasion, la CJUE, rappelle au paragraphe 81 qu'elle avait « déjà jugé que, au vu de l'objectif de la directive 95/46 et du RGPD, qui est de garantir un niveau élevé de protection des libertés et des droits fondamentaux des personnes physiques, notamment de leur vie privée, à l'égard du traitement des données à caractère personnel les concernant, la notion de « données concernant la santé » visée à l'article 9, paragraphe 1, de ce règlement, qui correspond à la notion de « données relatives à la santé » visée à l'article 8, paragraphe 1, de cette directive, doit être interprétée de manière large ».
+La Cour précise aux paragraphes 82 et 83 de la même décision :
+
+- d'une part, que « ces dispositions ne sauraient être interprétées en ce sens que le traitement de données à caractère personnel susceptibles de révéler, de manière indirecte, des informations sensibles concernant une personne physique est soustrait au régime de protection renforcé prévu par lesdites dispositions, sauf à porter atteinte à l'effet utile de ce régime et à la protection des libertés et des droits fondamentaux des personnes physiques qu'il vise à assurer » ;
+- d'autre part, que « pour que des données à caractère personnel puissent être qualifiées de données concernant la santé, au sens de l'article 8, paragraphe 1, de la directive 95/46 et de l'article 9, paragraphe 1, du RGPD, il suffit qu'elles soient de nature à révéler, par une opération intellectuelle de rapprochement ou de déduction, des informations sur l'état de santé de la personne concernée ».
+
+Il résulte de ce qui précède que le traitement envisagé est susceptible de révéler des données relatives à la santé des personnes concernées, dont la collecte ne parait pas contraire aux exigences spécifiques encadrant le traitement de telles données, et apparait légitime eu égard à la finalité du traitement.
+Par conséquent, la CNIL invite les collectivités à mettre en œuvre les garanties nécessaires pour la sauvegarde des droits et libertés des personnes concernées. A ce titre, elle s'interroge sur l'application des dispositions du code de la santé publique, et notamment de l'article L. 1111-8, en cas d'externalisation de l'hébergement de ces données par un tiers.
+
+C. - Sur les durées de conservation
+
+L'article 11 du projet de décret prévoit que les données enregistrées dans le registre communal sont conservées en base active jusqu'au décès de la personne concernée ou sa radiation, sur sa demande, du registre. Le deuxième alinéa de l'article R. 121-5 du CASF dispose quant à lui que lorsque la personne concernée informe le maire d'un changement de commune de résidence, cela engendre automatiquement la radiation du registre et la suppression de ses données à caractère personnel.
+A cet égard, la CNIL relève que seules les personnes résidant à leur domicile peuvent être inscrites sur le registre, conformément à l'article R. 121-3 du CASF, tel que modifié par l'article 4 du projet de décret.
+Aussi, en cas de changement de conditions de vie impliquant de quitter le domicile, notamment pour un hébergement dans un établissement social et médico-social, les données de la personne concernée devraient être supprimées du registre. La CNIL prend acte de l'engagement du ministère de modifier le projet de décret sur ce point.
+
+D. - Sur les accédants et les destinataires
+
+En application de l'article L. 121-6-1 du CASF, l'article 8 du projet de décret désigne de nouveaux accédants et destinataires des données dans la limite notamment, de leurs missions, du public concerné et du territoire d'intervention. Il s'agit :
+
+- des centres communaux et intercommunaux d'action sociale, en tant qu'accédants ;
+- des établissements, les services sociaux et médico-sociaux ainsi que des centres intercommunaux d'action sociale, en tant que destinataires.
+
+Au regard de la sensibilité des données traitées et conformément aux conditions et aux modalités de traitement précisées dans le projet de décret, la CNIL invite chaque collectivité à mettre en place une politique rigoureuse de gestion des accès et des transmissions de données du registre, pour limiter ceux-ci aux seules personnes habilitées, au regard de leurs attributions respectives, et dans la limite de leur besoin d'en connaitre.
+
+E. - Sur l'information des personnes
+
+L'article 2 du projet de décret encadre l'information délivrée directement par le maire aux personnes lors de leur inscription sur le registre communal, conformément à l'article 13 du RGPD.
+En revanche, la CNIL relève que dans le cas de l'inscription d'une personne à la suite soit de la demande d'un tiers, soit de la transmission de ses données au maire par le PCD ou par la CARSAT, le projet de décret ne prévoit pas d'obligation d'information « indirecte », en méconnaissance de l'article 14 du RGPD.
+Sur ce point, la CNIL prend acte de l'engagement du ministère de prévoir l'information des personnes concernées du traitement de leurs données, lorsque leur inscription sur le registre n'est pas effectuée à leur demande, conformément aux exigences de l'article 14 du RGPD.
+
+F. - Sur la sécurité et la confidentialité des données
+
+L'article 7 du projet de décret précise que le maire met en œuvre des mesures de techniques et organisationnelles appropriées pour assurer la confidentialité et la sécurité du traitement des données, empêcher toute utilisation détournée ou frauduleuse et préserver leur intégrité.
+La CNIL relève à cet égard que le traitement réalisé dans le cadre du registre communal concerne :
+
+- un nombre important de personnes en situation de vulnérabilité ;
+- la collecte de données sensibles et hautement personnelles ;
+- et implique de nombreuses transmissions de données à des acteurs variés.
+
+Compte tenu du contexte aigu de menaces et des particularités du public visé, la CNIL appelle les collectivités à la plus grande précaution dans la mise en œuvre du traitement et à l'établissement de garanties substantielles pour la sauvegarde des droits et libertés des personnes concernées. Elle recommande de prendre en compte ces risque lors de la réalisation d'une analyse d'impact relative à la protection des données (AIPD).
+Les collectivités sont ainsi invitées à mettre en œuvre des mesures de sécurité, telles que la sensibilisation des accédants au registre, leur authentification, la gestion des habilitations et des mots de passe, des mesures de journalisation, des mesures de mise à jour des données, la traçabilité et la gestion des incidents, la sécurisation des serveurs, des mesures de sauvegarde, l'archivage sécurisé et la sécurisation des échanges des données.
+S'agissant des mesures techniques et organisationnelles d'analyse en temps réel des journaux d'évènements, la CNIL recommande le déploiement d'une mesure technique de surveillance active des journaux applicatifs, en vue de permettre la détection immédiate d'actions malveillantes au sein du traitement. Elle souligne l'importance de cette mesure au regard du nombre et de la sensibilité des données à caractère personnel traitées.
+Les autres dispositions du projet de décret n'appellent pas d'observations de la part de la CNIL.
+
+SIGNATAIRES
+La présidente,
+
+M.-L. DENIS

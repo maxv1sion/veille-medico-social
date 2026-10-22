@@ -1,0 +1,176 @@
+Décision du 3 septembre 2026 relative à l'organisation des élections professionnelles des représentants du personnel au comité social d'administration de proximité et à la commission consultative paritaire de l'Autorité de la concurrence par vote électronique internet du 3 au 10 décembre 2026
+
+Type : Décision / avis
+Date de signature : 2026-09-03
+Publication au Journal officiel : 2026-09-05
+NOR : ACOP2623492S
+Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054797278
+Source : données ouvertes DILA, archive JORF_20260905-004620.tar.gz
+
+VISAS
+Le président de l'Autorité de la concurrence,
+Vu le code général de la fonction publique ;
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés ;
+Vu le décret n° 86-83 du 17 janvier 1986 modifié relatif aux dispositions générales applicables aux agents contractuels de l'Etat ;
+Vu l'arrêté du 2 juillet 2025 fixant la date des prochaines élections professionnelles dans la fonction publique ;
+Vu l'arrêté du 16 juillet 2026 relatif aux modalités d'organisation du vote électronique par internet des personnels relevant des ministères économiques et financiers pour les élections professionnelles du 3 au 10 décembre 2026 ;
+Vu la décision du 24 février 2026 relative au comité social d'administration de proximité de l'Autorité de la concurrence ;
+Vu la décision du 24 février 2026 relative à la commission consultative paritaire au sein de l'Autorité de la concurrence ;
+Vu la décision du 10 mars 2026 fixant les parts respectives de femmes et d'hommes composant les effectifs pris en compte pour la détermination du nombre de représentants du personnel au sein du comité social d'administration de proximité de l'Autorité de la concurrence ;
+Vu la décision du 10 mars 2026 fixant les parts respectives de femmes et d'hommes composant les effectifs pris en compte pour la détermination du nombre de représentants du personnel au sein de la commission consultative paritaire de l'Autorité de la concurrence ;
+Vu l'avis du comité social d'administration de proximité en date du 3 septembre 2026,
+Décide :
+
+Article 1
+La présente décision a pour objet de fixer les modalités des élections professionnelles organisées à l'Autorité de la concurrence afin de désigner les représentants des organisations syndicales qui seront appelés à siéger au comité social d'administration de proximité et à la commission consultative paritaire.
+
+Article 2
+Les représentants du personnel de ces deux instances sont élus au scrutin sur liste à un seul tour, quel que soit le taux de participation électoral, selon la règle de la représentation proportionnelle avec répartition des restes à la plus forte moyenne.
+
+Article 3
+Les personnels de l'Autorité, régulièrement inscrits sur les listes électorales, votent par internet sur la plateforme mise en place par le ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique pour les élections des représentants du personnel au comité social d'administration de proximité et à la commission consultative paritaire.
+
+Article 4
+Les scrutins sont ouverts du 3 décembre 2026 à 8 h 30, heure de Paris, au 10 décembre 2026, 17 heures, heure de Paris.
+
+Article 5
+Les électeurs sont informés sur les modalités d'accès au système de vote électronique par internet, courriel ou par courrier le cas échéant, et sur son fonctionnement général par internet.
+
+Article 6
+Le système de vote électronique par internet fait l'objet d'une expertise indépendante conformément aux dispositions de l'article R. 211-518 à R. 211-521 du code général de la fonction publique susvisé.
+Pour procéder à cette expertise, l'expert indépendant ou le collège d'experts indépendants a accès aux codes sources de chaque système de vote, aux mécanismes de scellement et de chiffrement ainsi qu'aux réseaux informatiques.
+Dans le cadre de ses missions, l'expert indépendant a accès aux différents locaux de l'administration où s'organisent les élections ainsi qu'aux locaux des entreprises prestataires.
+Le rapport d'expertise est communiqué dans les conditions prévues par l'article R. 211-519 du code général de la fonction publique susvisé.
+
+Article 7
+Un centre d'assistance prend en charge les questions des électeurs, des membres des bureaux de vote et des représentants des organisations syndicales candidates. L'autorité peut faire appel au prestataire.
+
+Article 8
+Il est institué auprès de l'Autorité un bureau de centralisation de vote électronique pour chacune des instances mentionnées à l'article 1er de la présente décision.
+
+Article 9
+Le bureau de centralisation de vote électronique exerce les compétences qui lui sont dévolues, notamment :
+
+- en matière de contrôle de la régularité du scrutin et des opérations électorales, compétences mentionnées aux articles R. 211-539 et R. 211-542 du code général de la fonction publique susvisé. Dans le cadre de ces missions, les membres des bureaux de vote électronique peuvent consulter, à l'aide des identifiants électroniques qui leur ont été communiqués, les éléments relatifs aux taux de participation et la liste des émargements des électeurs ayant voté ;
+- en matière de contrôle des opérations de préparation du scrutin, des opérations de vote, de l'émargement des électeurs ayant voté et des opérations de dépouillement des suffrages exprimés, compétences mentionnées aux articles R. 211-541, R. 211-551, R. 211-552 et R. 211-573 à R. 211-575 du code général de la fonction publique susvisé.
+
+Article 10
+Le bureau de centralisation de vote électronique est composé, pour chaque scrutin :
+
+- d'un président, la cheffe du service des ressources humaines ;
+- d'un secrétaire, l'agent en charge du dialogue social au sein du service des ressources humaines ;
+- d'un délégué et d'un délégué suppléant de chaque liste en présence, en cas de dépôt d'une liste d'union, il n'est désigné qu'un délégué par liste.
+
+En cas d'absence ou d'empêchement, le président est remplacé par le secrétaire.
+Les décisions sont prises à la majorité des voix. En cas de partage égal des voix, le président a voix prépondérante.
+
+Article 11
+Les membres du bureau de centralisation de vote électronique détiennent les clés de chiffrement, réparties dans les conditions fixées par l'article 13 de la présente décision.
+
+Article 12
+Le nombre de clés de chiffrement pour les bureaux de vote est fixé à six, dont deux sont attribuées à l'administration, et quatre sont réparties entre les organisations syndicales ou liste d'union d'organisations syndicales n'ayant pas la même affiliation.
+Lors du déverrouillage des urnes, la clé du président, ou du secrétaire en cas d'empêchement, et d'aux moins deux délégués sont nécessaires.
+
+Article 13
+Ces clés de chiffrement sont réparties dans les conditions suivantes :
+
+1. Pour l'administration : une clé pour le président, une clé pour le secrétaire ;
+2. Pour les organisations syndicales ou listes d'union d'organisations syndicales n'ayant pas la même affiliation :
+- si le nombre de clés à répartir entre les délégués de liste est égal au nombre de délégués, chacun reçoit une clé ;
+- si le nombre de clés à répartir entre les délégués de liste est inférieur au nombre de délégués, les clés sont attribuées par tirage au sort, au sein du bureau de centralisation de vote électronique ;
+- si le nombre de clés à répartir entre les délégués de liste est supérieur au nombre de délégués, les clés supplémentaires sont attribuées par tirage au sort aux délégués suppléants, au sein du bureau de centralisation de vote électronique.
+
+Article 14
+Les listes électorales sont établies par le président de l'Autorité de la concurrence.
+La qualité d'électeur s'apprécie le 1er jour des scrutins conformément :
+
+- aux articles R. 211-18 à R. 211-28 du code général de la fonction publique susvisé pour le comité social d'administration de proximité ;
+- à l'article 6 de la décision du 24 février 2026 relative à la commission consultative paritaire au sein de l'Autorité de la concurrence pour cette seconde instance.
+
+Article 15
+La liste des électeurs pour chacun des scrutins est affichée dans les conditions fixées à l'article R. 211-530 du code général de la fonction publique susvisé, au plus tard le 3 novembre 2026. Ces listes sont également consultables par le biais du système de vote électronique.
+Le droit de rectification des listes électorales affichées s'exerce jusqu'au 16 novembre 2026. Les formulaires de demande de rectification sont mis en ligne dans le système de vote et transmis par voie électronique au service des ressources humaines. Les décisions administratives consécutives aux demandes de modification des listes électorales sont transmises par voie électronique aux intéressés.
+
+Article 16
+Les candidatures sont présentées par les organisations syndicales, qui dans la fonction publique de l'Etat, remplissent les conditions fixées aux articles L. 211-1 à L. 211-4 du code général de la fonction publique susvisé.
+Elles peuvent être communes à plusieurs organisations syndicales.
+
+Article 17
+Chaque liste doit indiquer le nom d'un délégué, qui peut être ou non candidat, désigné par l'organisation syndicale afin de représenter la candidature dans toutes les opérations électorales. L'organisation syndicale peut désigner un délégué suppléant.
+
+Article 18
+Chaque organisation syndicale ne peut présenter qu'une liste de candidats pour un même scrutin. Nul ne peut être candidat sur plusieurs listes d'un même scrutin.
+
+Article 19
+Chaque liste comprend un nombre égal au moins aux deux tiers et au plus au nombre de sièges de représentants titulaires et de représentants suppléants à pourvoir.
+En outre, la liste doit comporter un nombre pair de noms au moment de son dépôt, soit :
+
+- pour le CSAP, au moins 8 candidats, au plus 10 ;
+- pour la CCP, 4 candidats.
+
+Il n'est pas fait mention pour chacun de la qualité de titulaire et de suppléant.
+
+Article 20
+Les listes de candidats doivent comporter un nombre de femmes et d'hommes conforme aux parts établis pour chaque instance dans les décisions du 10 mars 2026 susvisées.
+Lorsque l'application de l'alinéa précédent n'aboutit pas à un nombre entier de candidats à désigner pour chacun des deux sexes, l'organisation syndicale procède indifféremment à l'arrondi inférieur ou supérieur.
+
+Article 21
+Les listes de candidats et les déclarations individuelles de candidature sont déposées au plus tard le 22 octobre 2026, 17 heures de Paris, et font l'objet d'un récépissé remis au délégué de liste ou son suppléant.
+Les organisations syndicales transmettent simultanément leur logo, sous format PNG, 400 × 400 pixels, et la profession de foi éventuelle, de deux pages, sous format PDF, avec une taille maximum de 2 Mo.
+
+Article 22
+Lorsque l'administration constate que la candidature ne satisfait pas aux conditions fixées, elle informe le délégué de liste, par décision motivée de l'irrecevabilité de la candidature.
+
+Article 23
+Aucune candidature ne peut être déposée ou modifiée après la date prévue à l'article 21. De même, aucun retrait de candidature ne peut être opéré après le dépôt des candidatures.
+
+Article 24
+La notice d'information détaillée sur la solution de vote à utiliser, précisant en particulier les moyens d'authentification, est communiquée à chaque électeur au moins quinze jours avant le premier jour du scrutin.
+
+Article 25
+Les moyens d'authentification comprennent un identifiant, un mot de passe temporaire par courriel avant le mot de passe définitif que l'électeur crée lui-même au moment de l'activation de son compte pour accéder à l'espace électeur. L'identifiant est mis à disposition dans l'Espace numérique sécurisé de l'agent public (ENSAP).
+
+Article 26
+Chaque détenteur de clé remet à l'administration, à l'issue de la cérémonie de scellement, la fiche contenant la phrase secrète associée à sa clé de chiffrement dans une enveloppe inviolable fournie par l'administration.
+Il appartiendra à l'Autorité de conserver cette enveloppe scellée, de manière sécurisée, jusqu'au jour de la clôture des scrutins.
+Les enveloppes utilisées sont des enveloppes sécurisées. Lors du scellement de l'enveloppe, un bordereau détachable est remis au détenteur de la clé.
+Ce bordereau détachable comporte le numéro de l'enveloppe sécurisée. Ce bordereau est conservé par le détenteur de la clé de déchiffrement.
+
+Article 27
+La connexion sécurisée au système de vote peut s'effectuer à partir de tout poste informatique connecté à internet et respectant les prérequis techniques mentionnés dans la notice de vote communiquée aux électeurs. Les opérations de vote électronique par internet peuvent être réalisées sur le lieu d'exercice pendant les horaires de service ou à distance.
+Pour voter par internet, l'électeur, après s'être connecté au système de vote et identifié à l'aide des moyens d'authentification, exprime son vote pour chaque scrutin qui lui est attribué. Le bulletin de vote est chiffré sur le poste de l'électeur et stocké dans l'urne en vue du dépouillement sans avoir été déchiffré à aucun moment, même de manière transitoire.
+La transmission du vote et l'émargement de l'électeur donnent lieu pour chaque scrutin à la communication, à destination de l'électeur, d'un accusé de réception lui confirmant son vote et qui peut être conservé par lui.
+
+Article 28
+Après l'heure de clôture du scrutin, aucune procédure de vote ne peut être lancée. Toutefois, l'électeur connecté sur le système de vote avant l'heure de clôture peut valablement mener jusqu'à son terme la procédure de vote dans la limite de trente minutes après la clôture du scrutin.
+
+Article 29
+Après avoir procédé à la vérification de l'intégrité du système de vote, les membres du bureau de centralisation de vote électronique qui détiennent des clés de chiffrement procèdent publiquement à l'ouverture de l'urne électronique en activant les clés de chiffrement.
+
+Article 30
+Le bureau de centralisation de vote électronique établit un procès-verbal des opérations électorales dans lequel sont consignées les observations des membres du bureau, les constatations faites au cours des opérations de vote, les événements survenus durant le scrutin et les interventions effectuées sur le système électronique de vote.
+Les procès-verbaux du vote qui peuvent être consultés par les électeurs et les candidats jusqu'à l'expiration du délai de recours contentieux sont publiés sur le site intranet de l'Autorité.
+
+Article 31
+Les clés de chiffrement et les phrases secrètes associées sont remises publiquement à l'administration. Ils sont conservés sous plis scellés en présence des membres du bureau de centralisation de vote électronique afin de permettre, le cas échéant, une nouvelle exécution de la procédure de décompte des votes.
+A l'expiration du délai de recours contentieux ou, lorsqu'aucune action ni contentieuse ni pénale n'a été engagée, seuls les bulletins de vote décryptés sont conservés.
+Deux ans après la publication des résultats, sauf lorsqu'une action contentieuse a été engagée, il est fait application du second alinéa de l'article R. 211-584 du code général de la fonction publique susvisé. Dans le cas où le décompte a donné lieu à un dépouillement vérifiable consistant en la production de preuves mathématiques permettant de vérifier l'exactitude du comptage et de prouver que celui-ci s'est déroulé sans erreur, il sera procédé publiquement à la destruction de la totalité des clés de déchiffrement ainsi que des phrases associées sitôt les opérations de dépouillement vérifiable achevées.
+
+Article 32
+La publication des résultats électoraux pour les scrutins au comité social d'administration de proximité et à la commission consultative paritaire est effectuée sur le site intranet de l'Autorité.
+A l'issue du dépouillement, les résultats sont proclamés par courriel à l'ensemble du personnel par le président du bureau de vote.
+Un exemplaire du procès-verbal est affiché sur les panneaux d'affichage réservés à cet effet.
+Une copie du procès-verbal est adressée par lettre recommandée avec avis de réception aux organisations syndicales candidates au scrutin.
+Le délai de cinq jours pour la contestation des opérations électorales, prévu par les dispositions applicables à chacun des scrutins, est opposable à compter de la publication en ligne des résultats effectuée dans les conditions prévues au premier alinéa du présent article.
+
+Article 33
+Compte tenu des résultats des élections professionnelles au comité social d'administration de proximité, le président de l'Autorité, par décision, prend acte des représentants élus pour chaque organisation syndicale et désigne les représentants de l'administration au comité social d'administration de proximité.
+Compte tenu des résultats des élections professionnelles à la commission consultative paritaire, le président de l'Autorité, par décision, prend acte des représentants élus pour chaque organisation syndicale et désigne les représentants de l'administration à la commission consultative paritaire.
+
+Article 34
+Le secrétaire général de l'Autorité est chargé de l'exécution de la présente décision.
+
+SIGNATAIRES
+Le président de l'Autorité de la concurrence,
+
+B. COEURÉ

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_VERSION>
+<META>
+<META_COMMUN>
+<ID>JORFTEXT000054894156</ID>
+<ID_ELI>https://www.legifrance.gouv.fr/eli/arrete/2026/9/24/INTH2621064A/jo/texte</ID_ELI>
+<ANCIEN_ID/>
+<ORIGINE>JORF</ORIGINE>
+<URL>texte/version/JORF/TEXT/00/00/54/89/41/JORFTEXT000054894156.xml</URL>
+<NATURE>ARRETE</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_TEXTE_CHRONICLE>
+<CID>JORFTEXT000054894156</CID>
+<NUM/>
+<NUM_PARUTION>0224</NUM_PARUTION>
+<NUM_SEQUENCE>4</NUM_SEQUENCE>
+<NOR>INTH2621064A</NOR>
+<DATE_PUBLI>2026-09-25</DATE_PUBLI>
+<DATE_TEXTE>2026-09-24</DATE_TEXTE>
+<ORIGINE_PUBLI>JORF n°0224 du 25 septembre 2026</ORIGINE_PUBLI>
+<PAGE_DEB_PUBLI/>
+<PAGE_FIN_PUBLI/>
+
+</META_TEXTE_CHRONICLE>
+<META_TEXTE_VERSION>
+
+
+<TITRE>Arrêté du 24 septembre 2026</TITRE>
+<TITREFULL>Arrêté du 24 septembre 2026 relatif aux modalités d'organisation du vote électronique par internet pour l'élection des représentants du personnel au sein des instances de représentation du ministère de l'intérieur et du ministère des outre-mer</TITREFULL>
+
+
+<DATE_DEBUT/>
+<DATE_FIN/>
+<AUTORITE/>
+<MINISTERE>Ministère de l'intérieur</MINISTERE>
+<MCS_TXT/>
+
+
+<LIENS>
+<LIEN cidtexte="JORFTEXT000000886460" datesignatexte="1978-01-06" id="JORFTEXT000000886460" naturetexte="LOI" nortexte="" num="" numtexte="78-17" sens="source" typelien="CITATION">Loi n° 78-17 du 6 janvier 1978</LIEN>
+<LIEN cidtexte="JORFTEXT000000699956" datesignatexte="1986-01-17" id="JORFTEXT000000699956" naturetexte="DECRET" nortexte="" num="" numtexte="86-83" sens="source" typelien="CITATION">Décret n°86-83 du 17 janvier 1986</LIEN>
+<LIEN cidtexte="JORFTEXT000000369046" datesignatexte="1995-01-21" id="LEGIARTI000006527999" naturetexte="LOI" nortexte="INTX9400063L" num="36" numtexte="95-73" sens="source" typelien="CITATION">Loi n° 95-73 du 21 janvier 1995 - art. 36</LIEN>
+<LIEN cidtexte="JORFTEXT000000609973" datesignatexte="2003-09-11" id="JORFTEXT000000609973" naturetexte="ARRETE" nortexte="INTC0300570A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 11 septembre 2003</LIEN>
+<LIEN cidtexte="JORFTEXT000000636232" datesignatexte="2005-12-08" id="JORFTEXT000000636232" naturetexte="ORDONNANCE" nortexte="ECOX0500286R" num="" numtexte="2005-1516" sens="source" typelien="CITATION">Ordonnance n° 2005-1516 du 8 décembre 2005</LIEN>
+<LIEN cidtexte="JORFTEXT000021175320" datesignatexte="2009-10-08" id="JORFTEXT000021175320" naturetexte="ARRETE" nortexte="IOCC0923580A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 8 octobre 2009</LIEN>
+<LIEN cidtexte="JORFTEXT000029264098" datesignatexte="2014-07-18" id="JORFTEXT000029264098" naturetexte="ARRETE" nortexte="INTA1413302A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 18 juillet 2014</LIEN>
+<LIEN cidtexte="JORFTEXT000029503640" datesignatexte="2014-09-23" id="JORFTEXT000029503640" naturetexte="ARRETE" nortexte="INTC1420275A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 23 septembre 2014</LIEN>
+<LIEN cidtexte="JORFTEXT000029662979" datesignatexte="2014-10-22" id="JORFTEXT000029662979" naturetexte="ARRETE" nortexte="INTA1424897A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 22 octobre 2014</LIEN>
+<LIEN cidtexte="JORFTEXT000036984526" datesignatexte="2018-06-01" id="JORFTEXT000036984526" naturetexte="ARRETE" nortexte="INTA1814848A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 1er juin 2018</LIEN>
+<LIEN cidtexte="LEGITEXT000044416551" datesignatexte="2999-01-01" id="LEGITEXT000044416551" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code général de la fonction publique</LIEN>
+<LIEN cidtexte="LEGITEXT000044416551" datesignatexte="2999-01-01" id="LEGISCTA000050546801" naturetexte="CODE" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code général de la fonction publique -  Livre II : EXERCICE DU DROIT SYNDICAL ET DIALOG...</LIEN>
+<LIEN cidtexte="JORFTEXT000045873905" datesignatexte="2022-06-07" id="JORFTEXT000045873905" naturetexte="DECRET" nortexte="MOMO2208923D" num="" numtexte="2022-862" sens="source" typelien="CITATION">Décret n°2022-862 du 7 juin 2022</LIEN>
+<LIEN cidtexte="JORFTEXT000046013969" datesignatexte="2022-07-04" id="JORFTEXT000046013969" naturetexte="DECRET" nortexte="INTC2208872D" num="" numtexte="2022-984" sens="source" typelien="CITATION">Décret n°2022-984 du 4 juillet 2022</LIEN>
+<LIEN cidtexte="JORFTEXT000046014019" datesignatexte="2022-07-04" id="JORFTEXT000046014019" naturetexte="DECRET" nortexte="INTJ2211525D" num="" numtexte="2022-987" sens="source" typelien="CITATION">Décret n°2022-987 du 4 juillet 2022</LIEN>
+<LIEN cidtexte="JORFTEXT000046014119" datesignatexte="2022-07-04" id="JORFTEXT000046014119" naturetexte="ARRETE" nortexte="INTC2217090A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 4 juillet 2022</LIEN>
+<LIEN cidtexte="JORFTEXT000046107293" datesignatexte="2022-07-22" id="JORFTEXT000046107293" naturetexte="ARRETE" nortexte="IOME2214868A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 22 juillet 2022</LIEN>
+<LIEN cidtexte="JORFTEXT000051844344" datesignatexte="2025-07-02" id="JORFTEXT000051844344" naturetexte="ARRETE" nortexte="APFF2513659A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 2 juillet 2025</LIEN>
+<LIEN cidtexte="JORFTEXT000053229755" datesignatexte="2025-12-30" id="JORFTEXT000053229755" naturetexte="DECRET" nortexte="CPPF2529967D" num="" numtexte="2025-1430" sens="source" typelien="CITATION">Décret n°2025-1430 du 30 décembre 2025</LIEN>
+<LIEN cidtexte="JORFTEXT000054171191" datesignatexte="2026-06-01" id="JORFTEXT000054171191" naturetexte="ARRETE" nortexte="INTH2613412A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 1er juin 2026</LIEN>
+<LIEN cidtexte="JORFTEXT000054179892" datesignatexte="2026-05-29" id="JORFTEXT000054179892" naturetexte="ARRETE" nortexte="INTC2613915A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 29 mai 2026</LIEN>
+<LIEN cidtexte="JORFTEXT000054179910" datesignatexte="2026-05-29" id="JORFTEXT000054179910" naturetexte="ARRETE" nortexte="INTH2614649A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 29 mai 2026</LIEN>
+<LIEN cidtexte="JORFTEXT000054179919" datesignatexte="2026-06-01" id="JORFTEXT000054179919" naturetexte="ARRETE" nortexte="INTH2613409A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 1er juin 2026</LIEN>
+<LIEN cidtexte="JORFTEXT000054180024" datesignatexte="2026-06-02" id="JORFTEXT000054180024" naturetexte="ARRETE" nortexte="INTH2614808A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 2 juin 2026</LIEN>
+<LIEN cidtexte="JORFTEXT000054189944" datesignatexte="2026-05-28" id="JORFTEXT000054189944" naturetexte="ARRETE" nortexte="INTC2614621A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 28 mai 2026</LIEN>
+<LIEN cidtexte="JORFTEXT000054189999" datesignatexte="2026-06-02" id="JORFTEXT000054189999" naturetexte="ARRETE" nortexte="INTE2614865A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 2 juin 2026</LIEN>
+<LIEN cidtexte="JORFTEXT000054199737" datesignatexte="2026-06-02" id="JORFTEXT000054199737" naturetexte="ARRETE" nortexte="INTE2614922A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 2 juin 2026</LIEN>
+<LIEN cidtexte="JORFTEXT000054207922" datesignatexte="2026-06-03" id="JORFTEXT000054207922" naturetexte="ARRETE" nortexte="INTC2614648A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 3 juin 2026</LIEN>
+<LIEN cidtexte="JORFTEXT000054228525" datesignatexte="2026-06-03" id="JORFTEXT000054228525" naturetexte="ARRETE" nortexte="INTJ2614719A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 3 juin 2026</LIEN>
+<LIEN cidtexte="JORFTEXT000054280345" datesignatexte="2026-06-03" id="JORFTEXT000054280345" naturetexte="ARRETE" nortexte="INTJ2614716A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 3 juin 2026</LIEN>
+<LIEN cidtexte="JORFTEXT000054388064" datesignatexte="2026-06-03" id="JORFTEXT000054388064" naturetexte="ARRETE" nortexte="INTJ2614722A" num="" numtexte="" sens="source" typelien="CITATION">Arrêté du 3 juin 2026</LIEN>
+</LIENS>
+
+</META_TEXTE_VERSION>
+</META_SPEC>
+</META>
+
+<NOTICE>
+<CONTENU/>
+</NOTICE>
+<VISAS>
+<CONTENU>
+<p align="left">
+<br/>Le ministre de l'intérieur et la ministre des outre-mer,<br/>Vu le code général de la fonction publique, notamment son livre II ;<br/>Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés ;<br/>Vu l'ordonnance n° 2005-1516 du 8 décembre 2005 modifiée relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives ;<br/>Vu le décret n° 86-83 du 17 janvier 1986 modifié relatif aux dispositions générales applicables aux agents contractuels de l'Etat ;<br/>Vu le décret n° 2022-862 du 7 juin 2022 relatif au comité social d'administration de l'Agence de l'outre-mer pour la mobilité (LADOM) ;<br/>Vu le décret n° 2022-984 du 4 juillet 2022 portant création de comités sociaux d'administration de la police nationale ;<br/>Vu le décret n° 2022-987 du 4 juillet 2022 modifié portant création du comité social d'administration du personnel civil de la gendarmerie nationale ;<br/>Vu le décret n° 2025-1430 du 30 décembre 2025 harmonisant et simplifiant les dispositions applicables aux élections professionnelles et aux instances de dialogue social dans la fonction publique ;<br/>Vu l'arrêté du 11 septembre 2003 modifié portant création d'une commission paritaire nationale compétente à l'égard des ouvriers cuisiniers de la police nationale ;<br/>Vu l'arrêté du 8 octobre 2009 modifié instituant des commissions consultatives paritaires compétentes à l'égard des adjoints de sécurité recrutés en application de l'article 36 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité ;<br/>Vu l'arrêté du 23 septembre 2014 modifié portant création d'une commission consultative paritaire compétente à l'égard des agents contractuels de droit public de la police nationale ;<br/>Vu l'arrêté du 22 octobre 2014 modifié portant création de la commission consultative professionnelle compétente à l'égard des personnels contractuels non navigants techniciens de maintenance du groupement d'hélicoptères de la sécurité civile ;<br/>Vu l'arrêté du 2 juillet 2025 fixant la date des prochaines élections professionnelles dans la fonction publique ;<br/>Vu l'arrêté du 19 mai 2026 portant création de la commission administrative paritaire compétente à l'égard des secrétaires administratifs du corps de l'Etat pour l'administration de la Polynésie française relevant du ministère de l'intérieur ;<br/>Vu l'arrêté du 19 mai 2026 portant création de la commission administrative paritaire compétente à l'égard des adjoints administratifs du corps de l'Etat pour l'administration de la Polynésie française relevant du ministère de l'intérieur ;<br/>Vu l'arrêté du 19 mai 2026 portant création et composition de la commission paritaire consultative compétente à l'égard des agents non fonctionnaires de l'administration de l'Etat en Polynésie française ;<br/>Vu l'arrêté du 28 mai 2026 modifiant l'arrêté du 4 juillet 2022 pris pour l'application du décret n° 2022-984 du 4 juillet 2022 portant création de certains comités sociaux d'administration de la police nationale ;<br/>Vu l'arrêté du 29 mai 2026 modifiant les arrêtés relatifs aux commissions consultatives paritaires de la police nationale ;<br/>Vu l'arrêté du 29 mai 2026 modifiant l'arrêté du 1<sup>er</sup> juin 2018 portant création d'une commission nationale de recours et de discipline compétente à l'égard de certains ouvriers d'Etat du ministère de l'intérieur ;<br/>Vu l'arrêté du 1<sup>er</sup> juin 2026 instituant des comités sociaux d'administration au sein du ministère de l'intérieur et du ministère des outre-mer ;<br/>Vu l'arrêté du 1<sup>er</sup> juin 2026 relatif aux commissions administratives paritaires compétentes à l'égard de certains corps de fonctionnaires du ministère de l'intérieur ;<br/>Vu l'arrêté du 2 juin 2026 portant création de la commission consultative paritaire compétente à l'égard de certains agents contractuels du ministère de l'intérieur ;<br/>Vu l'arrêté du 2 juin 2026 modifiant l'arrêté du 18 juillet 2014 portant création d'une commission consultative paritaire compétente à l'égard de certains personnels contractuels navigants et non navigants affectés au groupement des moyens aériens ;<br/>Vu l'arrêté du 2 juin 2026 modifiant l'arrêté du 22 juillet 2022 portant création d'une commission aéronautique compétente à l'égard des personnels navigants du groupement d'hélicoptères de la sécurité civile au groupement des moyens aériens ;<br/>Vu l'arrêté du 3 juin 2026 portant création des comités sociaux d'administration des services déconcentrés de la police nationale et de l'Ecole nationale supérieure de la police ;<br/>Vu l'arrêté du 3 juin 2026 relatif à la Commission nationale d'avancement des personnels à statut ouvrier du ministère des armées affectés en gendarmerie nationale ;<br/>Vu l'arrêté du 3 juin 2026 pris pour l'application du décret n° 2022-987 du 4 juillet 2022 portant création du comité social d'administration du personnel civil de la gendarmerie nationale ;<br/>Vu l'arrêté du 3 juin 2026 portant création d'une commission consultative paritaire compétente à l'égard des agents contractuels de la gendarmerie nationale ;<br/>Vu l'arrêté du 26 juin 2026 relatif aux commissions administratives paritaires et à la commission consultative paritaire compétentes à l'égard des agents publics relevant du statut des administrations parisiennes de la préfecture de police ;<br/>Vu la décision du 31 mai 2018 modifiant la décision du 27 juillet 2011 portant création de la commission consultative paritaire compétente à l'égard des agents contractuels de l'Office français de l'immigration et de l'intégration ;<br/>Vu la décision du 24 mai 2022 portant création de la commission consultative paritaire compétente à l'égard des agents contractuels de l'Office français de protection des réfugiés et apatrides ;<br/>Vu la décision du 13 juillet 2026 portant création de la Commission Consultative Paritaire (CCP) compétente à l'égard des agents contractuels de droit public de l'Agence de l'outre-mer pour la mobilité (LADOM) ;<br/>Vu la délibération n° 2026-045 du 19 mars 2026 portant adoption d'une recommandation relative à la sécurité des systèmes de vote par correspondance électronique ;<br/>Vu la délibération du 22 juin 2026 n° 2026 PP 32 portant institution du comité social territorial et des formations spécialisées compétences à l'égard des personnels de la préfecture de police relevant du statut des administrations parisiennes ;<br/>Vu l'avis du comité social d'administration ministériel unique du ministère de l'intérieur et des outre-mer en date du 7 avril 2026 ;<br/>Vu l'avis du comité social d'administration de réseau des directions départementales interministérielles en date du 18 mai 2026,<br/>Arrêtent :</p>
+</CONTENU>
+</VISAS>
+<SIGNATAIRES>
+<CONTENU>
+<div align="left">
+<p>Fait le 24 septembre 2026.</p>
+</div>
+<div align="left">
+<p>Le ministre de l'intérieur,</p>
+<p>Pour le ministre et par délégation :</p>
+<p>Le secrétaire général,</p>
+<p>E. STOSKOPF</p>
+</div>
+<div align="left">
+<p>La ministre des outre-mer,</p>
+<p>Pour la ministre et par délégation :</p>
+<p>Le secrétaire général,</p>
+<p>E. STOSKOPF</p>
+</div>
+</CONTENU>
+</SIGNATAIRES>
+<TP>
+<CONTENU/>
+</TP>
+
+<ABRO>
+<CONTENU/>
+</ABRO>
+<RECT>
+<CONTENU/>
+</RECT>
+<SM>
+<CONTENU/>
+</SM>
+
+<ENTREPRISE texte_entreprise="non">
+<DATES_EFFET/>
+<DOMAINES/>
+</ENTREPRISE>
+</TEXTE_VERSION>

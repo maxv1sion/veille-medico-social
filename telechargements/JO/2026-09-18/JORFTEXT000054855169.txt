@@ -1,0 +1,69 @@
+Décret n° 2026-866 du 16 septembre 2026 relatif à la durée maximale dérogatoire d'indemnisation pour arrêt de travail et à la sanction des abus
+
+Type : Décret
+Date de signature : 2026-09-16
+Publication au Journal officiel : 2026-09-18
+NOR : SFHS2617976D
+Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054855169
+Source : données ouvertes DILA, archive JORF_20260918-002728.tar.gz
+
+NOTICE
+Publics concernés : assurés sociaux des régimes de base, assurés sociaux du régime général, salariés du régime agricole, clercs et employés de notaire bénéficiant d'une durée d'indemnisation dérogatoire, en dehors de ceux atteints d'une affection de longue durée au sens des 3° et 4° de l'article L. 160-14 du code de la sécurité sociale, qui bénéficieront toujours d'une durée d'indemnisation de trois ans ; organismes d'assurance sociale.
+
+Objet : le décret réduit à un an la durée maximale dérogatoire d'indemnisation pour arrêt de travail des assurés qui en bénéficient et dont la participation aux frais de santé n'est pas limitée ou supprimée en application des 3° et 4° de l'article L. 160-14 du code de la sécurité sociale. En revanche, est maintenue à trois ans la durée maximale d'indemnisation des assurés atteints d'une affection de longue durée au sens des 3° et 4° de l'article L. 160-14 du code de la sécurité sociale. Le décret prévoit en outre la possibilité de pénaliser un assuré qui abuserait de sa qualité d'assuré social en vue d'obtenir de manière injustifiée des prescriptions d'arrêt de travail sans lien avec son état de santé.
+
+Entrée en vigueur : les dispositions du 1° de l'article 1er entrent en vigueur le lendemain de la publication du présent décret et les dispositions des 2° à 6° de l'article 1er et de l'article 2 s'appliquent aux arrêts de travail prescrits à compter du 15 octobre 2026, ainsi qu'aux arrêts de travail en cours au 15 octobre 2026 atteignant six mois à compter de cette date.
+
+Application : le présent décret est pris pour l'application des articles L. 114-17-1, L. 323-1, L. 323-3, L. 323-3-1, L. 324-1 et L. 160-14 du code de la sécurité sociale.
+
+VISAS
+Le Premier ministre,
+Sur le rapport de la ministre de la santé, des familles, de l'autonomie et des personnes handicapées,
+Vu le code de la sécurité sociale, notamment ses articles L. 114-17-1, L. 323-1, L. 323-3, L. 160-14, L. 323-3-1 et L. 324-1 ;
+Vu la loi du 12 juillet 1937 modifiée instituant une caisse de retraite et de prévoyance des clercs et employés de notaires ;
+Vu le décret n° 90-1215 du 20 décembre 1990 modifié portant application de la loi du 12 juillet 1937 instituant une caisse de retraite et de prévoyance des clercs et employés de notaires et modifiant certaines dispositions relatives à cette caisse, notamment son article 72 ;
+Vu l'avis du conseil central d'administration de la Caisse centrale de mutualité sociale agricole en date du 4 septembre 2026 ;
+Vu l'avis du conseil de la Caisse nationale de l'assurance maladie en date du 8 septembre 2026 ;
+Vu l'avis du conseil de l'Union nationale des caisses d'assurance maladie en date du 8 septembre 2026 ;
+Le Conseil d'Etat (section sociale) entendu,
+Décrète :
+
+Article 1
+Le code de la sécurité sociale est ainsi modifié :
+1° Au b du 2° de l'article R. 147-6, après les mots : « sans lien avec leur état de santé », sont insérés les mots : « ou une prescription d'un arrêt de travail non justifié » ;
+2° A l'article R. 323-1 :
+a) Au premier alinéa, les mots : « du premier alinéa » sont supprimés ;
+b) Au 1°, les mots : « une période de trois ans » sont remplacés par les mots : « la période pendant laquelle l'indemnité journalière peut être servie » ;
+c) Les 2° et 3° sont remplacés par un 2° ainsi rédigé :
+« 2° Pour les affections donnant lieu à l'application de la procédure prévue à l'article L. 324-1 :
+« a) Lorsque la participation de l'assuré est limitée ou supprimée en application des 3° et 4° de l'article L. 160-14, la durée maximale de la période pendant laquelle l'indemnité journalière peut être servie, mentionnée au premier alinéa de l'article L. 323-1, est fixée à trois ans, et la durée de reprise du travail au-delà de laquelle le délai de trois ans court à nouveau, mentionnée au 1° du même article, est fixée à un an ;
+« b) Lorsque la participation de l'assuré n'est pas limitée ou supprimée en application des 3° et 4° de l'article L. 160-14, la durée maximale de la période pendant laquelle l'indemnité journalière peut être servie, mentionnée au premier alinéa de l'article L. 323-1, est fixée à un an, et la durée de reprise du travail au-delà de laquelle le délai d'un an court à nouveau, mentionnée au 1° du même article, est fixée à un an. » ;
+d) Le 4° devient 3° ;
+3° Au second alinéa de l'article R. 323-3 :
+a) Les mots : « La durée maximale, prévue au premier alinéa » sont remplacés par les mots : « La durée maximale de versement, prévue au dernier alinéa » ;
+b) Les mots : « le délai de trois ans prévu à » sont remplacés par les mots : « les périodes prévues au 2° de » ;
+c) Après la référence : « R. 323-1 », sont ajoutés les mots : « et le nombre maximal d'indemnités journalières prévu au 3° du même article. » ;
+4° Au quatrième alinéa du I de l'article R. 323-3-1 :
+a) Les mots : « , sauf lorsque » sont remplacés par les mots : « les périodes prévues au 2° de l'article R. 323-1 et le nombre maximal d'indemnités journalières prévu au 3° du même article. Lorsque » ;
+b) Les mots : « le délai prévu au 2° de l'article R. 323-1 du présent code » sont remplacés par les mots : « cette durée ne peut excéder quatre ans. » ;
+5° Au troisième alinéa de l'article R. 331-2, les mots : « à l'article R.323-1 » sont remplacés par les mots : « au 3° de l'article R. 323-1 ».
+
+Article 2
+A la seconde phrase du deuxième alinéa du I de l'article 72 du décret du 20 décembre 1990 susvisé, les mots : « une période de trois ans » sont remplacés par les mots : « les périodes mentionnées au 2° de l'article R. 323-1 dudit code ».
+
+Article 3
+Les dispositions des 2° à 5° de l'article 1er et l'article 2 s'appliquent aux arrêts de travail prescrits à compter du 15 octobre 2026 ainsi qu'aux arrêts de travail en cours au 15 octobre 2026 pour une incapacité de travail atteignant six mois à compter de cette date. Les dispositions des articles R. 323-1, R. 323-3, R. 323-3-1 et R. 331-2, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, continuent de s'appliquer jusqu'au terme de la durée maximale de trois ans de la période pendant laquelle l'indemnité journalière peut être servie aux assurés sociaux qui, à la date du 15 octobre 2026, se sont vu reconnaître le bénéfice de la procédure prévue à l'article L. 324-1 du code de la sécurité sociale et dont la participation n'est pas limitée ou supprimée au titre de l'article L. 160-14 du même code.
+
+Article 4
+La ministre de la santé, des familles, de l'autonomie et des personnes handicapées est chargée de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+SIGNATAIRES
+Fait le 16 septembre 2026.
+
+Sébastien LECORNU
+
+Par le Premier ministre :
+
+La ministre de la santé, des familles, de l'autonomie et des personnes handicapées,
+
+Stéphanie RIST
