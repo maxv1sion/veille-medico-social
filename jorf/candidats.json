@@ -298,18 +298,6 @@
       "fichier": "telechargements/JO/2026-10-22/JORFTEXT000055005805.txt"
     },
     {
-      "id": "JORFTEXT000055005831",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 15 octobre 2026 relatif aux modalités d'organisation du vote électronique par internet des personnels relevant du ministères du travail et des solidarités et du ministère de la santé, des familles, de l'autonomie et des personnes handicapées ainsi que de certains personnels relevant du ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique, pour les élections des représentants des personnels au sein des instances représentatives du personnel fixées du 3 au 10 décembre 2026",
-      "nor": "TRSR2626747A",
-      "datePubli": "2026-10-22",
-      "dateTexte": "2026-10-15",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055005831",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-10-22/JORFTEXT000055005831.txt"
-    },
-    {
       "id": "JORFTEXT000055006091",
       "nature": "ARRETE",
       "titre": "Arrêté du 2 octobre 2026 modifiant l'arrêté du 12 novembre 2024 relatif aux critères d'affectation du solde de la taxe d'apprentissage mentionnés à l'article R. 6241-28 du code du travail",
@@ -330,7 +318,7 @@
       "dateTexte": "2026-10-05",
       "type": "Arrêté",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054999225",
-      "ajoute": "2026-10-20",
+      "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-10-20/JORFTEXT000054999225.txt"
     },
     {
@@ -344,18 +332,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054993196",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-10-18/JORFTEXT000054993196.txt"
-    },
-    {
-      "id": "JORFTEXT000054988137",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 14 octobre 2026 relatif aux modalités d'organisation du vote électronique par internet pour l'élection des représentants du personnel au sein des instances de dialogue social du ministère de la justice",
-      "nor": "JUST2626971A",
-      "datePubli": "2026-10-16",
-      "dateTexte": "2026-10-14",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054988137",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-10-16/JORFTEXT000054988137.txt"
     },
     {
       "id": "JORFTEXT000054988419",
@@ -394,66 +370,6 @@
       "fichier": "telechargements/JO/2026-10-14/JORFTEXT000054979559.txt"
     },
     {
-      "id": "JORFTEXT000054979819",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 24 mars 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2626960A",
-      "datePubli": "2026-10-14",
-      "dateTexte": "2026-03-24",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979819",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-10-14/JORFTEXT000054979819.txt"
-    },
-    {
-      "id": "JORFTEXT000054979821",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 30 mai 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2626962A",
-      "datePubli": "2026-10-14",
-      "dateTexte": "2026-05-30",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979821",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-10-14/JORFTEXT000054979821.txt"
-    },
-    {
-      "id": "JORFTEXT000054979823",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 24 septembre 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2626964A",
-      "datePubli": "2026-10-14",
-      "dateTexte": "2026-09-24",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979823",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-10-14/JORFTEXT000054979823.txt"
-    },
-    {
-      "id": "JORFTEXT000054979825",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 30 septembre 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2626966A",
-      "datePubli": "2026-10-14",
-      "dateTexte": "2026-09-30",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979825",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-10-14/JORFTEXT000054979825.txt"
-    },
-    {
-      "id": "JORFTEXT000054979827",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 30 septembre 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2626968A",
-      "datePubli": "2026-10-14",
-      "dateTexte": "2026-09-30",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979827",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-10-14/JORFTEXT000054979827.txt"
-    },
-    {
       "id": "JORFTEXT000054969564",
       "nature": "ARRETE",
       "titre": "Arrêté du 8 octobre 2026 fixant la liste des établissements mentionnés aux 3° à 6° de l'article L. 5 du code général de la fonction publique dirigés par un directeur relevant de la classe normale du corps des directeurs des établissements sanitaires, sociaux et médico-sociaux de la fonction publique hospitalière",
@@ -462,7 +378,7 @@
       "dateTexte": "2026-10-08",
       "type": "Arrêté",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969564",
-      "ajoute": "2026-10-19",
+      "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-10-10/JORFTEXT000054969564.txt"
     },
     {
@@ -474,7 +390,7 @@
       "dateTexte": "2026-10-08",
       "type": "Arrêté",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969574",
-      "ajoute": "2026-10-19",
+      "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-10-10/JORFTEXT000054969574.txt"
     },
     {
@@ -486,7 +402,7 @@
       "dateTexte": "2026-10-09",
       "type": "Arrêté",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054969596",
-      "ajoute": "2026-10-19",
+      "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-10-10/JORFTEXT000054969596.txt"
     },
     {
@@ -498,7 +414,7 @@
       "dateTexte": "2026-10-08",
       "type": "Arrêté",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054965711",
-      "ajoute": "2026-10-19",
+      "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-10-09/JORFTEXT000054965711.txt"
     },
     {
@@ -546,44 +462,8 @@
       "dateTexte": "2026-09-23",
       "type": "Arrêté",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054945998",
-      "ajoute": "2026-10-19",
+      "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-10-03/JORFTEXT000054945998.txt"
-    },
-    {
-      "id": "JORFTEXT000054945825",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 30 septembre 2026 portant désignation d'un magistrat chargé de l'inspection des administrateurs judiciaires et des mandataires judiciaires",
-      "nor": "JUSC2625595A",
-      "datePubli": "2026-10-03",
-      "dateTexte": "2026-09-30",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054945825",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-10-03/JORFTEXT000054945825.txt"
-    },
-    {
-      "id": "JORFTEXT000054945827",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 30 septembre 2026 portant désignation d'un magistrat chargé de l'inspection des administrateurs judiciaires et des mandataires judiciaires",
-      "nor": "JUSC2625669A",
-      "datePubli": "2026-10-03",
-      "dateTexte": "2026-09-30",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054945827",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-10-03/JORFTEXT000054945827.txt"
-    },
-    {
-      "id": "JORFTEXT000054945829",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 30 septembre 2026 portant désignation d'un magistrat chargé de l'inspection des administrateurs judiciaires et des mandataires judiciaires",
-      "nor": "JUSC2625677A",
-      "datePubli": "2026-10-03",
-      "dateTexte": "2026-09-30",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054945829",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-10-03/JORFTEXT000054945829.txt"
     },
     {
       "id": "JORFTEXT000054938217",
@@ -596,30 +476,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054938217",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-10-02/JORFTEXT000054938217.txt"
-    },
-    {
-      "id": "JORFTEXT000054938477",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 29 septembre 2026 définissant le taux annuel minimum de contrôle 2026 de l'écorégime, des indemnités compensatoires de handicaps naturels et des aides en faveur de l'agriculture biologique en application de l'article D. 614-17 du code rural et de la pêche maritime",
-      "nor": "AGRT2625023A",
-      "datePubli": "2026-10-02",
-      "dateTexte": "2026-09-29",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054938477",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-10-02/JORFTEXT000054938477.txt"
-    },
-    {
-      "id": "JORFTEXT000054930363",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 11 septembre 2026 fixant le coefficient stabilisateur budgétaire appliqué aux montants des indemnités compensatoires de handicap naturel au titre de la campagne 2026",
-      "nor": "AGRT2621953A",
-      "datePubli": "2026-10-01",
-      "dateTexte": "2026-09-11",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054930363",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-10-01/JORFTEXT000054930363.txt"
     },
     {
       "id": "JORFTEXT000054930447",
@@ -670,18 +526,6 @@
       "fichier": "telechargements/JO/2026-09-30/JORFTEXT000054912629.txt"
     },
     {
-      "id": "JORFTEXT000054913686",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 23 septembre 2026 modifiant l'arrêté du 2 juin 2026 relatif aux modalités de l'élection des représentants du personnel au conseil d'administration et aux commissions territoriales de l'établissement public de la Masse des douanes",
-      "nor": "CPPD2623862A",
-      "datePubli": "2026-09-30",
-      "dateTexte": "2026-09-23",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054913686",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-09-30/JORFTEXT000054913686.txt"
-    },
-    {
       "id": "JORFTEXT000054909308",
       "nature": "DECRET",
       "titre": "Décret n° 2026-900 du 24 septembre 2026 relatif aux modalités générales d'établissement du diagnostic des maladies prévues dans les tableaux de maladies professionnelles",
@@ -718,30 +562,6 @@
       "fichier": "telechargements/JO/2026-09-29/JORFTEXT000054909480.txt"
     },
     {
-      "id": "JORFTEXT000054904412",
-      "nature": "AVIS",
-      "titre": "Avis de recrutement de 78 travailleurs en situation de handicap par la voie contractuelle dans le corps d'encadrement et d'application du personnel de surveillance de l'administration pénitentiaire ouvert au titre de la deuxième session de l'année 2026",
-      "nor": "JUSK2623782V",
-      "datePubli": "2026-09-27",
-      "dateTexte": "2999-01-01",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054904412",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-09-27/JORFTEXT000054904412.txt"
-    },
-    {
-      "id": "JORFTEXT000054894156",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 24 septembre 2026 relatif aux modalités d'organisation du vote électronique par internet pour l'élection des représentants du personnel au sein des instances de représentation du ministère de l'intérieur et du ministère des outre-mer",
-      "nor": "INTH2621064A",
-      "datePubli": "2026-09-25",
-      "dateTexte": "2026-09-24",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054894156",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-09-25/JORFTEXT000054894156.txt"
-    },
-    {
       "id": "JORFTEXT000054894368",
       "nature": "DECRET",
       "titre": "Décret n° 2026-889 du 24 septembre 2026 relatif à la mise en œuvre de l'expérimentation prévue à l'article 16 de la loi de financement de la sécurité sociale pour 2026",
@@ -766,54 +586,6 @@
       "fichier": "telechargements/JO/2026-09-25/JORFTEXT000054894533.txt"
     },
     {
-      "id": "JORFTEXT000054894808",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 10 septembre 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2625186A",
-      "datePubli": "2026-09-25",
-      "dateTexte": "2026-09-10",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054894808",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-09-25/JORFTEXT000054894808.txt"
-    },
-    {
-      "id": "JORFTEXT000054888191",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 22 septembre 2026 modifiant l'arrêté du 29 juin 2026 fixant le nombre d'emplois offerts au titre de l'année 2026 aux fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés pour l'accès au corps interministériel des attachés d'administration de l'Etat",
-      "nor": "INTH2623560A",
-      "datePubli": "2026-09-24",
-      "dateTexte": "2026-09-22",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054888191",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-09-24/JORFTEXT000054888191.txt"
-    },
-    {
-      "id": "JORFTEXT000054888623",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 10 septembre 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2625187A",
-      "datePubli": "2026-09-24",
-      "dateTexte": "2026-09-10",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054888623",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-09-24/JORFTEXT000054888623.txt"
-    },
-    {
-      "id": "JORFTEXT000054888625",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 10 septembre 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2625188A",
-      "datePubli": "2026-09-24",
-      "dateTexte": "2026-09-10",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054888625",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-09-24/JORFTEXT000054888625.txt"
-    },
-    {
       "id": "JORFTEXT000054860495",
       "nature": "ARRETE",
       "titre": "Arrêté du 16 septembre 2026 relatif à l'agrément de certains accords de travail applicables dans les établissements et services du secteur social et médico-social privé à but non lucratif",
@@ -824,18 +596,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054860495",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-09-19/JORFTEXT000054860495.txt"
-    },
-    {
-      "id": "JORFTEXT000054860533",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 15 septembre 2026 ouvrant le recrutement par la voie du détachement dans un corps de niveau supérieur ou de catégorie supérieure au titre de l'année 2026 aux fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés pour l'accès au corps de technicien d'art du ministère de la culture",
-      "nor": "MICB2624067A",
-      "datePubli": "2026-09-19",
-      "dateTexte": "2026-09-15",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054860533",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-09-19/JORFTEXT000054860533.txt"
     },
     {
       "id": "JORFTEXT000054854981",
@@ -898,18 +658,6 @@
       "fichier": "telechargements/JO/2026-09-18/JORFTEXT000054855196.txt"
     },
     {
-      "id": "JORFTEXT000054834169",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 8 septembre 2026 portant désignation d'un magistrat chargé de l'inspection des administrateurs judiciaires et des mandataires judiciaires",
-      "nor": "JUSC2623189A",
-      "datePubli": "2026-09-12",
-      "dateTexte": "2026-09-08",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054834169",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-09-12/JORFTEXT000054834169.txt"
-    },
-    {
       "id": "JORFTEXT000054816855",
       "nature": "DECRET",
       "titre": "Décret n° 2026-853 du 9 septembre 2026 relatif aux données transmises par les départements à la Caisse nationale de solidarité pour l'autonomie au titre des financements destinés à couvrir une partie du coût de l'allocation personnalisée d'autonomie, la prestation de compensation et des mesures liées à l'attractivité, à la dignité et à l'amélioration des salaires des métiers des services d'accompagnement et d'aide à domicile",
@@ -946,18 +694,6 @@
       "fichier": "telechargements/JO/2026-09-06/JORFTEXT000054798011.txt"
     },
     {
-      "id": "JORFTEXT000054797278",
-      "nature": "DECISION",
-      "titre": "Décision du 3 septembre 2026 relative à l'organisation des élections professionnelles des représentants du personnel au comité social d'administration de proximité et à la commission consultative paritaire de l'Autorité de la concurrence par vote électronique internet du 3 au 10 décembre 2026",
-      "nor": "ACOP2623492S",
-      "datePubli": "2026-09-05",
-      "dateTexte": "2026-09-03",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054797278",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-09-05/JORFTEXT000054797278.txt"
-    },
-    {
       "id": "JORFTEXT000054790853",
       "nature": "ARRETE",
       "titre": "Arrêté du 30 juillet 2026 fixant les modalités d'organisation des élections et de remplacement des représentants du personnel au sein du conseil d'administration du Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement",
@@ -980,30 +716,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054746617",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-08-26/JORFTEXT000054746617.txt"
-    },
-    {
-      "id": "JORFTEXT000054733979",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 7 août 2026 portant extension d'un accord relatif au dialogue social conclu dans le cadre de la branche professionnelle des industries électriques et gazières",
-      "nor": "ECOR2622109A",
-      "datePubli": "2026-08-22",
-      "dateTexte": "2026-08-07",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054733979",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-08-22/JORFTEXT000054733979.txt"
-    },
-    {
-      "id": "JORFTEXT000054717723",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 30 juillet 2026 précisant la période de référence tarifaire applicable aux administrateurs judiciaires, mandataires judiciaires et commissaires à l'exécution du plan",
-      "nor": "ECOC2428794A",
-      "datePubli": "2026-08-20",
-      "dateTexte": "2026-07-30",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054717723",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-08-20/JORFTEXT000054717723.txt"
     },
     {
       "id": "JORFTEXT000054683078",
@@ -1042,18 +754,6 @@
       "fichier": "telechargements/JO/2026-08-14/JORFTEXT000054678495.txt"
     },
     {
-      "id": "JORFTEXT000054673099",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 31 juillet 2026 modifiant l'arrêté du 4 juin 2026 relatif au mode de désignation des représentants du personnel aux instances de dialogue social relevant du ministère de la justice",
-      "nor": "JUST2620803A",
-      "datePubli": "2026-08-13",
-      "dateTexte": "2026-07-31",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054673099",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-08-13/JORFTEXT000054673099.txt"
-    },
-    {
       "id": "JORFTEXT000054673231",
       "nature": "DECRET",
       "titre": "Décret n° 2026-769 du 11 août 2026 portant création d'un traitement de données à caractère personnel ayant pour finalité la réalisation d'une étude relative aux coûts de l'activité d'aide et d'accompagnement des services autonomie à domicile mentionnés à l'article L. 313-1-3 du code de l'action sociale et des familles",
@@ -1066,42 +766,6 @@
       "fichier": "telechargements/JO/2026-08-13/JORFTEXT000054673231.txt"
     },
     {
-      "id": "JORFTEXT000054667035",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 3 août 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2621792A",
-      "datePubli": "2026-08-12",
-      "dateTexte": "2026-08-03",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054667035",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-08-12/JORFTEXT000054667035.txt"
-    },
-    {
-      "id": "JORFTEXT000054667037",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 3 août 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2621794A",
-      "datePubli": "2026-08-12",
-      "dateTexte": "2026-08-03",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054667037",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-08-12/JORFTEXT000054667037.txt"
-    },
-    {
-      "id": "JORFTEXT000054667039",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 3 août 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2621795A",
-      "datePubli": "2026-08-12",
-      "dateTexte": "2026-08-03",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054667039",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-08-12/JORFTEXT000054667039.txt"
-    },
-    {
       "id": "JORFTEXT000054658890",
       "nature": "ARRETE",
       "titre": "Arrêté du 7 août 2026 fixant pour les années 2023 à 2025 le montant de la dotation des régimes obligatoires de l'assurance maladie versée au Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière au titre du financement des contrats d'engagement de service public",
@@ -1112,30 +776,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054658890",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-08-11/JORFTEXT000054658890.txt"
-    },
-    {
-      "id": "JORFTEXT000054659171",
-      "nature": "AVIS",
-      "titre": "Avis relatif à l'homologation d'un accord conclu dans le cadre du dialogue social entre les plateformes et les travailleurs indépendants qui y recourent dans le secteur de la livraison de marchandises au moyen d'un véhicule à deux ou trois roues, motorisé ou non",
-      "nor": "TRST2621808V",
-      "datePubli": "2026-08-11",
-      "dateTexte": "2999-01-01",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054659171",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-08-11/JORFTEXT000054659171.txt"
-    },
-    {
-      "id": "JORFTEXT000054659203",
-      "nature": "AVIS",
-      "titre": "Avis de recrutement d'un travailleur handicapé par la voie contractuelle dans le corps des adjoints techniques du ministère de la justice au titre de l'année 2026",
-      "nor": "JUSF2621482V",
-      "datePubli": "2026-08-11",
-      "dateTexte": "2999-01-01",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054659203",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-08-11/JORFTEXT000054659203.txt"
     },
     {
       "id": "JORFTEXT000054646466",
@@ -1222,18 +862,6 @@
       "fichier": "telechargements/JO/2026-08-07/JORFTEXT000054633290.txt"
     },
     {
-      "id": "JORFTEXT000054622021",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 18 juin 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2621442A",
-      "datePubli": "2026-08-06",
-      "dateTexte": "2026-06-18",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054622021",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-08-06/JORFTEXT000054622021.txt"
-    },
-    {
       "id": "JORFTEXT000054609288",
       "nature": "AVIS",
       "titre": "Avis relatif à l'extension d'un avenant à la convention collective nationale des acteurs du lien social et familial",
@@ -1258,42 +886,6 @@
       "fichier": "telechargements/JO/2026-08-04/JORFTEXT000054609303.txt"
     },
     {
-      "id": "JORFTEXT000054595323",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 17 mars 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2620939A",
-      "datePubli": "2026-08-01",
-      "dateTexte": "2026-03-17",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054595323",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-08-01/JORFTEXT000054595323.txt"
-    },
-    {
-      "id": "JORFTEXT000054570009",
-      "nature": "DECISION",
-      "titre": "Décision du 16 juillet 2026 fixant les tarifs de responsabilité et les prix limites de vente au public (PLV) en euros TTC des véhicules pour personnes en situation de handicap (VPH) remis en bon état d'usage (RBEU) visés au titre IV de la liste des produits et prestations remboursables prévue à l'article L. 165-1 du code de la sécurité sociale",
-      "nor": "SFHS2621040S",
-      "datePubli": "2026-07-31",
-      "dateTexte": "2026-07-16",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054570009",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-31/JORFTEXT000054570009.txt"
-    },
-    {
-      "id": "JORFTEXT000054570457",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 17 juin 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2620940A",
-      "datePubli": "2026-07-31",
-      "dateTexte": "2026-06-17",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054570457",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-31/JORFTEXT000054570457.txt"
-    },
-    {
       "id": "JORFTEXT000054541042",
       "nature": "ARRETE",
       "titre": "Arrêté du 20 juillet 2026 fixant au titre de l'exercice 2025 le montant de la contribution mentionnée à l'article L. 241-3 du code de la sécurité sociale couvrant les dépenses supplémentaires engendrées par les départs en retraite à l'âge fixé en application de l'article L. 351-1-4 du même code et les dépenses supplémentaires engendrées par les départs en retraite mentionnées au 3° du I de l'article L. 4163-7 du code du travail",
@@ -1316,30 +908,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054541794",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-07-29/JORFTEXT000054541794.txt"
-    },
-    {
-      "id": "JORFTEXT000054541880",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 27 juillet 2026 portant dérogation à l'utilisation du vote électronique en vue du prochain renouvellement général des instances de dialogue social dans la fonction publique de l'Etat",
-      "nor": "CPPF2610354A",
-      "datePubli": "2026-07-29",
-      "dateTexte": "2026-07-27",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054541880",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-29/JORFTEXT000054541880.txt"
-    },
-    {
-      "id": "JORFTEXT000054486267",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 8 juillet 2026 relatif aux modalités d'organisation du vote électronique par internet pour l'élection des représentants du personnel relevant du ministère des armées et des anciens combattants et de ses établissements publics sous tutelle pour les élections professionnelles de 2026",
-      "nor": "ARMH2616215A",
-      "datePubli": "2026-07-26",
-      "dateTexte": "2026-07-08",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054486267",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-26/JORFTEXT000054486267.txt"
     },
     {
       "id": "JORFTEXT000054484107",
@@ -1378,42 +946,6 @@
       "fichier": "telechargements/JO/2026-07-25/JORFTEXT000054484335.txt"
     },
     {
-      "id": "JORFTEXT000054484511",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 20 juillet 2026 modifiant l'arrêté du 10 juillet 2026 portant désignation des associations et des membres du Conseil national de la protection de l'enfance",
-      "nor": "SFHA2620242A",
-      "datePubli": "2026-07-25",
-      "dateTexte": "2026-07-20",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054484511",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-25/JORFTEXT000054484511.txt"
-    },
-    {
-      "id": "JORFTEXT000054471187",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 20 juillet 2026 relatif à l'adaptation des épreuves de langue vivante de l'examen du brevet de technicien supérieur agricole pour les candidats en situation de handicap",
-      "nor": "AGRE2617718A",
-      "datePubli": "2026-07-24",
-      "dateTexte": "2026-07-20",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054471187",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-24/JORFTEXT000054471187.txt"
-    },
-    {
-      "id": "JORFTEXT000054471240",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 19 juillet 2026 modifiant l'arrêté du 8 janvier 2018 relatif aux commissions consultatives paritaires compétentes à l'égard des agents contractuels de la fonction publique hospitalière",
-      "nor": "SFHH2617797A",
-      "datePubli": "2026-07-24",
-      "dateTexte": "2026-07-19",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054471240",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-24/JORFTEXT000054471240.txt"
-    },
-    {
       "id": "JORFTEXT000054471335",
       "nature": "ARRETE",
       "titre": "Arrêté du 22 juillet 2026 fixant le montant du financement de l'Etat pour l'accueil des enfants de moins de trois ans confiés au titre de la protection de l'enfance en pouponnière à caractère social autonome ou au sein d'un autre établissement social et médico-social",
@@ -1438,18 +970,6 @@
       "fichier": "telechargements/JO/2026-07-23/JORFTEXT000054458135.txt"
     },
     {
-      "id": "JORFTEXT000054451114",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 20 juillet 2026 portant ouverture d'une seconde session d'examen pour l'obtention du certificat d'instructeur pour l'autonomie des personnes déficientes visuelles au titre de l'année 2026",
-      "nor": "SFHA2619857A",
-      "datePubli": "2026-07-22",
-      "dateTexte": "2026-07-20",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054451114",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-22/JORFTEXT000054451114.txt"
-    },
-    {
       "id": "JORFTEXT000054448050",
       "nature": "ARRETE",
       "titre": "Arrêté du 7 juillet 2026 modifiant l'arrêté du 24 janvier 2011 portant abrogation des arrêtés des 3 mars 1982 et 30 avril 1999 modifiés fixant la liste des établissements et organismes de diffusion culturelle et d'enseignement dotés de l'autonomie financière",
@@ -1462,18 +982,6 @@
       "fichier": "telechargements/JO/2026-07-21/JORFTEXT000054448050.txt"
     },
     {
-      "id": "JORFTEXT000054440872",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 15 juillet 2026 fixant le nombre d'emplois offerts au titre de l'année 2026 aux fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés pour l'accès au corps des ingénieurs des systèmes d'information et de communication",
-      "nor": "INTH2618885A",
-      "datePubli": "2026-07-18",
-      "dateTexte": "2026-07-15",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054440872",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-18/JORFTEXT000054440872.txt"
-    },
-    {
       "id": "JORFTEXT000054423823",
       "nature": "LOI",
       "titre": "LOI n° 2026-630 du 13 juillet 2026 visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (1)",
@@ -1484,18 +992,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054423823",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-07-14/JORFTEXT000054423823.txt"
-    },
-    {
-      "id": "JORFTEXT000054415628",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 10 juillet 2026 portant désignation des associations et des membres du Conseil national de la protection de l'enfance",
-      "nor": "SFHA2618506A",
-      "datePubli": "2026-07-11",
-      "dateTexte": "2026-07-10",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054415628",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-11/JORFTEXT000054415628.txt"
     },
     {
       "id": "JORFTEXT000054415664",
@@ -1534,54 +1030,6 @@
       "fichier": "telechargements/JO/2026-07-07/JORFTEXT000054392900.txt"
     },
     {
-      "id": "JORFTEXT000054386693",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 30 juin 2026 fixant le nombre d'emplois offerts au titre de l'année 2026 aux fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés pour l'accès au corps des attachés d'administration de l'Etat pour les services relevant du ministre de la défense",
-      "nor": "ARMH2617744A",
-      "datePubli": "2026-07-04",
-      "dateTexte": "2026-06-30",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054386693",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-04/JORFTEXT000054386693.txt"
-    },
-    {
-      "id": "JORFTEXT000054386702",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 30 juin 2026 fixant le nombre d'emplois offerts au titre de l'année 2026 aux fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés pour l'accès au corps des ingénieurs civils de la défense pour les services relevant du ministre de la défense",
-      "nor": "ARMH2617747A",
-      "datePubli": "2026-07-04",
-      "dateTexte": "2026-06-30",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054386702",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-04/JORFTEXT000054386702.txt"
-    },
-    {
-      "id": "JORFTEXT000054386711",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 30 juin 2026 fixant le nombre d'emplois offerts au titre de l'année 2026 aux fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés pour l'accès au corps des secrétaires administratifs pour les services relevant du ministre de la défense",
-      "nor": "ARMH2617749A",
-      "datePubli": "2026-07-04",
-      "dateTexte": "2026-06-30",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054386711",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-04/JORFTEXT000054386711.txt"
-    },
-    {
-      "id": "JORFTEXT000054386722",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 30 juin 2026 fixant le nombre d'emplois offerts au titre de l'année 2026 aux fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés pour l'accès au corps des techniciens supérieurs d'études et de fabrications relevant du ministre de la défense",
-      "nor": "ARMH2617751A",
-      "datePubli": "2026-07-04",
-      "dateTexte": "2026-06-30",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054386722",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-04/JORFTEXT000054386722.txt"
-    },
-    {
       "id": "JORFTEXT000054387317",
       "nature": "DELIBERATION",
       "titre": "Délibération n° 2025-129 du 18 décembre 2025 portant avis sur un projet de décret pris pour l'application de l'article L. 121-6-1 du code de l'action sociale et des familles et fixant les modalités de recueil, transmission et conservation des données à caractère personnel",
@@ -1606,54 +1054,6 @@
       "fichier": "telechargements/JO/2026-07-03/JORFTEXT000054381807.txt"
     },
     {
-      "id": "JORFTEXT000054371316",
-      "nature": "DECRET",
-      "titre": "Décret n° 2026-588 du 1er juillet 2026 modifiant les attributions du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique, du ministre de la santé, des familles, de l'autonomie et des personnes handicapées et du ministre de l'enseignement supérieur, de la recherche et de l'espace",
-      "nor": "PRMX2617519D",
-      "datePubli": "2026-07-02",
-      "dateTexte": "2026-07-01",
-      "type": "Décret",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054371316",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-02/JORFTEXT000054371316.txt"
-    },
-    {
-      "id": "JORFTEXT000054371392",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 29 juin 2026 fixant le nombre d'emplois offerts au titre de l'année 2026 aux fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés pour l'accès au corps des secrétaires administratifs de l'intérieur et des outre-mer",
-      "nor": "INTH2616350A",
-      "datePubli": "2026-07-02",
-      "dateTexte": "2026-06-29",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054371392",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-02/JORFTEXT000054371392.txt"
-    },
-    {
-      "id": "JORFTEXT000054371410",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 29 juin 2026 fixant le nombre d'emplois offerts au titre de l'année 2026 aux fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés pour l'accès au corps interministériel des attachés d'administration de l'Etat",
-      "nor": "INTH2616354A",
-      "datePubli": "2026-07-02",
-      "dateTexte": "2026-06-29",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054371410",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-02/JORFTEXT000054371410.txt"
-    },
-    {
-      "id": "JORFTEXT000054371982",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 30 juin 2026 portant placement d'une maîtresse des requêtes en congé parental et réintégration (Conseil d'Etat)",
-      "nor": "JUSE2616931A",
-      "datePubli": "2026-07-02",
-      "dateTexte": "2026-06-30",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054371982",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-07-02/JORFTEXT000054371982.txt"
-    },
-    {
       "id": "JORFTEXT000054361532",
       "nature": "DECRET",
       "titre": "Décret n° 2026-580 du 26 juin 2026 relatif aux missions, à l'organisation et au fonctionnement des centres d'action médico-sociale précoce (CAMSP) et des centres médico-psycho-pédagogiques (CMPP)",
@@ -1676,18 +1076,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054361767",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-07-01/JORFTEXT000054361767.txt"
-    },
-    {
-      "id": "JORFTEXT000054341338",
-      "nature": "DECRET",
-      "titre": "Décret n° 2026-565 du 26 juin 2026 modifiant les modalités d'élection ou de désignation des représentants du personnel au sein de la Commission nationale des enseignants-chercheurs relevant du ministre chargé de l'agriculture",
-      "nor": "AGRS2607461D",
-      "datePubli": "2026-06-30",
-      "dateTexte": "2026-06-26",
-      "type": "Décret",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054341338",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-30/JORFTEXT000054341338.txt"
     },
     {
       "id": "JORFTEXT000054321795",
@@ -1726,18 +1114,6 @@
       "fichier": "telechargements/JO/2026-06-27/JORFTEXT000054322430.txt"
     },
     {
-      "id": "JORFTEXT000054322667",
-      "nature": "AVIS",
-      "titre": "Avis relatif à l'établissement au titre de l'année 2027 des listes d'aptitude prévues par le décret n° 2007-1930 du 26 décembre 2007 modifié portant statut particulier du corps des directeurs d'établissements sanitaires, sociaux et médico-sociaux de la fonction publique hospitalière et des articles L. 326-5 à L. 326-9 du code général de la fonction publique",
-      "nor": "SFHN2617322V",
-      "datePubli": "2026-06-27",
-      "dateTexte": "2999-01-01",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054322667",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-27/JORFTEXT000054322667.txt"
-    },
-    {
       "id": "JORFTEXT000054310335",
       "nature": "DECRET",
       "titre": "Décret n° 2026-535 du 25 juin 2026 relatif à la prise en compte des indemnités journalières de naissance dans le calcul du revenu de solidarité active et de la prime d'activité",
@@ -1748,30 +1124,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054310335",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-06-26/JORFTEXT000054310335.txt"
-    },
-    {
-      "id": "JORFTEXT000054311154",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 2 juin 2026 relatif aux modalités de l'élection des représentants du personnel au conseil d'administration et aux commissions territoriales de l'établissement public de la Masse des douanes",
-      "nor": "CPPD2601344A",
-      "datePubli": "2026-06-26",
-      "dateTexte": "2026-06-02",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054311154",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-26/JORFTEXT000054311154.txt"
-    },
-    {
-      "id": "JORFTEXT000054305573",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 23 juin 2026 fixant le nombre d'emplois offerts au titre de l'année 2026 aux fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés pour l'accès au corps des techniciens de classe normale des systèmes d'information et de communication du ministère de l'intérieur",
-      "nor": "INTH2616701A",
-      "datePubli": "2026-06-25",
-      "dateTexte": "2026-06-23",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054305573",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-25/JORFTEXT000054305573.txt"
     },
     {
       "id": "JORFTEXT000054305834",
@@ -1808,42 +1160,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054300624",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-06-24/JORFTEXT000054300624.txt"
-    },
-    {
-      "id": "JORFTEXT000054297444",
-      "nature": "DECRET",
-      "titre": "Décret du 20 juin 2026 abrogeant le décret portant reconnaissance de l'association dite « Aide et Protection de l'Enfance et de la Jeunesse » comme établissement d'utilité publique",
-      "nor": "INTD2535688D",
-      "datePubli": "2026-06-23",
-      "dateTexte": "2026-06-20",
-      "type": "Décret",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054297444",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-23/JORFTEXT000054297444.txt"
-    },
-    {
-      "id": "JORFTEXT000054297658",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 16 juin 2026 fixant au titre de l'année 2026 le nombre de postes offerts aux fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés pour l'accès au corps des contrôleurs des douanes et droits indirects au ministère de l'action et des comptes publics",
-      "nor": "CPPD2615713A",
-      "datePubli": "2026-06-23",
-      "dateTexte": "2026-06-16",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054297658",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-23/JORFTEXT000054297658.txt"
-    },
-    {
-      "id": "JORFTEXT000054298185",
-      "nature": "AVIS",
-      "titre": "Avis de recrutement de fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés par la voie du détachement dans le corps des contrôleurs des douanes et droits indirects au ministère de l'action et des comptes publics au titre de l'année 2026",
-      "nor": "CPPD2615715V",
-      "datePubli": "2026-06-23",
-      "dateTexte": "2999-01-01",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054298185",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-23/JORFTEXT000054298185.txt"
     },
     {
       "id": "JORFTEXT000054280557",
@@ -1942,18 +1258,6 @@
       "fichier": "telechargements/JO/2026-06-14/JORFTEXT000054248416.txt"
     },
     {
-      "id": "JORFTEXT000054248852",
-      "nature": "AVIS",
-      "titre": "Avis de recrutement ouvert aux travailleurs handicapés au titre de l'année 2026 d'inspecteurs de la concurrence, de la consommation et de la répression des fraudes",
-      "nor": "ECOC2428795V",
-      "datePubli": "2026-06-14",
-      "dateTexte": "2999-01-01",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054248852",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-14/JORFTEXT000054248852.txt"
-    },
-    {
       "id": "JORFTEXT000054245251",
       "nature": "LOI",
       "titre": "LOI n° 2026-492 du 12 juin 2026 visant à améliorer la protection et l'accompagnement des parents d'enfants atteints d'un cancer, d'une maladie grave ou d'un handicap (1)",
@@ -2026,66 +1330,6 @@
       "fichier": "telechargements/JO/2026-06-10/JORFTEXT000054223777.txt"
     },
     {
-      "id": "JORFTEXT000054224284",
-      "nature": "AVIS",
-      "titre": "Avis de recrutement de 14 travailleurs en situation de handicap par la voie contractuelle dans le corps des conseillers pénitentiaires d'insertion et de probation au titre de l'année 2026",
-      "nor": "JUSK2535957V",
-      "datePubli": "2026-06-10",
-      "dateTexte": "2999-01-01",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054224284",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-10/JORFTEXT000054224284.txt"
-    },
-    {
-      "id": "JORFTEXT000054210299",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 27 mai 2026 fixant le nombre de représentants par collège en vue des élections des représentants du personnel au comité d'établissement et des conditions de travail de l'établissement public chargé de la conservation et de la restauration de la cathédrale Notre-Dame de Paris dans le cadre du renouvellement général des instances dans la fonction publique en 2026",
-      "nor": "MICB2614237A",
-      "datePubli": "2026-06-07",
-      "dateTexte": "2026-05-27",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054210299",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-07/JORFTEXT000054210299.txt"
-    },
-    {
-      "id": "JORFTEXT000054210599",
-      "nature": "DECISION",
-      "titre": "Décision n° DAG 2026-179 du 20 mai 2026 fixant les parts respectives de femmes et d'hommes composant les effectifs pris en compte pour la détermination du nombre de représentants du personnel au sein du comité social d'administration du Défenseur des droits",
-      "nor": "DFDX2615263S",
-      "datePubli": "2026-06-07",
-      "dateTexte": "2026-05-20",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054210599",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-07/JORFTEXT000054210599.txt"
-    },
-    {
-      "id": "JORFTEXT000054210609",
-      "nature": "DECISION",
-      "titre": "Décision n° DAG 2026-180 du 20 mai 2026 fixant les parts respectives de femmes et d'hommes composant les effectifs pris en compte pour la détermination du nombre de représentants du personnel au sein du commission consultative paritaire du Défenseur des droits",
-      "nor": "DFDX2615257S",
-      "datePubli": "2026-06-07",
-      "dateTexte": "2026-05-20",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054210609",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-07/JORFTEXT000054210609.txt"
-    },
-    {
-      "id": "JORFTEXT000054208358",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 4 juin 2026 relatif au mode de désignation des représentants du personnel aux instances de dialogue social relevant du ministère de la justice",
-      "nor": "JUST2614470A",
-      "datePubli": "2026-06-06",
-      "dateTexte": "2026-06-04",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054208358",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-06/JORFTEXT000054208358.txt"
-    },
-    {
       "id": "JORFTEXT000054209117",
       "nature": "AVIS",
       "titre": "Avis relatif à l'extension d'avenants à la convention collective nationale des acteurs du lien social et familial",
@@ -2110,18 +1354,6 @@
       "fichier": "telechargements/JO/2026-06-06/JORFTEXT000054209122.txt"
     },
     {
-      "id": "JORFTEXT000054199921",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 2 juin 2026 portant agrément de l'accord de branche relatif à l'épargne salariale dans la branche de la couture parisienne et des autres métiers de la mode du 17 mars 2026",
-      "nor": "TRST2614082A",
-      "datePubli": "2026-06-05",
-      "dateTexte": "2026-06-02",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054199921",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-05/JORFTEXT000054199921.txt"
-    },
-    {
       "id": "JORFTEXT000054200658",
       "nature": "ARRETE",
       "titre": "Arrêté du 21 mai 2026 portant extension d'avenants à la convention collective nationale des acteurs du lien social et familial (n° 1261)",
@@ -2132,18 +1364,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054200658",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-06-05/JORFTEXT000054200658.txt"
-    },
-    {
-      "id": "JORFTEXT000054180735",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 22 mai 2026 fixant les effectifs et les parts respectives de femmes et d'hommes pour l'élection des représentants du personnel aux comités sociaux d'administration ministériels, de l'administration centrale, des services déconcentrés et de certains établissements publics des ministères chargés de l'éducation nationale, de l'enseignement supérieur, de la recherche, de la jeunesse et des sports",
-      "nor": "MENH2612481A",
-      "datePubli": "2026-06-03",
-      "dateTexte": "2026-05-22",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054180735",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-06-03/JORFTEXT000054180735.txt"
     },
     {
       "id": "JORFTEXT000054153858",
@@ -2158,54 +1378,6 @@
       "fichier": "telechargements/JO/2026-05-31/JORFTEXT000054153858.txt"
     },
     {
-      "id": "JORFTEXT000054154307",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 21 avril 2026 fixant le nombre de membres représentants du personnel titulaires et suppléants, ainsi que les parts respectives de femmes et d'hommes au sein des comités sociaux d'administration et des formations spécialisées du musée du quai Branly, de l'Institut national de l'histoire de l'art et de l'Institut national de recherches archéologiques préventives",
-      "nor": "MICB2611153A",
-      "datePubli": "2026-05-31",
-      "dateTexte": "2026-04-21",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054154307",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-05-31/JORFTEXT000054154307.txt"
-    },
-    {
-      "id": "JORFTEXT000054154333",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 21 avril 2026 fixant le nombre de membres représentants du personnel titulaires et suppléants, ainsi que les parts respectives de femmes et d'hommes au sein des comités sociaux d'administration et des formations spécialisées du ministère de la culture",
-      "nor": "MICB2611156A",
-      "datePubli": "2026-05-31",
-      "dateTexte": "2026-04-21",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054154333",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-05-31/JORFTEXT000054154333.txt"
-    },
-    {
-      "id": "JORFTEXT000054155342",
-      "nature": "AVIS",
-      "titre": "Avis de recrutement de fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés par la voie du détachement pour l'accès au grade des inspecteurs des finances publiques des personnels de catégorie A de la direction générale des finances publiques au titre de l'année 2026",
-      "nor": "CPPE2614294V",
-      "datePubli": "2026-05-31",
-      "dateTexte": "2999-01-01",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054155342",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-05-31/JORFTEXT000054155342.txt"
-    },
-    {
-      "id": "JORFTEXT000054155352",
-      "nature": "AVIS",
-      "titre": "Avis de recrutement de fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés par la voie du détachement pour l'accès au corps des contrôleurs des finances publiques au titre de l'année 2026",
-      "nor": "CPPE2614300V",
-      "datePubli": "2026-05-31",
-      "dateTexte": "2999-01-01",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054155352",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-05-31/JORFTEXT000054155352.txt"
-    },
-    {
       "id": "JORFTEXT000054152174",
       "nature": "ARRETE",
       "titre": "Arrêté du 27 mai 2026 fixant les dotations régionales limitatives relatives aux frais de fonctionnement des services mandataires judiciaires à la protection des majeurs relevant du I de l'article L. 361-1 du code de l'action sociale et des familles",
@@ -2216,30 +1388,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054152174",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-05-30/JORFTEXT000054152174.txt"
-    },
-    {
-      "id": "JORFTEXT000054152279",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 29 mai 2026 fixant au titre de l'année 2026 le nombre d'emplois offerts aux fonctionnaires bénéficiaires de l'obligation d'emploi des travailleurs handicapés pour l'accès par la voie du détachement au grade d'inspecteur des finances publics des personnels de catégorie A de la direction générale des finances publiques et des contrôleurs des finances publiques",
-      "nor": "CPPE2614290A",
-      "datePubli": "2026-05-30",
-      "dateTexte": "2026-05-29",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054152279",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-05-30/JORFTEXT000054152279.txt"
-    },
-    {
-      "id": "JORFTEXT000054152608",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 11 mai 2026 portant promotion de grade (inspection du travail)",
-      "nor": "TRSR2614172A",
-      "datePubli": "2026-05-30",
-      "dateTexte": "2026-05-11",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054152608",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-05-30/JORFTEXT000054152608.txt"
     },
     {
       "id": "JORFTEXT000054149049",
@@ -2254,30 +1402,6 @@
       "fichier": "telechargements/JO/2026-05-29/JORFTEXT000054149049.txt"
     },
     {
-      "id": "JORFTEXT000054149059",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 26 mai 2026 portant agrément de l'accord d'intéressement de la branche France Travail du 18 mars 2026",
-      "nor": "TRST2612836A",
-      "datePubli": "2026-05-29",
-      "dateTexte": "2026-05-26",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054149059",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-05-29/JORFTEXT000054149059.txt"
-    },
-    {
-      "id": "JORFTEXT000054149078",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 26 mai 2026 portant agrément de l'accord de branche relatif à l'intéressement dans la branche de la couture parisienne et des autres métiers de la mode du 17 mars 2026",
-      "nor": "TRST2613372A",
-      "datePubli": "2026-05-29",
-      "dateTexte": "2026-05-26",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054149078",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-05-29/JORFTEXT000054149078.txt"
-    },
-    {
       "id": "JORFTEXT000054149228",
       "nature": "ARRETE",
       "titre": "Arrêté du 28 mai 2026 relatif à l'agrément de certains accords de travail applicables dans les établissements et services du secteur social et médico-social privé à but non lucratif",
@@ -2288,30 +1412,6 @@
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054149228",
       "ajoute": "2026-10-22",
       "fichier": "telechargements/JO/2026-05-29/JORFTEXT000054149228.txt"
-    },
-    {
-      "id": "JORFTEXT000054149540",
-      "nature": "AVIS",
-      "titre": "Avis relatif à l'accord relatif au dialogue social dans la branche des industries électriques et gazières 2026-2030",
-      "nor": "ECOR2613919V",
-      "datePubli": "2026-05-29",
-      "dateTexte": "2999-01-01",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054149540",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-05-29/JORFTEXT000054149540.txt"
-    },
-    {
-      "id": "JORFTEXT000054144710",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 22 mai 2026 fixant la composition du comité social d'administration, des commissions administratives paritaires et de la commission consultative paritaire institués auprès de la première présidente de la Cour des comptes et fixant les parts respectives de femmes et d'hommes composant les effectifs pris en compte pour la détermination du nombre de représentants du personnel dans ces instances",
-      "nor": "CPTP2612447A",
-      "datePubli": "2026-05-28",
-      "dateTexte": "2026-05-22",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054144710",
-      "ajoute": "2026-10-22",
-      "fichier": "telechargements/JO/2026-05-28/JORFTEXT000054144710.txt"
     },
     {
       "id": "JORFTEXT000054126589",
@@ -2350,5 +1450,5 @@
       "fichier": "telechargements/JO/2026-05-23/JORFTEXT000054125097.txt"
     }
   ],
-  "regles": "9e61fd46c775"
+  "regles": "129b46a65094"
 }
