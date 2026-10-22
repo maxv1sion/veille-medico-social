@@ -351,6 +351,69 @@
       "ajoute": "2026-10-20"
     },
     {
+      "id": "arrete-2026-09-28-spsti",
+      "date": "2026-09-30",
+      "dateTexte": "2026-09-28",
+      "type": "Arrêté",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "Santé au travail - cotisation 2027",
+      "accroche": "Coût moyen national du socle de services fixé",
+      "titre": "Arrêté du 28 septembre 2026 relatif au coût moyen national de l'ensemble socle de services des services de prévention et de santé au travail interentreprises",
+      "resume": "Le **coût moyen national** de l'ensemble socle de services des **services de prévention et de santé au travail interentreprises** (SPSTI) est fixé pour 2027.",
+      "points": [
+        "Montant fixé à **119,5 euros** pour l'année 2027",
+        "Il sert de référence pour encadrer la cotisation par salarié des SPSTI, entre **80 % et 120 %** de ce coût",
+        "L'assemblée générale du SPSTI peut s'écarter de ces bornes dans des **cas limitativement énumérés** (article D. 4622-27-6 du code du travail)"
+      ],
+      "application": "Entrée en vigueur le 1er janvier 2027, pour les cotisations dues aux services de santé au travail interentreprises.",
+      "impact": "Permet d'anticiper le montant de la cotisation santé au travail 2027 et de vérifier que l'appel de cotisation du service reste dans la fourchette réglementaire.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054912629",
+      "ajoute": "2026-10-22"
+    },
+    {
+      "id": "decret-2026-901",
+      "date": "2026-09-29",
+      "dateTexte": "2026-09-24",
+      "type": "Décret",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "Tableaux de maladies professionnelles",
+      "accroche": "Suppression de certains examens obligatoires",
+      "titre": "Décret n° 2026-901 du 24 septembre 2026 relatif aux modalités d'établissement du diagnostic des maladies prévues dans les tableaux de maladies professionnelles annexés au livre IV du code de la sécurité sociale",
+      "resume": "Le décret adapte le **dossier de demande** de reconnaissance de maladie professionnelle et **supprime certains examens complémentaires** imposés par les tableaux annexés au code de la sécurité sociale.",
+      "points": [
+        "Le dossier comprend la déclaration, le **certificat médical initial** et, si nécessaire, des examens conformes aux **recommandations HAS**",
+        "Suppression de mentions d'examens dans plusieurs tableaux (notamment n° **2, 8, 10, 12, 15 bis, 25**), par exemple les tests épicutanés ou les examens électrophysiologiques",
+        "Fixe la date d'entrée en vigueur prévue par l'article 95 de la LFSS pour 2026"
+      ],
+      "application": "Entrée en vigueur le 30 septembre 2026.",
+      "impact": "Le délai d'instruction de la caisse court dès que le médecin-conseil dispose des seuls examens nécessaires, ce qui peut accélérer les décisions de prise en charge que l'employeur reçoit.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054909329",
+      "ajoute": "2026-10-22"
+    },
+    {
+      "id": "decret-2026-900",
+      "date": "2026-09-29",
+      "dateTexte": "2026-09-24",
+      "type": "Décret",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "Maladies professionnelles - diagnostic",
+      "accroche": "Examens complémentaires alignés sur les recommandations HAS",
+      "titre": "Décret n° 2026-900 du 24 septembre 2026 relatif aux modalités générales d'établissement du diagnostic des maladies prévues dans les tableaux de maladies professionnelles",
+      "resume": "Pour la reconnaissance d'une **maladie professionnelle**, les examens complémentaires ne sont exigés que **lorsqu'ils sont nécessaires** au diagnostic et doivent être conformes aux **recommandations de bonnes pratiques de la HAS** ou des sociétés savantes.",
+      "points": [
+        "Modifie les articles **R. 461-9** et **R. 743-3-2** du code de la sécurité sociale",
+        "Les examens ne sont plus ceux « le cas échéant prévus par les tableaux » mais ceux conformes aux **données acquises de la science**",
+        "S'applique aux procédures dont le **certificat médical initial** est établi après l'entrée en vigueur"
+      ],
+      "application": "Entrée en vigueur selon le II de l'article 95 de la LFSS pour 2026, pour les procédures dont le certificat médical initial est établi à compter de cette date.",
+      "impact": "Les dossiers de maladie professionnelle des salariés pourront être instruits sans certains examens jusque-là imposés, ce qui peut faciliter les reconnaissances et peser sur le taux de cotisation AT/MP.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054909308",
+      "ajoute": "2026-10-22"
+    },
+    {
       "id": "instruction-2026-129",
       "date": "2026-09-28",
       "dateTexte": "2026-09-24",
@@ -597,6 +660,28 @@
       "ajoute": "2026-10-19"
     },
     {
+      "id": "arrete-2026-08-08-indicateurs-ehpad",
+      "date": "2026-08-09",
+      "dateTexte": "2026-08-08",
+      "type": "Arrêté",
+      "theme": "Personnes âgées / EHPAD",
+      "sujet": "Indicateurs RH publiés",
+      "accroche": "Encadrement, absentéisme et rotation du personnel",
+      "titre": "Arrêté du 8 août 2026 modifiant l'arrêté du 13 décembre 2022 relatif à la définition et aux modalités de calcul des indicateurs mentionnés à l'article D. 312-211 du code de l'action sociale et des familles",
+      "resume": "Trois nouveaux **indicateurs RH** des établissements pour personnes âgées doivent être publiés pour le grand public : **taux d'encadrement**, **taux d'absentéisme** et **taux de rotation** du personnel.",
+      "points": [
+        "**Taux d'encadrement** : ETP réels du personnel médical, paramédical et socio-éducatif au 31 décembre, divisés par le nombre de personnes accompagnées",
+        "**Taux d'absentéisme** : jours calendaires d'absence (hors congés et formation) divisés par ETP réels x 365",
+        "**Taux de rotation** : moyenne du taux d'entrée et du taux de sortie du personnel sur l'année précédente",
+        "Pris pour l'application du **décret n° 2026-760** du 8 août 2026"
+      ],
+      "application": "Entrée en vigueur le lendemain de la publication, pour les établissements et services du 6° du I de l'article L. 312-1 du CASF.",
+      "impact": "Les données RH (absences, recrutements, départs, ETP) doivent être fiabilisées dans les systèmes de paie et de gestion du temps, car elles seront rendues publiques par la CNSA.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054646614",
+      "ajoute": "2026-10-22"
+    },
+    {
       "id": "decret-2026-760",
       "date": "2026-08-08",
       "dateTexte": "2026-08-08",
@@ -620,6 +705,92 @@
       "ajoute": "2026-10-19"
     },
     {
+      "id": "decret-2026-746",
+      "date": "2026-08-07",
+      "dateTexte": "2026-08-06",
+      "type": "Décret",
+      "theme": "RH et fonction publique",
+      "sujet": "Indemnité de rupture conventionnelle",
+      "accroche": "Planchers et plafonds abaissés",
+      "titre": "Décret n° 2026-746 du 6 août 2026 modifiant le décret n° 2019-1596 du 31 décembre 2019 relatif à l'indemnité spécifique de rupture conventionnelle dans la fonction publique et portant diverses dispositions relatives aux dispositifs indemnitaires d'accompagnement des agents dans leurs transitions professionnelles",
+      "resume": "L'**indemnité spécifique de rupture conventionnelle** dans la fonction publique est pérennisée, avec des **planchers et plafonds abaissés**.",
+      "points": [
+        "Plancher : **1/6 de mois** de rémunération brute par année d'ancienneté jusqu'à 10 ans, **1/5** de 10 à 15 ans, **1/4** de 15 à 20 ans, **1/3** de 20 à 24 ans",
+        "Plafond abaissé : **1/24e** de la rémunération brute annuelle par année d'ancienneté (au lieu de 1/12e)",
+        "Ouverture aux **praticiens en CDI** relevant des 2° et 4° de l'article L. 6152-1 du code de la santé publique"
+      ],
+      "application": "Entrée en vigueur le lendemain de la publication, pour les fonctionnaires, contractuels en CDI de droit public et praticiens en CDI.",
+      "impact": "Le coût maximal d'une rupture conventionnelle d'agent public baisse, ce qui modifie les bases de négociation des conventions à venir.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054632877",
+      "ajoute": "2026-10-22"
+    },
+    {
+      "id": "decret-2026-745",
+      "date": "2026-08-07",
+      "dateTexte": "2026-08-06",
+      "type": "Décret",
+      "theme": "RH et fonction publique",
+      "sujet": "Rupture conventionnelle - fonction publique",
+      "accroche": "Dispositif pérennisé",
+      "titre": "Décret n° 2026-745 du 6 août 2026 relatif à la procédure de rupture conventionnelle dans la fonction publique",
+      "resume": "Le décret fixe la procédure **désormais pérenne** de **rupture conventionnelle** dans les trois versants de la fonction publique, en application de la loi de finances pour 2026.",
+      "points": [
+        "Suppression de la limite d'expérimentation **2020-2025**",
+        "L'agent peut se faire assister par un conseiller désigné par une organisation syndicale, **sans condition de représentativité**",
+        "Obligation de **remboursement de l'indemnité** en cas de recrutement comme agent public hospitalier dans les **6 ans**, auprès de l'établissement signataire, au plus tard dans les **2 ans** suivant le recrutement",
+        "Le candidat recruté fournit une **attestation sur l'honneur** de non-perception d'une indemnité soumise à remboursement"
+      ],
+      "application": "Entrée en vigueur le lendemain de la publication, pour les fonctionnaires et contractuels de droit public des trois versants.",
+      "impact": "Les établissements publics doivent mettre à jour leurs procédures de rupture conventionnelle et demander l'attestation sur l'honneur lors de tout recrutement d'agent public.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054632832",
+      "ajoute": "2026-10-22"
+    },
+    {
+      "id": "arrete-2026-07-21-ehpad-coordination",
+      "date": "2026-07-25",
+      "dateTexte": "2026-07-21",
+      "type": "Arrêté",
+      "theme": "Personnes âgées / EHPAD",
+      "sujet": "Médecin coordonnateur à distance",
+      "accroche": "Coordination dématérialisée encadrée en EHPAD",
+      "titre": "Arrêté du 21 juillet 2026 fixant les modalités d'exercice dématérialisé des missions de coordination en établissement d'hébergement pour personnes âgées dépendantes",
+      "resume": "Un EHPAD qui ne parvient pas à recruter un **médecin coordonnateur** peut recourir à un **exercice dématérialisé** des missions de coordination, sous conditions.",
+      "points": [
+        "Déclaration au **DG de l'ARS** au moins **15 jours** avant, avec la preuve des démarches de recrutement infructueuses",
+        "**Contrat dédié** avec le médecin, incluant la sécurisation des données de santé",
+        "Présence du médecin **au moins 1 jour par mois** dans l'établissement et accès au logiciel de soins",
+        "Durée de **12 mois** renouvelable, dans la limite de **36 mois**"
+      ],
+      "application": "Applicable depuis la publication au JO du 25 juillet 2026, pour les EHPAD sans médecin coordonnateur.",
+      "impact": "Offre une solution transitoire en cas de poste vacant, mais impose de poursuivre le recrutement et de formaliser un contrat et une organisation contrôlés par l'ARS.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054484119",
+      "ajoute": "2026-10-22"
+    },
+    {
+      "id": "arrete-2026-07-15-ccn-bad",
+      "date": "2026-07-23",
+      "dateTexte": "2026-07-15",
+      "type": "Arrêté",
+      "theme": "Rémunération et protection sociale",
+      "sujet": "BAD - avenant salaires",
+      "accroche": "Extension de l'avenant n° 75/2026",
+      "titre": "Arrêté du 15 juillet 2026 portant extension d'un avenant à la convention collective nationale de la branche de l'aide, de l'accompagnement, des soins et des services à domicile (n° 2941)",
+      "resume": "L'**avenant n° 75/2026** du 24 mars 2026 relatif aux **salaires** de la convention collective de la **branche de l'aide à domicile** (BAD, IDCC 2941) est étendu.",
+      "points": [
+        "Avenant rendu obligatoire pour **tous les employeurs** du champ de la BAD",
+        "Extension sous réserve des règles relatives au **SMIC**",
+        "Effet à compter de la **publication** de l'arrêté (JO du 23 juillet 2026)"
+      ],
+      "application": "Applicable à tous les employeurs et salariés de la branche de l'aide à domicile à compter du 23 juillet 2026.",
+      "impact": "Les structures non adhérentes aux organisations signataires doivent aussi appliquer les nouvelles grilles salariales de l'avenant.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054458135",
+      "ajoute": "2026-10-22"
+    },
+    {
       "id": "instruction-2026-91",
       "date": "2026-07-21",
       "dateTexte": "2026-07-21",
@@ -640,6 +811,28 @@
       "source": "Bulletins officiels Solidarités",
       "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-dnstsdgcstophcnsadapo202691-du-21-juillet-2026-relative-la-mise-en-oeuvre-de-la-phase-de-generalisation-du-programme-esms-numerique",
       "ajoute": "2026-10-19"
+    },
+    {
+      "id": "loi-2026-630",
+      "date": "2026-07-14",
+      "dateTexte": "2026-07-13",
+      "type": "Loi",
+      "theme": "Enfance et famille",
+      "sujet": "Avocat pour l'enfant",
+      "accroche": "Assistance d'un avocat en assistance éducative",
+      "titre": "LOI n° 2026-630 du 13 juillet 2026 visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (1)",
+      "resume": "En **assistance éducative**, le mineur sera **systématiquement assisté d'un avocat**, sans condition de discernement, pris en charge par l'État.",
+      "points": [
+        "Dès l'ouverture de la procédure, le **juge des enfants** demande au bâtonnier la désignation d'un avocat",
+        "Le juge en informe le mineur, ses représentants légaux et le **service ou la personne à qui il est confié**",
+        "Le mineur peut aussi **choisir librement** son avocat",
+        "Prise en charge **intégrale** au titre de l'aide juridictionnelle"
+      ],
+      "application": "Entrée en vigueur le 6 janvier 2027.",
+      "impact": "Les services de protection de l'enfance devront intégrer l'avocat de l'enfant dans le suivi des mesures et faciliter ses échanges avec le mineur accueilli.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054423823",
+      "ajoute": "2026-10-22"
     },
     {
       "id": "instruction-2026-96",
@@ -665,6 +858,28 @@
       "ajoute": "2026-10-19"
     },
     {
+      "id": "arrete-2026-06-25-vigie-rh",
+      "date": "2026-07-07",
+      "dateTexte": "2026-06-25",
+      "type": "Arrêté",
+      "theme": "Numérique et données",
+      "sujet": "Vigie RH",
+      "accroche": "Indicateurs RH trimestriels issus de la DSN",
+      "titre": "Arrêté du 25 juin 2026 portant création d'un traitement automatisé de données à caractère personnel relatif à l'état des ressources humaines des établissements et services sanitaires, sociaux et médico-sociaux, dénommé « Vigie RH »",
+      "resume": "Création du traitement **« Vigie RH »**, qui calcule chaque trimestre des **indicateurs RH agrégés** par établissement pour tous les ESSMS et établissements de santé, à partir de la **DSN**.",
+      "points": [
+        "Indicateurs sur les **effectifs**, la **rémunération**, la masse salariale, les **tensions de recrutement**, la **rotation** et l'**absentéisme**",
+        "Données issues de la **déclaration sociale nominative** : fonction, contrat, temps de travail, ancienneté, arrêts de travail, fin de contrat",
+        "Indicateurs diffusés aux **autorités d'autorisation, de tarification et de contrôle**",
+        "Mis en œuvre par la **DGCS et la DGOS**"
+      ],
+      "application": "Applicable depuis la publication au JO du 7 juillet 2026, pour tous les ESSMS et établissements de santé.",
+      "impact": "La qualité de la DSN devient un enjeu direct, car les indicateurs RH qui en sont tirés seront utilisés par l'ARS et le département dans le dialogue de gestion.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054392900",
+      "ajoute": "2026-10-22"
+    },
+    {
       "id": "decret-2026-590",
       "date": "2026-07-03",
       "dateTexte": "2026-07-03",
@@ -686,6 +901,28 @@
       "source": "Légifrance",
       "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000054386844/",
       "ajoute": "2026-10-19"
+    },
+    {
+      "id": "decret-2026-580",
+      "date": "2026-07-01",
+      "dateTexte": "2026-06-26",
+      "type": "Décret",
+      "theme": "Handicap",
+      "sujet": "CAMSP et CMPP",
+      "accroche": "Nouveaux cahiers des charges",
+      "titre": "Décret n° 2026-580 du 26 juin 2026 relatif aux missions, à l'organisation et au fonctionnement des centres d'action médico-sociale précoce (CAMSP) et des centres médico-psycho-pédagogiques (CMPP)",
+      "resume": "Le décret fixe les **missions, l'organisation et le fonctionnement** des **CAMSP** et des **CMPP** au moyen de deux cahiers des charges intégrés au CASF.",
+      "points": [
+        "Création des annexes **5-1 (CAMSP)** et **5-2 (CMPP)** du CASF, qui remplacent les annexes 32 et 32 bis du décret de 1946",
+        "Le CAMSP accueille les enfants de **0 à 6 ans**, en **accès direct** sans orientation de la CDAPH",
+        "Missions de **dépistage, diagnostic et accompagnement précoce**, projet d'accompagnement co-construit et suivi des relais pendant **3 ans** après la sortie",
+        "Abrogation des décrets de **1946, 1956 et 1976**"
+      ],
+      "application": "Entrée en vigueur le lendemain de la publication (JO du 1er juillet 2026).",
+      "impact": "Les gestionnaires de CAMSP et CMPP doivent revoir leur projet d'établissement, leurs partenariats et leur organisation au regard des nouveaux cahiers des charges.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054361532",
+      "ajoute": "2026-10-22"
     },
     {
       "id": "cass-soc-2026-07-01-25-14861",
@@ -734,6 +971,28 @@
       "ajoute": "2026-10-20"
     },
     {
+      "id": "arrete-2026-06-19-esat-carnet",
+      "date": "2026-06-25",
+      "dateTexte": "2026-06-19",
+      "type": "Arrêté",
+      "theme": "Handicap",
+      "sujet": "ESAT - carnet de parcours",
+      "accroche": "Contenu minimal du carnet de compétences",
+      "titre": "Arrêté du 19 juin 2026 fixant les modalités relatives au carnet de parcours et de compétences prévu à l'article R. 243-13-2 du code de l'action sociale et des familles",
+      "resume": "L'arrêté fixe le contenu du **carnet de parcours et de compétences** des travailleurs handicapés accueillis en **ESAT**, dont le travailleur est propriétaire.",
+      "points": [
+        "Format **papier ou numérique**, articulé avec le dossier de l'usager",
+        "Rédigé en **FALC** ou en communication alternative et améliorée",
+        "Actualisé **au moins une fois par an** lors de l'entretien d'évaluation professionnelle",
+        "Rubriques minimales fixées en annexe : caractéristiques, **compétences**, formations, expériences"
+      ],
+      "application": "Entrée en vigueur le lendemain de la publication (JO du 25 juin 2026), pour les ESAT et les travailleurs qu'ils accueillent.",
+      "impact": "Chaque ESAT doit mettre en place un carnet conforme pour chaque travailleur et l'intégrer à l'entretien annuel d'évaluation.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054305881",
+      "ajoute": "2026-10-22"
+    },
+    {
       "id": "cass-soc-2026-06-17-25-12181",
       "date": "2026-06-17",
       "dateTexte": "2026-06-17",
@@ -778,6 +1037,90 @@
       "source": "Bulletins officiels Solidarités",
       "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-dgcssd5bdsssd1acnsadfo202680-du-16-juin-2026-relative-aux-orientations-de-la-campagne-budgetaire-des-etablissements-et-services-medico-sociaux-accueillant-des-personnes-en-situation-de-handicap-et-des-personnes-agees-pour-lexercice",
       "ajoute": "2026-10-19"
+    },
+    {
+      "id": "arrete-2026-06-15-ogd-2026",
+      "date": "2026-06-16",
+      "dateTexte": "2026-06-15",
+      "type": "Arrêté",
+      "theme": "Financement",
+      "sujet": "Objectif global de dépenses 2026",
+      "accroche": "34,3 milliards d'euros pour les ESMS",
+      "titre": "Arrêté du 15 juin 2026 fixant pour l'année 2026 l'objectif de dépenses et le montant total annuel des dépenses pour les établissements et services relevant de la Caisse nationale de solidarité pour l'autonomie mentionnée à l'article L. 314-3 du code de l'action sociale et des familles et fixant le montant mentionné à l'article L. 314-3-4 du même code",
+      "resume": "L'arrêté fixe l'**objectif de dépenses** 2026 des établissements et services médico-sociaux financés par la **CNSA**.",
+      "points": [
+        "Objectif global de **34 301,74 millions d'euros**",
+        "Dont **18 281,16 millions d'euros** pour les personnes âgées",
+        "Dont **16 020,59 millions d'euros** pour les personnes handicapées"
+      ],
+      "application": "Applicable pour l'année 2026.",
+      "impact": "Cet objectif conditionne les dotations régionales et donc les marges de financement disponibles pour les campagnes budgétaires des ESMS.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054256756",
+      "ajoute": "2026-10-22"
+    },
+    {
+      "id": "arrete-2026-06-09-valeur-point",
+      "date": "2026-06-16",
+      "dateTexte": "2026-06-09",
+      "type": "Arrêté",
+      "theme": "Financement",
+      "sujet": "EHPAD - valeur du point 2026",
+      "accroche": "Valeurs du point du forfait soins",
+      "titre": "Arrêté du 9 juin 2026 fixant pour 2026 les valeurs du point mentionnées à l'article R. 314-162 du code de l'action sociale et des familles",
+      "resume": "L'arrêté fixe pour 2026 les **valeurs du point** servant au calcul des tarifs plafonds du **forfait soins** des EHPAD.",
+      "points": [
+        "Tarif global sans PUI : **13,86 euros** - avec PUI : **14,60 euros**",
+        "Tarif partiel sans PUI : **11,79 euros** - avec PUI : **12,48 euros**",
+        "Valeurs **majorées de 20 %** dans les départements d'outre-mer"
+      ],
+      "application": "Applicable pour l'exercice 2026.",
+      "impact": "Ces valeurs déterminent le plafond de la dotation soins de chaque EHPAD et doivent être utilisées pour vérifier la notification budgétaire 2026.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054256673",
+      "ajoute": "2026-10-22"
+    },
+    {
+      "id": "arrete-2026-06-09-forfaits",
+      "date": "2026-06-16",
+      "dateTexte": "2026-06-09",
+      "type": "Arrêté",
+      "theme": "Financement",
+      "sujet": "Forfaits journaliers 2026",
+      "accroche": "Plafonds accueil de jour et transport",
+      "titre": "Arrêté du 9 juin 2026 fixant pour 2026 les montants plafonds des forfaits journaliers mentionnés à l'article R. 314-207, au 1° de l'article D. 313-17, à l'article D. 313-18 et à l'article D. 313-20 du code de l'action sociale et des familles",
+      "resume": "L'arrêté fixe pour 2026 les **montants plafonds des forfaits journaliers** prévus par le CASF, notamment pour l'**accueil de jour** et le **transport**.",
+      "points": [
+        "Plafond (article D. 313-18) : **14,68 euros** pour les établissements du II de l'article L. 313-12 et **40,98 euros** pour les structures de l'article D. 313-20",
+        "Forfait journalier de **transport** (article R. 314-207) : **13,18 euros**",
+        "Forfait journalier de transport (article D. 313-20) : **16,05 euros**"
+      ],
+      "application": "Applicable pour l'exercice 2026.",
+      "impact": "Ces montants encadrent les financements des accueils de jour et des frais de transport des personnes accueillies dans le budget 2026.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054256658",
+      "ajoute": "2026-10-22"
+    },
+    {
+      "id": "decret-2026-506",
+      "date": "2026-06-14",
+      "dateTexte": "2026-06-12",
+      "type": "Décret",
+      "theme": "Domicile",
+      "sujet": "Aide à la mobilité - domicile",
+      "accroche": "75 millions d'euros par an",
+      "titre": "Décret n° 2026-506 du 12 juin 2026 modifiant le décret n° 2025-817 du 13 août 2025 relatif à l'aide financière de soutien à la mobilité et aux temps de dialogue et de partage de bonnes pratiques versée aux départements et aux collectivités territoriales uniques par la Caisse nationale de solidarité pour l'autonomie et fixant son montant pour 2025",
+      "resume": "L'aide de la **CNSA** aux départements pour la **mobilité des professionnels de l'aide à domicile** et les **temps d'échange** entre professionnels est fixée à **75 millions d'euros par an**.",
+      "points": [
+        "Dépenses d'achat de véhicules prises en compte dans la limite de **20 000 euros** par véhicule (ou **4 000 euros** par an en amortissement)",
+        "Location prise en compte dans la limite de **350 euros** par véhicule et par mois",
+        "Programmes **annuels ou pluriannuels**, attestation des dépenses avant le **31 mars**, acompte de **80 %** au plus tard le **31 mai**"
+      ],
+      "application": "Entrée en vigueur le lendemain de la publication (JO du 14 juin 2026), pour les départements et collectivités territoriales uniques.",
+      "impact": "Les services d'aide à domicile peuvent solliciter leur département pour financer véhicules, location ou temps d'échange de leurs intervenants.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054248408",
+      "ajoute": "2026-10-22"
     },
     {
       "id": "decret-2026-503",
@@ -826,6 +1169,48 @@
       "ajoute": "2026-10-20"
     },
     {
+      "id": "decret-2026-501",
+      "date": "2026-06-13",
+      "dateTexte": "2026-06-12",
+      "type": "Décret",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "AT/MP - durée des indemnités",
+      "accroche": "Indemnisation limitée à 4 ans",
+      "titre": "Décret n° 2026-501 du 12 juin 2026 fixant la durée maximale de service des indemnités journalières dues au titre des arrêts de travail résultant d'un accident de travail ou d'une maladie professionnelle",
+      "resume": "Les **indemnités journalières** versées après un **accident du travail ou une maladie professionnelle** sont limitées à une durée maximale de **4 ans**.",
+      "points": [
+        "Durée maximale de service des IJ AT/MP fixée à **4 ans**",
+        "Une nouvelle période de 4 ans est possible après une **reprise du travail d'au moins 1 an**",
+        "Mesure prise pour l'application de l'article 81 de la **LFSS pour 2026**"
+      ],
+      "application": "Applicable aux victimes dont l'accident ou la maladie professionnelle survient à compter du 1er janvier 2027.",
+      "impact": "Les arrêts AT/MP très longs prendront fin à 4 ans, ce qui impose d'anticiper la reprise, l'aménagement de poste ou une éventuelle procédure d'inaptitude.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054245628",
+      "ajoute": "2026-10-22"
+    },
+    {
+      "id": "decret-2026-499",
+      "date": "2026-06-13",
+      "dateTexte": "2026-06-12",
+      "type": "Décret",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "Arrêt de travail - contrôle médical",
+      "accroche": "Avis du contrôle médical après 3 mois",
+      "titre": "Décret n° 2026-499 du 12 juin 2026 relatif à la durée de renouvellement d'un arrêt de travail à compter de laquelle le prescripteur peut saisir l'avis du service du contrôle médical",
+      "resume": "Le médecin prescripteur peut solliciter l'avis du **service du contrôle médical** à partir d'un **renouvellement d'arrêt de travail de 3 mois**.",
+      "points": [
+        "Durée de renouvellement fixée à **3 mois** (régime général et régime agricole)",
+        "Suppression de la durée maximale d'arrêt prescrite par une sage-femme dans le cadre d'une IVG médicamenteuse",
+        "Pris pour l'application de l'article 81 de la **LFSS pour 2026**"
+      ],
+      "application": "Entrée en vigueur le 1er septembre 2026.",
+      "impact": "Les arrêts longs feront plus souvent l'objet d'un avis du contrôle médical, ce qui peut accélérer les reprises et les visites de reprise à organiser.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054245598",
+      "ajoute": "2026-10-22"
+    },
+    {
       "id": "decret-2026-498",
       "date": "2026-06-13",
       "dateTexte": "2026-06-12",
@@ -869,6 +1254,27 @@
       "source": "Légifrance",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054237287",
       "ajoute": "2026-10-20"
+    },
+    {
+      "id": "arrete-2026-05-22-smic",
+      "date": "2026-05-24",
+      "dateTexte": "2026-05-22",
+      "type": "Arrêté",
+      "theme": "Rémunération et protection sociale",
+      "sujet": "SMIC au 1er juin 2026",
+      "accroche": "SMIC horaire brut à 12,31 euros",
+      "titre": "Arrêté du 22 mai 2026 relatif au relèvement du salaire minimum de croissance",
+      "resume": "Le **SMIC** est revalorisé au **1er juin 2026**.",
+      "points": [
+        "SMIC horaire brut : **12,31 euros**, soit **1 867,02 euros** mensuels pour 35 heures",
+        "Mayotte : **9,56 euros** de l'heure, soit 1 449,93 euros mensuels",
+        "Minimum garanti : **4,35 euros**"
+      ],
+      "application": "Entrée en vigueur le 1er juin 2026, pour les employeurs et salariés de droit privé.",
+      "impact": "Les premiers coefficients des grilles conventionnelles (CCN 66, CCN 51, BAD) doivent être vérifiés et, si besoin, complétés par une indemnité différentielle pour atteindre le SMIC.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054126589",
+      "ajoute": "2026-10-22"
     },
     {
       "id": "arrete-2026-04-28-honorabilite",
