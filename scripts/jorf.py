@@ -9,6 +9,7 @@ dans telechargements/JO/AAAA-MM-JJ/.
 Lancé chaque matin par GitHub Actions (.github/workflows/jorf.yml).
 """
 import datetime as dt
+import hashlib
 import io
 import json
 import os
@@ -26,7 +27,8 @@ DIAG = "jorf/diagnostic.txt"
 DOSSIER_TELECHARGEMENTS = "telechargements/JO"   # un sous-dossier par date de publication
 JOURS_TELECHARGEMENTS = 365                        # on garde 1 an de textes téléchargés
 JOURS_MAX_PREMIER_PASSAGE = 14   # au premier lancement, on remonte 14 jours
-JOURS_CONSERVES = 120            # on garde 4 mois de candidats
+JOURS_CONSERVES = 160            # on garde un peu plus de 5 mois de candidats
+JOURS_REPRISE = 150              # quand les règles de tri changent, on relit les numéros des 150 derniers jours
 
 GARDER = [
     "action sociale et des familles", "medico-social", "medico-sociaux", "medico-sociale",
@@ -254,6 +256,12 @@ def recent(t, nom):
     return d_pub >= d_arch - dt.timedelta(days=JOURS_ANCIENNETE_MAX)
 
 
+def empreinte_regles():
+    """Change dès qu'une liste de mots-clés est modifiée : déclenche une relecture des numéros passés."""
+    regles = json.dumps([GARDER, EXCLURE, BRANCHES, EN_TETE, GARDER_SI_EN_TETE], ensure_ascii=False)
+    return hashlib.sha256(regles.encode("utf-8")).hexdigest()[:12]
+
+
 def main():
     os.makedirs("jorf", exist_ok=True)
     etat = {"maj": "", "traites": [], "items": []}
@@ -261,13 +269,21 @@ def main():
         with open(OUT, encoding="utf-8") as f:
             etat = json.load(f)
     deja = set(etat.get("traites", []))
+    regles = empreinte_regles()
+    reprise = etat.get("regles") != regles
     connus = {i["id"] for i in etat.get("items", [])}
     aujourd_hui = dt.date.today()
     diag = [f"Passage du {aujourd_hui.isoformat()}"]
 
     archives = lister_archives()
     diag.append(f"{len(archives)} archives quotidiennes disponibles, dernière : {archives[-1] if archives else 'aucune'}")
-    limite = aujourd_hui - dt.timedelta(days=JOURS_MAX_PREMIER_PASSAGE)
+    if reprise:
+        # Règles de tri modifiées : on relit tous les numéros récents pour ne rien rater
+        deja = set()
+        limite = aujourd_hui - dt.timedelta(days=JOURS_REPRISE)
+        diag.append(f"Règles de tri modifiées ({etat.get('regles') or 'aucune'} -> {regles}) : relecture des numéros depuis le {limite.isoformat()}")
+    else:
+        limite = aujourd_hui - dt.timedelta(days=JOURS_MAX_PREMIER_PASSAGE)
     a_traiter = [a for a in archives if a not in deja and (date_archive(a) or aujourd_hui) >= limite]
 
     nouveaux = 0
@@ -291,8 +307,9 @@ def main():
     etat["items"] = sorted([i for i in etat["items"] if (i.get("datePubli") or i["ajoute"]) >= borne],
                            key=lambda i: i.get("datePubli", ""), reverse=True)
     purger_telechargements(aujourd_hui)
-    etat["traites"] = sorted(deja)[-200:]
+    etat["traites"] = sorted(deja)[-400:]
     etat["maj"] = aujourd_hui.isoformat()
+    etat["regles"] = regles
     diag.append(f"{len(a_traiter)} archive(s) traitée(s), {nouveaux} nouveau(x) texte(s) pertinent(s)")
 
     with open(OUT, "w", encoding="utf-8") as f:

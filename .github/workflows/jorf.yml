@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "10 4 * * *"   # chaque jour vers 6h10 (heure d'été) / 5h10 (heure d'hiver), avant la veille Claude de 7h50
   workflow_dispatch: {}     # bouton « Run workflow » pour lancer à la main
+  push:
+    branches: [main]
+    paths: ["scripts/jorf.py"]   # relance automatique quand les règles de tri changent
 
 permissions:
   contents: write
@@ -15,7 +18,7 @@ concurrency:
 jobs:
   jorf:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
 
@@ -30,7 +33,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Aucun changement"
           else
-            git commit -m "JO du $(date +%F) : candidats médico-social"
+            git commit -m "JO du $(date +%F) : candidats de veille"
             git pull --rebase origin main
             git push origin main
           fi
