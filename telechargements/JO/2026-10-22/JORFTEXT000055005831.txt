@@ -1,0 +1,235 @@
+Arrêté du 15 octobre 2026 relatif aux modalités d'organisation du vote électronique par internet des personnels relevant du ministères du travail et des solidarités et du ministère de la santé, des familles, de l'autonomie et des personnes handicapées ainsi que de certains personnels relevant du ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique, pour les élections des représentants des personnels au sein des instances représentatives du personnel fixées du 3 au 10 décembre 2026
+
+Type : Arrêté
+Date de signature : 2026-10-15
+Publication au Journal officiel : 2026-10-22
+NOR : TRSR2626747A
+Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055005831
+Source : données ouvertes DILA, archive JORF_20261022-010121.tar.gz
+
+VISAS
+Le ministre du travail et des solidarités, le ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique et la ministre de la santé, des familles, de l'autonomie et des personnes handicapées,
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE ;
+Vu le code général de la fonction publique ;
+Vu le décret n° 2026-495 du 10 juin 2026 relatif aux comités sociaux d'administration ministériels relevant des ministres chargés du travail, de l'emploi, de la santé, des solidarités et des affaires sociales ;
+Vu l'arrêté du 2 juillet 2025 fixant la date des prochaines élections professionnelles dans la fonction publique, notamment son article 2 ;
+Vu l'arrêté du 2 juin 2026 relatif à la commission consultative paritaire compétente à l'égard des agents contractuels relevant des ministres chargés du travail, de l'emploi, de la santé, des solidarités et des affaires sociales ;
+Vu l'arrêté du 3 juin 2026 modifié relatif aux commissions administratives paritaires compétentes à l'égard de certains corps de fonctionnaires relevant des ministres chargés du travail, de l'emploi, de la santé, des solidarités et des affaires sociales ;
+Vu l'arrêté du 4 juin 2026 modifié portant création de comités sociaux d'administration et de leurs formations spécialisées au sein de certains services et établissements relevant des ministres chargés de l'économie, du travail, de l'emploi, de la santé, des solidarités et des affaires sociales ;
+Vu la délibération n° 2019-053 du 25 avril 2019 de la Commission nationale de l'informatique et des libertés portant adoption d'une recommandation relative à la sécurité des systèmes de vote par correspondance électronique, notamment via internet ;
+Vu l'avis du comité social d'administration placé auprès des ministres chargés du travail, de l'emploi et de l'insertion et du comité social d'administration placé auprès des ministres chargés des solidarités et de la santé réunis conjointement le 30 septembre 2026,
+Arrêtent :
+
+Article 1
+Les personnels régulièrement inscrits sur les listes électorales relevant des ministres chargés du travail et des solidarités, de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique, de la santé, des familles, de l'autonomie et des personnes handicapées votent par internet, selon leur cas, pour les élections des représentants du personnel aux comités sociaux d'administration, aux commissions administratives paritaires ou à la commission consultative paritaire mentionnés en annexe I au présent arrêté.
+
+Article 2
+Les scrutins mentionnés à l'annexe I du présent arrêté sont ouverts du 3 décembre 2026, à 9 heures, heure de Paris, au 10 décembre 2026, à 17 heures, heure de Paris.
+
+Article 3
+Les modalités de fonctionnement du système de vote par internet sont fixées par le présent arrêté.
+
+Article 4
+La conception, la gestion, la maintenance et l'hébergement du système de vote électronique sont délégués à une entreprise prestataire.
+La solution de vote électronique mentionnée à l'alinéa précédent fait l'objet d'une expertise indépendante.
+Dans le cadre de ses missions, l'expert indépendant a accès aux codes source du système de vote, aux mécanismes de scellement et de chiffrement, à l'infrastructure réseau, aux différents locaux de l'administration où s'organisent les élections ainsi qu'aux locaux de l'entreprise prestataire et le cas échéant de ses sous-traitants, dans les conditions définies avec le prestataire.
+L'autorité organisatrice du scrutin crée une cellule de supervision technique et nomme ses membres.
+
+Article 5
+Un centre d'assistance téléphonique est mis en place afin d'aider les électeurs dans l'accomplissement des opérations électorales ainsi que les membres des différents bureaux de vote, membre du bureau centralisateur de vote et les organisations syndicales.
+Il est accessible par appel téléphonique non surtaxé du 3 au 10 décembre aux horaires suivants :
+
+- de 9 heures à 18 heures (heure de Paris) pendant la période d'ouverture des scrutins du lundi au vendredi ;
+- de 10 heures à 17 heures (heure de Paris) pendant la période d'ouverture des scrutins le samedi et le dimanche.
+
+Article 6
+La mise en œuvre de la procédure électorale est confiée à un bureau de centralisation du vote électronique et aux vingt-neuf bureaux de vote électronique qui lui sont rattachés, créés respectivement en application des articles 8 et 9 du présent arrêté.
+
+Article 7
+Le bureau de centralisation de vote électronique est institué auprès de la directrice des ressources humaines des ministères chargés des affaires sociales pour l'ensemble des scrutins mentionnés en annexe I.
+
+Article 8
+I. - Il est institué un bureau de vote électronique auprès de la directrice des ressources humaines des ministères chargés des affaires sociales pour chacun des scrutins des instances mentionnées en annexe I du présent arrêté relevant des catégories suivantes :
+
+- les comités sociaux d'administration ministériels ;
+- le comité social d'administration centrale unique ;
+- les commissions administratives paritaires ;
+- la commission consultative paritaire.
+
+II. - Il est institué auprès de l'autorité compétente un bureau de vote électronique pour chacun des scrutins des instances suivantes :
+
+- le comité social d'administration de service déconcentré de chaque direction régionale de l'économie, de l'emploi, du travail et des solidarités (DREETS) ;
+- le comité social d'administration de service déconcentré de la direction régionale et interdépartementale de l'économie, de l'emploi, du travail et des solidarités d'Ile-de-France (DRIEETS) ;
+- le comité social d'administration de service déconcentré de chaque direction de l'économie, de l'emploi, du travail et des solidarités (DEETS) ;
+- le comité social d'administration de service déconcentré de la direction de la cohésion sociale, du travail, de l'emploi et de la population et la direction de l'administration territoriale de santé de Saint-Pierre-et-Miquelon (DCSTEP-ATS).
+
+III. - Il est institué un bureau de vote électronique auprès du directeur de l'Institut national du travail, de l'emploi et de la formation professionnelle pour le scrutin du comité social d'administration de proximité de cet établissement public.
+IV. - La nomination des représentants de l'administration et des délégués désignés par les organisations syndicales candidates fait l'objet d'une décision de l'autorité auprès de laquelle chaque bureau de vote électronique est institué.
+Les décisions sont prises à la majorité des voix des membres en présence. En cas de partage égal des voix, le président a voix prépondérante.
+
+Article 9
+Dix clés de chiffrement sont attribuées au bureau de centralisation du vote électronique.
+Ces clés de chiffrement sont réparties dans les conditions suivantes :
+
+- pour l'administration : deux clés dont une clé pour le président et une clé pour le secrétaire ;
+- pour les délégués : huit clés, soit 4 couples délégué et suppléant.
+
+Si le nombre de clés à répartir est inférieur au nombre de délégués, chacune des huit clés est attribuée par tirage au sort à une fédération ou organisation syndicale ou liste d'union d'organisations syndicales de telle sorte que les clés soient réparties au sein de 4 organisations syndicales.
+L'attribution des clés de chiffrement nécessitera la présence sur site des membres du bureau de centralisation du vote électronique, dans le lieu prévu en administration centrale au sein des ministères chargés des affaires sociales.
+
+Article 10
+Les listes électorales sont mises en ligne dans la plateforme de vote électronique au plus tard le 3 novembre 2026.
+Elles comprennent le nom, le prénom, le corps d'appartenance du fonctionnaire ou la nature du contrat de l'agent contractuel et le numéro de matricule. Elles comprennent également le corps d'origine et le cas échéant, le corps d'accueil du fonctionnaire en mobilité, et l'affectation de l'électeur.
+
+Article 11
+Les réclamations portant sur une inscription sur une liste électorale, une suppression sur une liste électorale ou un changement de situation et les rectifications de données d'électeurs sont effectuées par les agents via un formulaire en ligne et disponible depuis la plateforme de consultation des listes électorales. Ces réclamations sont prises en compte jusqu'au 2 décembre 2026 à 8 heures (heure de Paris).
+
+Article 12
+Les organisations syndicales ont accès aux listes électorales des scrutins pour lesquels elles ont déposé des candidatures par voie dématérialisée.
+
+Article 13
+Les listes de candidats ou les candidatures sur sigle et les déclarations individuelles de candidature sont déposées au plus tard le 22 octobre 2026, à 17 heures, heure de Paris, sur la plateforme d'appel à candidatures en ligne.
+Le délai dont dispose l'administration pour apprécier la recevabilité d'une liste expire le 26 octobre 2026 à 17 heures, heure de Paris.
+
+Article 14
+Les organisations syndicales déposent auprès de l'administration leurs listes de candidats, candidatures sur sigle, déclarations individuelles, leur logo sous format PNG, 400 × 400 pixels avec une taille maximum de 200 Ko, et leurs professions de foi au format PDF recto-verso de deux pages maximum avec une taille maximum de 2 Mo par document, par voie électronique. Le dépôt des professions de foi est effectué au plus tard le 22 octobre 2026, à 17 heures, heure de Paris.
+
+Article 15
+Les listes de candidats et les candidatures sur sigle ainsi que les professions de foi et les logos sont mis en ligne sur le portail de vote après leur validation. L'ordre d'apparition de chacune des listes sur le portail de vote est aléatoire. Les listes de candidats et les candidatures sur sigle font également l'objet d'un affichage dans les services en charge des scrutins concernés.
+
+Article 16
+L'authentification sur la plateforme de vote se fait par la saisine de deux authentifiants communiqués à l'électeur sur deux canaux sécurisés distincts et individuels.
+Le premier authentifiant est constitué d'une connexion via ProConnect ou d'un code temporaire envoyé sur demande de l'électeur sur son courrier électronique professionnel.
+Le deuxième authentifiant est constitué d'un code temporaire envoyé à la demande sur le numéro de téléphone professionnel de l'électeur ou du code déposé sur l'espace Numérique Sécurisé de l'Agent Public (ENSAP) de l'électeur ou, pour les électeurs n'ayant pas de compte ENSAP, d'un code envoyé par courrier postal.
+
+Article 17
+En cas de difficulté de connexion, une procédure de réassortiment permet à l'électeur de récupérer des authentifiants par l'intermédiaire du centre d'assistance téléphonique.
+
+Article 18
+Un espace électoral, qui accueille le ou les postes dédiés à l'exercice du suffrage et garantissant l'anonymat, la confidentialité et le secret du vote, est aménagé dans les services concernés.
+La liste des établissements et services dans lesquels un équipement informatique dédié est mis à disposition est mentionnée en annexe II du présent arrêté en tenant compte de l'implantation bâtimentaire des services.
+Les espaces électoraux sont ouverts durant la période d'ouverture des scrutins mentionnée à l'article 2 du présent arrêté, pendant les heures de service. Les horaires d'ouverture des espaces électoraux peuvent, le cas échéant, être adaptés pour tenir compte du décalage horaire dans les services situés dans les départements et régions d'outre-mer ainsi qu'à Saint-Pierre-et-Miquelon.
+
+Article 19
+Après l'heure de clôture du scrutin, aucune procédure de vote ne peut être lancée.
+Par exception à l'alinéa précédent, l'électeur connecté sur le système de vote avant l'heure de clôture peut valablement mener son vote jusqu'à son terme, dans la limite de vingt minutes après la clôture du scrutin fixée à l'article 2 du présent arrêté.
+
+Article 20
+Les procès-verbaux des élections et la liste des références de vote sont publiés sur les intranets des ministères afin que chaque électeur puisse vérifier que son bulletin a bien été comptabilisé lors du dépouillement.
+
+Article 21
+La publication des résultats électoraux pour l'ensemble des scrutins est effectuée en ligne sur l'intranet des ministères chargés des affaires sociales, sur ceux des services déconcentrés listés en annexe I et sur celui de l'Institut national du travail, de l'emploi et de la formation professionnelle.
+
+Article 22
+Les dispositions du présent arrêté sont applicables en vue des élections professionnelles fixées par l'arrêté du 2 juillet 2025 susvisé et par l'article 1er du présent arrêté.
+
+Article 23
+L'arrêté du 20 octobre 2022 relatif aux modalités d'organisation du vote électronique par internet des personnels relevant des ministres chargés du travail, de l'emploi, de l'insertion, de la santé et des solidarités et de certains personnels relevant des ministres chargés de l'économie et des finances, pour les élections des représentants des personnels au sein des instances représentatives du personnel fixées du 1er au 8 décembre 2022 est abrogé.
+
+Article 24
+Le présent arrêté sera publié au Journal officiel de la République française.
+
+Article
+ANNEXES
+ANNEXE I
+LISTE DES SCRUTINS
+
+1. Comité social d'administration ministériel placé auprès des ministres chargés du travail, de l'emploi et de l'insertion.
+2. Comité social d'administration ministériel placé auprès des ministres chargés de la santé et des solidarités.
+3. Comité social d'administration centrale unique institué auprès du directeur des ressources humaines relevant des ministres chargés du travail, de l'emploi, de l'insertion, des solidarités et de la santé.
+4. Comité social d'administration de proximité de l'Institut national du travail, de l'emploi et de la formation professionnelle.
+5. Comité social d'administration de service déconcentré créé auprès du directeur régional de l'économie, de l'emploi, du travail et des solidarités d'Auvergne-Rhône-Alpes.
+6. Comité social d'administration de service déconcentré créé auprès du directeur régional de l'économie, de l'emploi, du travail et des solidarités de Bourgogne-Franche-Comté.
+7. Comité social d'administration de service déconcentré créé auprès du directeur régional de l'économie, de l'emploi, du travail et des solidarités de Bretagne.
+8. Comité social d'administration de service déconcentré créé auprès du directeur régional de l'économie, de l'emploi, du travail et des solidarités de Centre-Val de Loire.
+9. Comité social d'administration de service déconcentré créé auprès du directeur régional de l'économie, de l'emploi, du travail et des solidarités de Corse.
+10. Comité social d'administration de service déconcentré créé auprès du directeur régional de l'économie, de l'emploi, du travail et des solidarités de Grand Est.
+11. Comité social d'administration de service déconcentré créé auprès du directeur de l'économie, de l'emploi, du travail et des solidarités de Guadeloupe.
+12. Comité social d'administration de service déconcentré créé auprès du directeur régional de l'économie, de l'emploi, du travail et des solidarités des Hauts-de-France.
+13. Comité social d'administration de service déconcentré créé auprès du directeur régional et interdépartemental de l'économie, de l'emploi, du travail et des solidarités d'Ile-de-France.
+14. Comité social d'administration de service déconcentré créé auprès du directeur de l'économie, de l'emploi, du travail et des solidarités de La Réunion.
+15. Comité social d'administration de service déconcentré créé auprès du directeur de l'économie, de l'emploi, du travail et des solidarités de Martinique.
+16. Comité social d'administration de service déconcentré créé auprès du directeur de l'économie, de l'emploi, du travail et des solidarités de Mayotte.
+17. Comité social d'administration de service déconcentré créé auprès du directeur régional de l'économie, de l'emploi, du travail et des solidarités de Normandie.
+18. Comité social d'administration de service déconcentré créé auprès du directeur régional de l'économie, de l'emploi, du travail et des solidarités de Nouvelle-Aquitaine.
+19. Comité social d'administration de service déconcentré créé auprès du directeur régional de l'économie, de l'emploi, du travail et des solidarités d'Occitanie.
+20. Comité social d'administration de service déconcentré créé auprès du directeur régional de l'économie, de l'emploi, du travail et des solidarités de Pays de la Loire.
+21. Comité social d'administration de service déconcentré créé auprès du directeur régional de l'économie, de l'emploi, du travail et des solidarités de Provence-Alpes-Côte d'Azur.
+22. Comité social d'administration unique placé auprès des directeurs de la cohésion sociale, du travail, de l'emploi et de la population et de l'agence territoriale de santé de Saint-Pierre-et-Miquelon.
+23. Commission administrative paritaire compétente à l'égard des corps d'encadrement supérieur.
+24. Commission administrative paritaire compétente à l'égard des corps de catégorie A.
+25. Commission administrative paritaire compétente à l'égard du corps de l'inspection du travail.
+26. Commission administrative paritaire compétente à l'égard des corps de catégorie B.
+27. Commission administrative paritaire compétente à l'égard du corps des contrôleurs du travail.
+28. Commission administrative paritaire compétente à l'égard des corps de catégorie C.
+29. Commission consultative paritaire des ministères sociaux compétente à l'égard des agents contractuels relevant des ministres chargés des solidarités, de la santé, du travail, de l'emploi.
+
+Article
+ANNEXE II
+
+1. Site d'administration centrale « TODS » - 78-84, rue Olivier-de-Serres - 75015 Paris.
+2. Site d'administration centrale « DUQUESNE » - 14, avenue Duquesne - 75007 Paris.
+3. Site d'administration centrale « HIGHLINE » - 8, rue François-Ory - 92120 Montrouge.
+4. Site de la Direction régionale de l'économie, de l'emploi, du travail et des solidarités d'Auvergne-Rhône-Alpes.
+5. Site de la Direction régionale de l'économie, de l'emploi, du travail et des solidarités de Bourgogne-Franche-Comté.
+6. Site de la Direction régionale de l'économie, de l'emploi, du travail et des solidarités de Bretagne.
+7. Site de la Direction régionale de l'économie, de l'emploi, du travail et des solidarités de Centre-Val de Loire.
+8. Site de la Direction régionale de l'économie, de l'emploi, du travail et des solidarités de Corse.
+9. Site de la Direction régionale de l'économie, de l'emploi, du travail et des solidarités de Grand Est.
+10. Site de la Direction de l'économie, de l'emploi, du travail et des solidarités de Guadeloupe.
+11. Site de la Direction régionale de l'économie, de l'emploi, du travail et des solidarités des Hauts-de-France.
+12. Site de la Direction régionale et interdépartementale de l'économie, de l'emploi, du travail et des solidarités d'Ile-de-France.
+13. Site de la Direction de l'économie, de l'emploi, du travail et des solidarités de La Réunion.
+14. Site de la Direction de l'économie, de l'emploi, du travail et des solidarités de Martinique.
+15. Site de la Direction de l'économie, de l'emploi, du travail et des solidarités de Mayotte.
+16. Site de la Direction régionale de l'économie, de l'emploi, du travail et des solidarités de Normandie.
+17. Site de la Direction régionale de l'économie, de l'emploi, du travail et des solidarités de Nouvelle-Aquitaine.
+18. Site de la Direction régionale de l'économie, de l'emploi, du travail et des solidarités d'Occitanie.
+19. Site de la Direction régionale de l'économie, de l'emploi, du travail et des solidarités des Pays de la Loire.
+20. Site de la Direction régionale de l'économie, de l'emploi, du travail et des solidarités de Provence-Alpes-Côte d'Azur.
+21. Site de la Direction de la cohésion sociale, du travail, de l'emploi et de la population de Saint-Pierre-et-Miquelon.
+22. Site de l'Agence régionale de santé Auvergne-Rhône-Alpes.
+23. Site de l'Agence régionale de santé Bourgogne-Franche-Comté.
+24. Site de l'Agence régionale de santé Bretagne.
+25. Site de l'Agence régionale de santé Centre-Val de Loire.
+26. Site de l'Agence régionale de santé Corse.
+27. Site de l'Agence régionale de santé Grand Est.
+28. Site de l'Agence régionale de santé Guadeloupe.
+29. Site de l'Agence régionale de santé Guyane.
+30. Site de l'Agence régionale de santé Hauts-de-France.
+31. Site de l'Agence régionale de santé Ile-de-France.
+32. Site de l'Agence régionale de santé La Réunion.
+33. Site de l'Agence régionale de santé Martinique.
+34. Site de l'Agence régionale de santé Mayotte.
+35. Site de l'Agence régionale de santé Normandie.
+36. Site de l'Agence régionale de santé Nouvelle-Aquitaine.
+37. Site de l'Agence régionale de santé Occitanie.
+38. Site de l'Agence régionale de santé Pays de la Loire.
+39. Site de l'Agence régionale de santé Provence-Alpes-Côte d'Azur.
+
+SIGNATAIRES
+Fait le 15 octobre 2026.
+
+Le ministre du travail et des solidarités,
+
+Pour le ministre et par délégation :
+
+La directrice des ressources humaines,
+
+C. GARDETTE-HUMEZ
+
+Le ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique,
+
+Pour le ministre et par délégation :
+
+La secrétaire générale,
+
+A. LAPIDUS
+
+La ministre de la santé, des familles, de l'autonomie et des personnes handicapées,
+
+Pour la ministre et par délégation :
+
+La directrice des ressources humaines,
+
+C. GARDETTE-HUMEZ
