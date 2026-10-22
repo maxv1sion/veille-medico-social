@@ -83,6 +83,20 @@ EXCLURE = [
     "personnes autorisees a exercer", "vacance", "eleves directeurs", "taux de promotion",
     "titre professionnel", "certificat de qualification professionnelle", "portant agrement d'organismes",
     "habilitation d'organismes", "conseil d'administration de la caisse", "composition du conseil",
+    # Mesures individuelles et gestion interne des administrations
+    "promotion de grade", "nombre d'emplois offerts", "nombre de postes offerts", "avis de recrutement",
+    "recrutement par la voie", "ouvrant le recrutement", "designation d'un magistrat", "portant designation",
+    "placement d'", "listes d'aptitude", "attributions du ministre", "portant reconnaissance", "abrogeant le decret portant reconnaissance",
+    # Élections et instances internes de la fonction publique (hors FPH du secteur)
+    "vote electronique", "comite social d'administration", "commissions administratives paritaires",
+    "commissions consultatives paritaires", "parts respectives de femmes et d'hommes",
+    "nombre de representants par college", "nombre de membres representants",
+    "election des representants du personnel", "elections des representants du personnel",
+    "elections professionnelles des representants", "designation des representants du personnel",
+    # Hors secteur
+    "indemnites compensatoires de handicap", "ecoregime", "brevet de technicien", "certificat d'instructeur",
+    "couture parisienne", "industries electriques", "travailleurs independants", "branche france travail",
+    "administrateurs judiciaires", "vehicules",
 ]
 # Mots-clés retenus seulement en tête d'intitulé (sinon simples renvois à une loi ancienne)
 EN_TETE = ["loi n", "loi organique", "ordonnance", "decret"]
@@ -280,6 +294,8 @@ def main():
     if reprise:
         # Règles de tri modifiées : on relit tous les numéros récents pour ne rien rater
         deja = set()
+        etat["items"] = []
+        connus = set()
         limite = aujourd_hui - dt.timedelta(days=JOURS_REPRISE)
         diag.append(f"Règles de tri modifiées ({etat.get('regles') or 'aucune'} -> {regles}) : relecture des numéros depuis le {limite.isoformat()}")
     else:
@@ -307,6 +323,18 @@ def main():
     etat["items"] = sorted([i for i in etat["items"] if (i.get("datePubli") or i["ajoute"]) >= borne],
                            key=lambda i: i.get("datePubli", ""), reverse=True)
     purger_telechargements(aujourd_hui)
+    if reprise:  # retire les textes complets des candidats écartés par les nouvelles règles
+        gardes = {i["id"] for i in etat["items"]}
+        if os.path.isdir(DOSSIER_TELECHARGEMENTS):
+            for jour in os.listdir(DOSSIER_TELECHARGEMENTS):
+                d = os.path.join(DOSSIER_TELECHARGEMENTS, jour)
+                if not os.path.isdir(d):
+                    continue
+                for f in os.listdir(d):
+                    if f.split(".")[0] not in gardes:
+                        os.remove(os.path.join(d, f))
+                if not os.listdir(d):
+                    os.rmdir(d)
     etat["traites"] = sorted(deja)[-400:]
     etat["maj"] = aujourd_hui.isoformat()
     etat["regles"] = regles
