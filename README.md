@@ -28,11 +28,12 @@ La notification indique le nombre de textes ajoutés (avec intitulé et date), c
 | Élément | Rôle |
 |---|---|
 | `index.html` | Le site : filtres par période, domaine, thème et type, export PowerPoint, texte d'email pour le dirigeant, mode présentation pour la visio. Fichier généré par `build.py`, ne pas le modifier à la main |
-| `src/` et `build.py` | Les sources du site (style, page, code commun, stockage GitHub ou Claude) et le script qui assemble `index.html` et la version de la page Claude |
+| `src/` et `build.py` | Les sources du site (style, page, code commun) et le script qui assemble `index.html` |
 | `registre.json` | La liste des textes de veille (date, type, thème, sujet, accroche, intitulé, résumé, points clés, application, conséquence, étapes, source, lien) |
 | `.github/workflows/jorf.yml` | Le programme automatique GitHub qui lance la récupération du JO chaque matin |
 | `scripts/jorf.py` | Le script de téléchargement et de tri du JO |
-| `jorf/candidats.json` | Les textes du JO présélectionnés, repris par la veille Claude |
+| `jorf/candidats.json` | Les textes du JO présélectionnés et pas encore examinés, repris par la veille Claude |
+| `jorf/examines.json` | Les textes du JO déjà examinés par la veille (retenus ou écartés), pour ne pas les représenter |
 | `jorf/diagnostic.txt` | Le rapport du dernier passage (archives lues, nombre de textes, erreurs éventuelles) |
 | `telechargements/JO/AAAA-MM-JJ/` | Le texte officiel complet de chaque texte retenu : version lisible `.txt` et fichier XML d'origine |
 
@@ -59,7 +60,6 @@ Les suppressions sont automatiques.
 
 - **Site GitHub Pages** : https://maxv1sion.github.io/veille-medico-social/, accessible depuis n'importe quel poste, sans compte
 - **Fichier HTML autonome** : à ouvrir d'un double-clic sur le poste, il récupère `registre.json` à chaque ouverture. Les textes ajoutés à la main restent sur le poste.
-- **Page Claude** : version privée, mise à jour en même temps que le site
 
 ## Actions manuelles utiles
 
