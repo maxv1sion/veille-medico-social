@@ -1,6 +1,6 @@
 {
   "meta": {
-    "derniereMaj": "2026-10-22"
+    "derniereMaj": "2026-10-23"
   },
   "items": [
     {
@@ -112,6 +112,27 @@
       "source": "Journal officiel",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979559",
       "ajoute": "2026-10-22"
+    },
+    {
+      "id": "instruction-2026-124",
+      "date": "2026-10-14",
+      "dateTexte": "2026-10-14",
+      "type": "Instruction / circulaire",
+      "theme": "Handicap",
+      "sujet": "SERAFIN-PH - préparation",
+      "accroche": "Crédits CNSA aux ARS pour préparer la réforme tarifaire",
+      "titre": "Instruction n° CNSA/DFO/PMRT/2026/124 du 14 octobre 2026 relative à la répartition de la contribution de la Caisse nationale de solidarité pour l'autonomie au financement des agences régionales de santé pour le financement d’actions en faveur de la préparation du déploiement de la réforme SERAFIN-PH",
+      "resume": "L'instruction répartit entre les **agences régionales de santé** une **contribution de la CNSA** destinée à financer des actions de **préparation du déploiement de la réforme SERAFIN-PH**, nouveau modèle de tarification des ESMS du handicap.",
+      "points": [
+        "Texte signé par la **CNSA** le **14 octobre 2026** et publié au Bulletin officiel",
+        "Objet : **répartition entre les ARS** d'une contribution de la CNSA",
+        "Les crédits financent des **actions de préparation** au déploiement de **SERAFIN-PH**"
+      ],
+      "application": "Destinée aux agences régionales de santé, elle concerne indirectement les établissements et services pour personnes en situation de handicap.",
+      "impact": "Les ESMS du handicap peuvent être sollicités par leur ARS pour des actions d'accompagnement à la réforme SERAFIN-PH et doivent anticiper le passage au nouveau modèle de financement.",
+      "source": "Bulletins officiels des ministères sociaux",
+      "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-cnsadfopmrt2026124-du-14-octobre-2026-relative-la-repartition-de-la-contribution-de-la-caisse-nationale-de-solidarite-pour-lautonomie-au-financement-des-agences-regionales-de-sante-pour-le-financement-dactions-en-faveur-de-la-prepa",
+      "ajoute": "2026-10-23"
     },
     {
       "id": "ppl-violences-sexuelles",
