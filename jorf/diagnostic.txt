@@ -1,4 +1,6 @@
-Passage du 2026-10-22
-860 archives quotidiennes disponibles, dernière : JORF_20261022-010121.tar.gz
-97 candidat(s) déjà examiné(s) retiré(s) de la liste
-0 archive(s) traitée(s), 0 nouveau(x) texte(s) pertinent(s)
+Passage du 2026-10-23
+862 archives quotidiennes disponibles, dernière : JORF_20261023-014741.tar.gz
+JORF_20261022-214745.tar.gz : 255 textes lus, articles rattachés à 251 textes | racines XML {'JO': 137, 'SECTION_TA': 924, 'TEXTELR': 255, 'TEXTE_VERSION': 255, 'ARTICLE': 4039} | exemples ['20261022-214745/jorf/global/conteneur/JORF/CONT/00/00/55/00/58/JORFCONT000055005802.xml', '20261022-214745/jorf/global/conteneur/JORF/CONT/00/00/53/04/23/JORFCONT000053042323.xml', '20261022-214745/jorf/global/conteneur/JORF/CONT/00/00/53/95/85/JORFCONT000053958532.xml']
+JORF_20261023-014741.tar.gz : 126 textes lus, articles rattachés à 126 textes | racines XML {'JO': 1, 'SECTION_TA': 29, 'TEXTELR': 126, 'TEXTE_VERSION': 126, 'ARTICLE': 318} | exemples ['20261023-014741/jorf/global/conteneur/JORF/CONT/00/00/55/00/89/JORFCONT000055008937.xml', '20261023-014741/jorf/global/section_ta/JORF/SCTA/00/00/55/00/89/JORFSCTA000055008993.xml', '20261023-014741/jorf/global/section_ta/JORF/SCTA/00/00/55/00/89/JORFSCTA000055008994.xml']
+2 candidat(s) déjà examiné(s) retiré(s) de la liste
+2 archive(s) traitée(s), 2 nouveau(x) texte(s) pertinent(s)

@@ -5,7 +5,7 @@ Date de signature : 2026-10-21
 Publication au Journal officiel : 2026-10-22
 NOR : SFHX2614236L
 Lien Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055005805
-Source : données ouvertes DILA, archive JORF_20261022-010121.tar.gz
+Source : données ouvertes DILA, archive JORF_20261022-214745.tar.gz
 
 VISAS
 L'Assemblée nationale et le Sénat ont adopté,
@@ -13,25 +13,24 @@ Le Président de la République promulgue la loi dont la teneur suit :
 
 Article unique
 L'article L. 313-7 du code de l'action sociale et des familles est ainsi modifié :
-1° A la première phrase, les mots : « être supérieure à » sont remplacés par le mot : « excéder » ;
-2° Les deux dernières phrases sont ainsi rédigées : « Elles peuvent être renouvelées au vu des résultats positifs d'une évaluation, dans la limite d'une durée totale de dix ans. Au terme de cette période d'expérimentation et sous réserve d'une nouvelle évaluation positive, l'établissement ou le service peut être autorisé dans les mêmes conditions, pour la durée prévue au I de l'article L. 313-1. »
-La présente loi sera exécutée comme loi de l'Etat.
+
+1° A la première phrase, les mots : &laquo; être supérieure à &raquo; sont remplacés par le mot : &laquo; excéder &raquo; ;
+2° Les deux dernières phrases sont ainsi rédigées : &laquo; Elles peuvent être renouvelées au vu des résultats positifs d'une évaluation, dans la limite d'une durée totale de dix ans. Au terme de cette période d'expérimentation et sous réserve d'une nouvelle évaluation positive, l'établissement ou le service peut être autorisé dans les mêmes conditions, pour la durée prévue au I de l'article L. 313-1. &raquo;
 
 SIGNATAIRES
+La présente loi sera exécutée comme loi de l'Etat.
+
 Fait à Paris, le 21 octobre 2026.
 
 Emmanuel MACRON
 
 Par le Président de la République :
-
 Le Premier ministre,
 
 Sébastien LECORNU
-
 Le ministre du travail et des solidarités,
 
 Jean-Pierre FARANDOU
-
 La ministre de la santé, des familles, de l'autonomie et des personnes handicapées,
 
 Stéphanie RIST
