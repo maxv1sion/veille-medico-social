@@ -1,5 +1,5 @@
 {
-  "maj": "2026-10-23",
+  "maj": "2026-10-24",
   "traites": [
     "JORF_20260525-201636.tar.gz",
     "JORF_20260526-212444.tar.gz",
@@ -284,8 +284,23 @@
     "JORF_20261021-213023.tar.gz",
     "JORF_20261022-010121.tar.gz",
     "JORF_20261022-214745.tar.gz",
-    "JORF_20261023-014741.tar.gz"
+    "JORF_20261023-014741.tar.gz",
+    "JORF_20261023-215041.tar.gz",
+    "JORF_20261024-014834.tar.gz"
   ],
-  "items": [],
+  "items": [
+    {
+      "id": "JORFTEXT000055012552",
+      "nature": "AVIS",
+      "titre": "Avis relatif à l'extension d'un avenant à la convention collective nationale des acteurs du lien social et familial",
+      "nor": "TRST2628107V",
+      "datePubli": "2026-10-24",
+      "dateTexte": "2999-01-01",
+      "type": "Décision / avis",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012552",
+      "ajoute": "2026-10-24",
+      "fichier": "telechargements/JO/2026-10-24/JORFTEXT000055012552.txt"
+    }
+  ],
   "regles": "129b46a65094"
 }
