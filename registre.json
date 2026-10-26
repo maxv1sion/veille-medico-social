@@ -1,6 +1,6 @@
 {
   "meta": {
-    "derniereMaj": "2026-10-23"
+    "derniereMaj": "2026-10-26"
   },
   "items": [
     {
@@ -23,6 +23,52 @@
       "source": "Journal officiel (données DILA)",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055005805",
       "ajoute": "2026-10-22"
+    },
+    {
+      "id": "cass-soc-2026-10-21-25-10793",
+      "date": "2026-10-21",
+      "dateTexte": "2026-10-21",
+      "type": "Jurisprudence",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "Harcèlement moral",
+      "accroche": "Des agissements répétés de même nature peuvent suffire",
+      "titre": "Cour de cassation, civile, Chambre sociale, 21 octobre 2026, 25-10.793",
+      "resume": "Des **sollicitations répétées de même nature** (ici pendant les congés et l'activité partielle) ne peuvent pas être réduites à un **fait unique** : elles peuvent contribuer à caractériser un **harcèlement moral**, et les juges doivent apprécier les faits **dans leur ensemble**, avec les éléments médicaux.",
+      "points": [
+        "Cassation au visa des articles **L. 1152-1 et L. 1154-1** du code du travail",
+        "La cour d'appel avait ramené des sollicitations multiples à **un seul fait matériellement établi**, ce qui est censuré",
+        "Les juges doivent examiner les faits **globalement**, en tenant compte des **éléments médicaux** produits",
+        "Enjeu : la **nullité du licenciement pour inaptitude** lorsque l'inaptitude est liée au harcèlement"
+      ],
+      "application": "Arrêt de la chambre sociale, applicable à tout employeur de droit privé, dont les associations du secteur.",
+      "impact": "Contacter de façon répétée un salarié pendant ses congés ou une période de suspension du contrat peut être retenu comme élément de harcèlement, même si chaque contact est de même nature. Il convient d'encadrer les sollicitations hors temps de travail et de documenter les justifications objectives.",
+      "reference": "Cass. soc. 21 octobre 2026, n° 25-10.793",
+      "source": "Cour de cassation",
+      "url": "https://www.courdecassation.fr/decision/6ad888927a1020213707fbe3",
+      "ajoute": "2026-10-26"
+    },
+    {
+      "id": "cass-soc-2026-10-21-25-13382",
+      "date": "2026-10-21",
+      "dateTexte": "2026-10-21",
+      "type": "Jurisprudence",
+      "theme": "Dialogue social et salariés protégés",
+      "sujet": "Budget ASC du CSE",
+      "accroche": "Pas de reversement des économies de restauration si l'accord ne le prévoit pas",
+      "titre": "Cour de cassation, civile, Chambre sociale, 21 octobre 2026, 25-13.382",
+      "resume": "Lorsqu'un **accord d'entreprise fixe la contribution aux activités sociales et culturelles** et que l'employeur gère lui-même la **restauration**, les **économies** réalisées sur cette activité n'ont pas à être **reversées au comité** si l'accord ne prévoit pas l'imputation de ces dépenses sur la contribution.",
+      "points": [
+        "Première prise de position de la Cour de cassation sur les règles de fixation du **budget ASC** issues de la réforme de 2018",
+        "Les comités demandaient le reversement des **économies réalisées pendant la crise sanitaire** sur la restauration gérée par l'employeur",
+        "**Cassation sans renvoi** : les comités sont déboutés, à l'inverse de la position retenue en appel",
+        "La solution dépend de la **rédaction de l'accord** fixant la contribution"
+      ],
+      "application": "Arrêt de la chambre sociale, concerne les employeurs dont la contribution aux ASC du CSE est fixée par accord d'entreprise.",
+      "impact": "Les accords fixant la contribution ASC doivent préciser si les dépenses sociales gérées directement par l'employeur (restauration notamment) s'imputent sur cette contribution. À défaut de clause d'imputation, les économies réalisées sur ces activités restent acquises à l'employeur.",
+      "reference": "Cass. soc. 21 octobre 2026, n° 25-13.382",
+      "source": "Cour de cassation",
+      "url": "https://www.courdecassation.fr/decision/6ad8888b7a1020213707fba3",
+      "ajoute": "2026-10-26"
     },
     {
       "id": "arrete-2026-10-05-mna",
@@ -335,8 +381,8 @@
           "libelle": "Dépôt au Parlement"
         },
         {
-          "date": "2026-10-20",
-          "detail": "1re lecture à l'Assemblée nationale - séance publique ouverte le 20 octobre 2026",
+          "date": "2026-10-23",
+          "detail": "1re lecture à l'Assemblée nationale - texte rejeté le 23 octobre 2026 après la suppression des articles de la première partie (texte n° 358), examen au Sénat à venir",
           "fait": false,
           "libelle": "Examen et adoption"
         },
