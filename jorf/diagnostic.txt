@@ -1,5 +1,5 @@
-Passage du 2026-10-29
-873 archives quotidiennes disponibles, dernière : JORF_20261029-004719.tar.gz
-JORF_20261028-212713.tar.gz : 199 textes lus, articles rattachés à 194 textes | racines XML {'JO': 94, 'SECTION_TA': 1956, 'TEXTELR': 199, 'TEXTE_VERSION': 199, 'ARTICLE': 6430} | exemples ['20261028-212713/jorf/global/conteneur/JORF/CONT/00/00/55/02/00/JORFCONT000055020030.xml', '20261028-212713/jorf/global/conteneur/JORF/CONT/00/00/55/01/14/JORFCONT000055011485.xml', '20261028-212713/jorf/global/conteneur/JORF/CONT/00/00/24/58/32/JORFCONT000024583263.xml']
-JORF_20261029-004719.tar.gz : 123 textes lus, articles rattachés à 123 textes | racines XML {'JO': 1, 'SECTION_TA': 28, 'TEXTELR': 123, 'TEXTE_VERSION': 123, 'ARTICLE': 371} | exemples ['20261029-004719/jorf/global/conteneur/JORF/CONT/00/00/55/02/30/JORFCONT000055023056.xml', '20261029-004719/jorf/global/section_ta/JORF/SCTA/00/00/55/02/30/JORFSCTA000055023068.xml', '20261029-004719/jorf/global/section_ta/JORF/SCTA/00/00/55/02/30/JORFSCTA000055023069.xml']
-2 archive(s) traitée(s), 0 nouveau(x) texte(s) pertinent(s)
+Passage du 2026-10-30
+875 archives quotidiennes disponibles, dernière : JORF_20261030-002939.tar.gz
+JORF_20261029-215000.tar.gz : 273 textes lus, articles rattachés à 257 textes | racines XML {'JO': 166, 'SECTION_TA': 1418, 'TEXTELR': 273, 'TEXTE_VERSION': 273, 'ARTICLE': 5802} | exemples ['20261029-215000/jorf/global/conteneur/JORF/CONT/00/00/55/02/30/JORFCONT000055023056.xml', '20261029-215000/jorf/global/conteneur/JORF/CONT/00/00/55/02/00/JORFCONT000055020030.xml', '20261029-215000/jorf/global/conteneur/JORF/CONT/00/00/55/01/14/JORFCONT000055011485.xml']
+JORF_20261030-002939.tar.gz : 130 textes lus, articles rattachés à 130 textes | racines XML {'JO': 1, 'SECTION_TA': 38, 'TEXTELR': 130, 'TEXTE_VERSION': 130, 'ARTICLE': 415} | exemples ['20261030-002939/jorf/global/conteneur/JORF/CONT/00/00/55/02/93/JORFCONT000055029357.xml', '20261030-002939/jorf/global/section_ta/JORF/SCTA/00/00/55/02/95/JORFSCTA000055029552.xml', '20261030-002939/jorf/global/section_ta/JORF/SCTA/00/00/55/02/95/JORFSCTA000055029553.xml']
+2 archive(s) traitée(s), 1 nouveau(x) texte(s) pertinent(s)
