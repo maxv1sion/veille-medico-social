@@ -1,8 +1,30 @@
 {
   "meta": {
-    "derniereMaj": "2026-10-29"
+    "derniereMaj": "2026-10-30"
   },
   "items": [
+    {
+      "id": "decret-2026-1011",
+      "date": "2026-10-30",
+      "dateTexte": "2026-10-28",
+      "type": "Décret",
+      "theme": "Enfance et famille",
+      "sujet": "Assistants familiaux - cumul",
+      "accroche": "Les agents publics peuvent devenir assistants familiaux à titre accessoire",
+      "titre": "Décret n° 2026-1011 du 28 octobre 2026 relatif à la possibilité pour un agent public d'exercer à titre accessoire une activité d'assistant familial et à la possibilité, pour un accueillant familial employé par une personne morale de droit public, d'exercer une autre activité",
+      "resume": "Pour répondre à la **pénurie d'assistants familiaux**, un agent public peut désormais cumuler son emploi avec une **activité accessoire d'assistant familial**, avec l'**autorisation préalable de son employeur**. Les assistants maternels et familiaux employés par une personne publique relèvent des **règles de cumul de la fonction publique**.",
+      "points": [
+        "Nouvelle activité accessoire (13° de l'article **R. 123-8 du code général de la fonction publique**) ouverte aux fonctionnaires et contractuels des trois versants",
+        "Accueil limité à **un seul mineur ou jeune majeur de moins de 21 ans**, scolarisé, étudiant ou en emploi, en **accueil continu ou intermittent**",
+        "Cumul soumis à l'**autorisation préalable de l'employeur public**",
+        "L'article D. 422-7 du CASF devient **R. 422-7** : les assistants maternels et familiaux employés par une personne morale de droit public peuvent exercer une autre activité selon les règles de cumul du CGFP"
+      ],
+      "application": "Entrée en vigueur le 31 octobre 2026, lendemain de la publication. Concerne les agents publics (y compris hospitaliers), leurs employeurs et les organismes employeurs d'assistants familiaux.",
+      "impact": "Les établissements publics doivent prévoir l'instruction des demandes de cumul de leurs agents souhaitant devenir assistants familiaux. Les employeurs d'assistants familiaux peuvent recruter parmi les agents publics pour un accueil limité à un enfant.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055030099",
+      "ajoute": "2026-10-30"
+    },
     {
       "id": "loi-2026-975",
       "date": "2026-10-22",
