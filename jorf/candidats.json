@@ -1,5 +1,5 @@
 {
-  "maj": "2026-10-30",
+  "maj": "2026-10-31",
   "traites": [
     "JORF_20260525-201636.tar.gz",
     "JORF_20260526-212444.tar.gz",
@@ -297,21 +297,10 @@
     "JORF_20261028-212713.tar.gz",
     "JORF_20261029-004719.tar.gz",
     "JORF_20261029-215000.tar.gz",
-    "JORF_20261030-002939.tar.gz"
+    "JORF_20261030-002939.tar.gz",
+    "JORF_20261030-214909.tar.gz",
+    "JORF_20261031-002427.tar.gz"
   ],
-  "items": [
-    {
-      "id": "JORFTEXT000055030099",
-      "nature": "DECRET",
-      "titre": "Décret n° 2026-1011 du 28 octobre 2026 relatif à la possibilité pour un agent public d'exercer à titre accessoire une activité d'assistant familial et à la possibilité, pour un accueillant familial employé par une personne morale de droit public, d'exercer une autre activité",
-      "nor": "CPPF2620858D",
-      "datePubli": "2026-10-30",
-      "dateTexte": "2026-10-28",
-      "type": "Décret",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055030099",
-      "ajoute": "2026-10-30",
-      "fichier": "telechargements/JO/2026-10-30/JORFTEXT000055030099.txt"
-    }
-  ],
+  "items": [],
   "regles": "129b46a65094"
 }
