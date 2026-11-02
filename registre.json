@@ -1,8 +1,30 @@
 {
   "meta": {
-    "derniereMaj": "2026-10-30"
+    "derniereMaj": "2026-11-02"
   },
   "items": [
+    {
+      "id": "arrete-2026-10-27-compensation-revalorisations",
+      "date": "2026-11-01",
+      "dateTexte": "2026-10-27",
+      "type": "Arrêté",
+      "theme": "Financement",
+      "sujet": "Revalorisations - compensation 2026",
+      "accroche": "13,93 M€ de l'Etat aux départements pour les accompagnants socio-éducatifs",
+      "titre": "Arrêté du 27 octobre 2026 fixant le montant de la compensation de l'Etat par département au titre du financement de la prime de revalorisation aux personnels médicaux, paramédicaux et psychologues de la protection maternelle infantile, des centres de planification et des centres de prophylaxie sanitaire et des personnes accompagnants socio-éducatifs dans les établissements et services sociaux et médico sociaux du secteur privé non lucratif",
+      "resume": "L'arrêté répartit entre les départements la **contribution de l'Etat pour 2026** au financement des **revalorisations salariales** des personnels de PMI et des **accompagnants socio-éducatifs** des ESSMS **privés non lucratifs financés par les départements**.",
+      "points": [
+        "Enveloppe ouverte par la **loi de finances du 19 février 2026**, répartie département par département dans un tableau annexé",
+        "Colonne PMI santé (personnels médicaux, paramédicaux et psychologues de PMI, centres de planification et de prophylaxie) : **19 900 000 €** au total",
+        "Colonne ESSMS (accompagnants socio-éducatifs du **secteur privé non lucratif** financés par les départements) : **13 930 000 €** au total",
+        "Textes de référence : décret n° 2020-1152 (complément de traitement indiciaire) et décret n° 2022-717 (prime de revalorisation des médecins en ESSMS)"
+      ],
+      "application": "Dotations 2026 versées aux départements, arrêté publié au JO du 1er novembre 2026.",
+      "impact": "Les gestionnaires associatifs financés par le département peuvent s'appuyer sur la dotation fixée pour leur département afin d'obtenir le financement des revalorisations versées aux accompagnants socio-éducatifs en 2026.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055041164",
+      "ajoute": "2026-11-02"
+    },
     {
       "id": "decret-2026-1011",
       "date": "2026-10-30",
@@ -354,6 +376,28 @@
       "source": "Cour de cassation",
       "url": "https://www.courdecassation.fr/decision/6ac6079ec27382d099f5a06e",
       "ajoute": "2026-10-20"
+    },
+    {
+      "id": "cass-soc-2026-10-07-24-13821",
+      "date": "2026-10-07",
+      "type": "Jurisprudence",
+      "theme": "Dialogue social et salariés protégés",
+      "sujet": "Salariés protégés - transfert",
+      "accroche": "Une convention tripartite exige l'autorisation de l'inspecteur du travail",
+      "titre": "Cour de cassation, civile, Chambre sociale, 7 octobre 2026, 24-13.821",
+      "resume": "Le transfert du contrat d'un **salarié protégé** vers une autre entreprise par **convention tripartite** doit être autorisé par l'**inspecteur du travail**, même si le salarié est d'accord. A défaut, la convention est **nulle**.",
+      "points": [
+        "L'article **L. 2414-1** du code du travail pose un principe général qui ne se limite pas aux transferts de l'article L. 1224-1",
+        "L'**accord du salarié** ne dispense pas du contrôle de l'inspection du travail",
+        "Sans autorisation, la convention tripartite est **nulle** et le salarié peut demander son **maintien dans l'emploi** aux mêmes conditions de travail et de rémunération",
+        "La cassation s'étend aux demandes de **réintégration**, d'**indemnité pour violation du statut protecteur** et de nullité du licenciement prononcé ensuite par la nouvelle entreprise"
+      ],
+      "application": "Tout transfert conventionnel d'un salarié protégé, y compris une mobilité entre structures d'un même groupe ou d'une même fédération.",
+      "impact": "Avant toute mobilité concertée d'un élu ou d'un délégué syndical vers une autre entité, l'employeur doit saisir l'inspection du travail, faute de quoi il s'expose à une réintégration et à l'indemnité pour violation du statut protecteur.",
+      "reference": "Cass. soc. 7 octobre 2026, n° 24-13.821",
+      "source": "Cour de cassation",
+      "url": "https://www.courdecassation.fr/decision/6ac6079ac27382d099f59f74",
+      "ajoute": "2026-11-02"
     },
     {
       "id": "arrete-2026-09-23-ccn-bad",
