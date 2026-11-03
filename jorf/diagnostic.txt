@@ -1,4 +1,6 @@
-Passage du 2026-11-02
-880 archives quotidiennes disponibles, dernière : JORF_20261101-210226.tar.gz
-JORF_20261101-210226.tar.gz : 126 textes lus, articles rattachés à 120 textes | racines XML {'JO': 78, 'TEXTELR': 126, 'TEXTE_VERSION': 126, 'ARTICLE': 2501, 'SECTION_TA': 462} | exemples ['20261101-210226/jorf/global/conteneur/JORF/CONT/00/00/55/03/71/JORFCONT000055037132.xml', '20261101-210226/jorf/global/conteneur/JORF/CONT/00/00/55/04/09/JORFCONT000055040945.xml', '20261101-210226/jorf/global/conteneur/JORF/CONT/00/00/55/02/93/JORFCONT000055029357.xml']
-1 archive(s) traitée(s), 0 nouveau(x) texte(s) pertinent(s)
+Passage du 2026-11-03
+882 archives quotidiennes disponibles, dernière : JORF_20261103-002311.tar.gz
+JORF_20261102-213929.tar.gz : 169 textes lus, articles rattachés à 163 textes | racines XML {'JO': 117, 'SECTION_TA': 826, 'TEXTELR': 169, 'TEXTE_VERSION': 169, 'ARTICLE': 4649} | exemples ['20261102-213929/jorf/global/conteneur/JORF/CONT/00/00/55/04/09/JORFCONT000055040945.xml', '20261102-213929/jorf/global/conteneur/JORF/CONT/00/00/55/03/71/JORFCONT000055037132.xml', '20261102-213929/jorf/global/conteneur/JORF/CONT/00/00/54/85/99/JORFCONT000054859953.xml']
+JORF_20261103-002311.tar.gz : 68 textes lus, articles rattachés à 68 textes | racines XML {'JO': 1, 'SECTION_TA': 27, 'TEXTELR': 68, 'TEXTE_VERSION': 68, 'ARTICLE': 184} | exemples ['20261103-002311/jorf/global/conteneur/JORF/CONT/00/00/55/04/72/JORFCONT000055047265.xml', '20261103-002311/jorf/global/section_ta/JORF/SCTA/00/00/55/04/72/JORFSCTA000055047283.xml', '20261103-002311/jorf/global/section_ta/JORF/SCTA/00/00/55/04/74/JORFSCTA000055047431.xml']
+2 candidat(s) déjà examiné(s) retiré(s) de la liste
+2 archive(s) traitée(s), 0 nouveau(x) texte(s) pertinent(s)

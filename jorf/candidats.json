@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-02",
+  "maj": "2026-11-03",
   "traites": [
     "JORF_20260525-201636.tar.gz",
     "JORF_20260526-212444.tar.gz",
@@ -302,33 +302,10 @@
     "JORF_20261031-002427.tar.gz",
     "JORF_20261031-212257.tar.gz",
     "JORF_20261101-002304.tar.gz",
-    "JORF_20261101-210226.tar.gz"
+    "JORF_20261101-210226.tar.gz",
+    "JORF_20261102-213929.tar.gz",
+    "JORF_20261103-002311.tar.gz"
   ],
-  "items": [
-    {
-      "id": "JORFTEXT000055041088",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 19 octobre 2026 modifiant divers arrêtés portant création d'instances de dialogue social et relatif à l'organisation des élections professionnelles au sein du ministère des armées et des anciens combattants",
-      "nor": "ARMH2627885A",
-      "datePubli": "2026-11-01",
-      "dateTexte": "2026-10-19",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055041088",
-      "ajoute": "2026-11-01",
-      "fichier": "telechargements/JO/2026-11-01/JORFTEXT000055041088.txt"
-    },
-    {
-      "id": "JORFTEXT000055041164",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 27 octobre 2026 fixant le montant de la compensation de l'Etat par département au titre du financement de la prime de revalorisation aux personnels médicaux, paramédicaux et psychologues de la protection maternelle infantile, des centres de planification et des centres de prophylaxie sanitaire et des personnes accompagnants socio-éducatifs dans les établissements et services sociaux et médico sociaux du secteur privé non lucratif",
-      "nor": "SFHA2628798A",
-      "datePubli": "2026-11-01",
-      "dateTexte": "2026-10-27",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055041164",
-      "ajoute": "2026-11-01",
-      "fichier": "telechargements/JO/2026-11-01/JORFTEXT000055041164.txt"
-    }
-  ],
+  "items": [],
   "regles": "129b46a65094"
 }
