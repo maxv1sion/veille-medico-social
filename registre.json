@@ -1,8 +1,30 @@
 {
   "meta": {
-    "derniereMaj": "2026-11-04"
+    "derniereMaj": "2026-11-05"
   },
   "items": [
+    {
+      "id": "decret-2026-1026",
+      "date": "2026-11-05",
+      "dateTexte": "2026-11-03",
+      "type": "Décret",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "AT/MP - silice cristalline",
+      "accroche": "Nouveau tableau 25 ter et lupus ajouté au tableau 25",
+      "titre": "Décret n° 2026-1026 du 3 novembre 2026 révisant et complétant les tableaux des maladies professionnelles annexés au livre IV du code de la sécurité sociale",
+      "resume": "Le décret élargit la reconnaissance des **maladies professionnelles liées à la silice cristalline** : il ajoute le **lupus érythémateux systémique** au **tableau n° 25** et crée un **tableau n° 25 ter** pour le **cancer broncho-pulmonaire primitif**, reconnu même **sans silicose**.",
+      "points": [
+        "Tableau n° 25 : ajout du **lupus érythémateux systémique** aux affections reconnues et suppression du mot « minérales » dans l'intitulé et pour les silicates cristallins (kaolin, talc) ou le graphite",
+        "Nouveau **tableau n° 25 ter** : cancer broncho-pulmonaire primitif provoqué par l'inhalation de poussières de silice cristalline, **indépendamment de la présence de silicose**",
+        "Délai de prise en charge de **40 ans**, sous réserve d'une **durée d'exposition de 10 ans**",
+        "Liste limitative de travaux, dont les **travaux de construction, d'entretien et de démolition** exposant aux poussières de silice cristalline et le **ponçage ou sciage** de matériaux en contenant"
+      ],
+      "application": "Entrée en vigueur le 6 novembre 2026, lendemain de la publication. Concerne les salariés exposés, les employeurs, les organismes de sécurité sociale et les médecins.",
+      "impact": "Les employeurs dont des agents ou salariés réalisent des travaux d'entretien, de rénovation ou de ponçage exposant à la silice doivent mettre à jour leur évaluation des risques (DUERP) et la traçabilité des expositions, une reconnaissance en maladie professionnelle pouvant peser sur leur taux de cotisation AT/MP.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055057725",
+      "ajoute": "2026-11-05"
+    },
     {
       "id": "decret-2026-1025",
       "date": "2026-11-04",
