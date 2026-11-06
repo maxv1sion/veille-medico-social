@@ -1,8 +1,29 @@
 {
   "meta": {
-    "derniereMaj": "2026-11-05"
+    "derniereMaj": "2026-11-06"
   },
   "items": [
+    {
+      "id": "arrete-2026-10-29-fipu-2027",
+      "date": "2026-11-06",
+      "dateTexte": "2026-10-29",
+      "type": "Arrêté",
+      "theme": "Santé, sécurité et arrêts de travail",
+      "sujet": "Usure professionnelle - FIPU",
+      "accroche": "200 millions d'euros pour la prévention de l'usure en 2027",
+      "titre": "Arrêté du 29 octobre 2026 fixant pour l'année 2027 la dotation de la branche accidents du travail et maladies professionnelles du régime général au fonds d'investissement dans la prévention de l'usure professionnelle prévu à l'article L. 221-1-5 du code de la sécurité sociale",
+      "resume": "L'arrêté fixe à **200 millions d'euros** la dotation 2027 de la branche **AT/MP** au **fonds d'investissement dans la prévention de l'usure professionnelle (FIPU)**, qui finance des actions de prévention des risques ergonomiques.",
+      "points": [
+        "Dotation de la branche AT/MP au FIPU fixée à **200 millions d'euros** pour **2027**",
+        "Fonds prévu à l'**article L. 221-1-5 du code de la sécurité sociale**",
+        "Montant arrêté après avis de la **commission des accidents du travail et des maladies professionnelles** du 14 octobre 2026"
+      ],
+      "application": "Dotation applicable pour l'année 2027, publiée au Journal officiel du 6 novembre 2026.",
+      "impact": "Les employeurs exposant leurs salariés aux risques ergonomiques (manutention de personnes, postures, vibrations), fréquents en établissement et à domicile, peuvent mobiliser ce fonds en 2027 pour cofinancer des actions de prévention de l'usure professionnelle.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055063722",
+      "ajoute": "2026-11-06"
+    },
     {
       "id": "decret-2026-1026",
       "date": "2026-11-05",
