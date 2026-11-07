@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-06",
+  "maj": "2026-11-07",
   "traites": [
     "JORF_20260525-201636.tar.gz",
     "JORF_20260526-212444.tar.gz",
@@ -310,20 +310,22 @@
     "JORF_20261104-214059.tar.gz",
     "JORF_20261105-002736.tar.gz",
     "JORF_20261105-214938.tar.gz",
-    "JORF_20261106-002608.tar.gz"
+    "JORF_20261106-002608.tar.gz",
+    "JORF_20261106-215213.tar.gz",
+    "JORF_20261107-025838.tar.gz"
   ],
   "items": [
     {
-      "id": "JORFTEXT000055063722",
+      "id": "JORFTEXT000055069595",
       "nature": "ARRETE",
-      "titre": "Arrêté du 29 octobre 2026 fixant pour l'année 2027 la dotation de la branche accidents du travail et maladies professionnelles du régime général au fonds d'investissement dans la prévention de l'usure professionnelle prévu à l'article L. 221-1-5 du code de la sécurité sociale",
-      "nor": "TRSS2628972A",
-      "datePubli": "2026-11-06",
-      "dateTexte": "2026-10-29",
+      "titre": "Arrêté du 3 novembre 2026 portant création du cycle des hautes études « travail social et société » de l'Institut national du travail social",
+      "nor": "SFHA2628166A",
+      "datePubli": "2026-11-07",
+      "dateTexte": "2026-11-03",
       "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055063722",
-      "ajoute": "2026-11-06",
-      "fichier": "telechargements/JO/2026-11-06/JORFTEXT000055063722.txt"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069595",
+      "ajoute": "2026-11-07",
+      "fichier": "telechargements/JO/2026-11-07/JORFTEXT000055069595.txt"
     }
   ],
   "regles": "129b46a65094"
