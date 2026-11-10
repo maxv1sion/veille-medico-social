@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-09",
+  "maj": "2026-11-10",
   "traites": [
     "JORF_20260525-201636.tar.gz",
     "JORF_20260526-212444.tar.gz",
@@ -315,21 +315,10 @@
     "JORF_20261107-025838.tar.gz",
     "JORF_20261107-210930.tar.gz",
     "JORF_20261108-004332.tar.gz",
-    "JORF_20261108-210452.tar.gz"
+    "JORF_20261108-210452.tar.gz",
+    "JORF_20261109-212854.tar.gz",
+    "JORF_20261110-002231.tar.gz"
   ],
-  "items": [
-    {
-      "id": "JORFTEXT000055069595",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 3 novembre 2026 portant création du cycle des hautes études « travail social et société » de l'Institut national du travail social",
-      "nor": "SFHA2628166A",
-      "datePubli": "2026-11-07",
-      "dateTexte": "2026-11-03",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055069595",
-      "ajoute": "2026-11-07",
-      "fichier": "telechargements/JO/2026-11-07/JORFTEXT000055069595.txt"
-    }
-  ],
+  "items": [],
   "regles": "129b46a65094"
 }
