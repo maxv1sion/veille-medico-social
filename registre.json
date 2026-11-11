@@ -1,8 +1,31 @@
 {
   "meta": {
-    "derniereMaj": "2026-11-10"
+    "derniereMaj": "2026-11-11"
   },
   "items": [
+    {
+      "id": "arrete-2026-11-06-forfaits-ssiad-2026",
+      "date": "2026-11-11",
+      "dateTexte": "2026-11-06",
+      "type": "Arrêté",
+      "theme": "Financement",
+      "sujet": "SSIAD - forfaits 2026",
+      "accroche": "Revalorisation de 0,92 % (PA) et 0,95 % (PH), forfait structure à 8 831,60 €",
+      "titre": "Arrêté du 6 novembre 2026 fixant pour l'année 2026 les montants forfaitaires mentionnés aux II et III de l'article R. 314-138 du code de l'action sociale et des familles et le taux de revalorisation des produits de la tarification reconductibles afférents aux soins applicables aux services proposant des prestations de soins infirmiers à domicile pour les personnes âgées et les personnes en situation de handicap",
+      "resume": "L'arrêté fixe pour **2026** le **taux de revalorisation** des produits de tarification reconductibles des **services de soins infirmiers à domicile**, le **forfait annuel par place** et les **forfaits hebdomadaires d'intervention** selon le GIR, le week-end et l'intervention d'un infirmier.",
+      "points": [
+        "Revalorisation des financements soins attribués en 2025 : **0,92 %** pour les personnes âgées et **0,95 %** pour les personnes en situation de handicap",
+        "Forfait annuel par place (frais de structure et de déplacement) fixé à **8 831,60 €**",
+        "Neuf forfaits hebdomadaires d'intervention, de **50,22 €** (GIR 5-6) à **274,91 €** (GIR 1-2 avec week-end et infirmier)",
+        "Majorations pour **intervention conjointe de deux professionnels** et **diabète insulinotraité**, jusqu'à **230,23 €**",
+        "Forfaits et majorations **majorés de 20 %** en outre-mer"
+      ],
+      "application": "Montants applicables pour l'année 2026 aux services proposant des prestations de soins infirmiers à domicile, publiés au Journal officiel du 11 novembre 2026.",
+      "impact": "Les gestionnaires de services de soins à domicile doivent vérifier leur dotation soins 2026 au regard de ces forfaits et du taux de revalorisation, et ajuster en conséquence leur budget et l'organisation des interventions (week-end, binômes, infirmiers).",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078617",
+      "ajoute": "2026-11-11"
+    },
     {
       "id": "arrete-2026-10-29-fipu-2027",
       "date": "2026-11-06",
