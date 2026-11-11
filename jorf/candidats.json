@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-10",
+  "maj": "2026-11-11",
   "traites": [
     "JORF_20260525-201636.tar.gz",
     "JORF_20260526-212444.tar.gz",
@@ -317,8 +317,23 @@
     "JORF_20261108-004332.tar.gz",
     "JORF_20261108-210452.tar.gz",
     "JORF_20261109-212854.tar.gz",
-    "JORF_20261110-002231.tar.gz"
+    "JORF_20261110-002231.tar.gz",
+    "JORF_20261110-213159.tar.gz",
+    "JORF_20261111-044354.tar.gz"
   ],
-  "items": [],
+  "items": [
+    {
+      "id": "JORFTEXT000055078617",
+      "nature": "ARRETE",
+      "titre": "Arrêté du 6 novembre 2026 fixant pour l'année 2026 les montants forfaitaires mentionnés aux II et III de l'article R. 314-138 du code de l'action sociale et des familles et le taux de revalorisation des produits de la tarification reconductibles afférents aux soins applicables aux services proposant des prestations de soins infirmiers à domicile pour les personnes âgées et les personnes en situation de handicap",
+      "nor": "SFHA2629971A",
+      "datePubli": "2026-11-11",
+      "dateTexte": "2026-11-06",
+      "type": "Arrêté",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078617",
+      "ajoute": "2026-11-11",
+      "fichier": "telechargements/JO/2026-11-11/JORFTEXT000055078617.txt"
+    }
+  ],
   "regles": "129b46a65094"
 }
