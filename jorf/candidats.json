@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-13",
+  "maj": "2026-11-14",
   "traites": [
     "JORF_20260525-201636.tar.gz",
     "JORF_20260526-212444.tar.gz",
@@ -322,8 +322,47 @@
     "JORF_20261111-044354.tar.gz",
     "JORF_20261111-211545.tar.gz",
     "JORF_20261112-210355.tar.gz",
-    "JORF_20261113-003226.tar.gz"
+    "JORF_20261113-003226.tar.gz",
+    "JORF_20261113-215108.tar.gz",
+    "JORF_20261114-015814.tar.gz"
   ],
-  "items": [],
+  "items": [
+    {
+      "id": "JORFTEXT000055087618",
+      "nature": "ARRETE",
+      "titre": "Arrêté du 9 novembre 2026 relatif à l'agrément de certains accords de travail applicables dans les établissements et services du secteur social et médico-social privé à but non lucratif",
+      "nor": "SFHA2629854A",
+      "datePubli": "2026-11-14",
+      "dateTexte": "2026-11-09",
+      "type": "Arrêté",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087618",
+      "ajoute": "2026-11-14",
+      "fichier": "telechargements/JO/2026-11-14/JORFTEXT000055087618.txt"
+    },
+    {
+      "id": "JORFTEXT000055087633",
+      "nature": "DECISION",
+      "titre": "Décision n° 2026-46 du 10 novembre 2026 du directeur de la Caisse nationale de solidarité pour l'autonomie relative aux modalités de financement des nouveaux services autonomie à domicile au titre de l'activité de soins",
+      "nor": "SFHA2630279S",
+      "datePubli": "2026-11-14",
+      "dateTexte": "2026-11-10",
+      "type": "Décision / avis",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087633",
+      "ajoute": "2026-11-14",
+      "fichier": "telechargements/JO/2026-11-14/JORFTEXT000055087633.txt"
+    },
+    {
+      "id": "JORFTEXT000055087644",
+      "nature": "DECISION",
+      "titre": "Décision n° 2026-42 du 12 novembre 2026 du directeur de la CNSA modifiant la décision n° 2026-19 du 15 juin 2026 du directeur de la CNSA relative aux dotations régionales limitatives et à la moyenne nationale des besoins en soins requis pour l'année 2026",
+      "nor": "SFHA2630349S",
+      "datePubli": "2026-11-14",
+      "dateTexte": "2026-11-12",
+      "type": "Décision / avis",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087644",
+      "ajoute": "2026-11-14",
+      "fichier": "telechargements/JO/2026-11-14/JORFTEXT000055087644.txt"
+    }
+  ],
   "regles": "129b46a65094"
 }
