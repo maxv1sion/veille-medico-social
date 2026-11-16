@@ -1,8 +1,73 @@
 {
   "meta": {
-    "derniereMaj": "2026-11-13"
+    "derniereMaj": "2026-11-16"
   },
   "items": [
+    {
+      "id": "arrete-2026-11-09-agrement",
+      "date": "2026-11-14",
+      "dateTexte": "2026-11-09",
+      "type": "Arrêté",
+      "theme": "Rémunération et protection sociale",
+      "sujet": "Agrément - CCN 66 et BAD",
+      "accroche": "Prévoyance CCN 66 et salaires BAD agréés",
+      "titre": "Arrêté du 9 novembre 2026 relatif à l'agrément de certains accords de travail applicables dans les établissements et services du secteur social et médico-social privé à but non lucratif",
+      "resume": "L'arrêté **agrée** le renouvellement du **régime mutualisé de prévoyance de la CCN 66** et trois avenants de la **branche de l'aide à domicile (BAD)**, dont la réévaluation du **salaire minimum conventionnel** au niveau du SMIC de juin 2026. Il agrée ou refuse aussi une série d'accords d'entreprise et de décisions unilatérales.",
+      "points": [
+        "**CCN 66** : accord du **1er octobre 2026** renouvelant le **régime mutualisé de prévoyance**",
+        "**BAD** : avenant **80/2026** du 15 septembre 2026 réévaluant le **salaire minimum conventionnel** au niveau du **SMIC de juin 2026**",
+        "**BAD** : avenant **79/2026** actualisant le champ d'application avec la **nouvelle nomenclature NAF** et avenant 1 à l'avenant 76/2026 (corrections rédactionnelles)",
+        "**Accords d'entreprise** : agréments (NAO, GEPP, télétravail, temps de travail, prime de partage de la valeur) et plusieurs **refus d'agrément** (CET, prime de partage de la valeur, mobilité durable, remplacements)"
+      ],
+      "application": "Agrément à compter de la date prévue par chaque accord ou, à défaut, du lendemain de la publication au JO du 14 novembre 2026.",
+      "impact": "Les employeurs relevant de la CCN 66 peuvent appliquer le régime de prévoyance renouvelé et ceux de la BAD le nouveau salaire minimum conventionnel, opposables aux financeurs. Un accord d'entreprise non agréé ne peut pas prendre effet dans un ESSMS financé (article L. 314-6 du CASF).",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087618",
+      "ajoute": "2026-11-16"
+    },
+    {
+      "id": "decision-cnsa-2026-46",
+      "date": "2026-11-14",
+      "dateTexte": "2026-11-10",
+      "type": "Décision / avis",
+      "theme": "Domicile",
+      "sujet": "SAD - forfait soins",
+      "accroche": "Forfait de 16 723 € par place pour les nouveaux SAD soins",
+      "titre": "Décision n° 2026-46 du 10 novembre 2026 du directeur de la Caisse nationale de solidarité pour l'autonomie relative aux modalités de financement des nouveaux services autonomie à domicile au titre de l'activité de soins",
+      "resume": "La CNSA fixe le **forfait national par place autorisée** qui finance l'**activité de soins** des **nouveaux services autonomie à domicile (SAD)** pendant leurs **trois premières années**.",
+      "points": [
+        "Forfait de **16 723 €** par place autorisée, **proratisé** selon le nombre de mois d'ouverture",
+        "Majoration de **20 %** en outre-mer, soit **20 068 €**",
+        "Applicable pendant **3 ans** à compter de l'autorisation, aux services installés pendant l'année de référence et les **deux années civiles précédentes**",
+        "Valeur **reconduite tacitement** jusqu'à sa révision"
+      ],
+      "application": "Services autonomie à domicile nouvellement autorisés pour l'activité de soins (article L. 313-1-3 du CASF), à compter de la publication au JO du 14 novembre 2026.",
+      "impact": "Un SAD qui crée ou étend une activité de soins dispose d'un financement forfaitaire connu par place pour ses trois premières années, à intégrer dans son budget prévisionnel avant le passage à la tarification de droit commun.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087633",
+      "ajoute": "2026-11-16"
+    },
+    {
+      "id": "decision-cnsa-2026-42",
+      "date": "2026-11-14",
+      "dateTexte": "2026-11-12",
+      "type": "Décision / avis",
+      "theme": "Financement",
+      "sujet": "Dotations régionales 2026",
+      "accroche": "Révision des enveloppes régionales médico-sociales 2026",
+      "titre": "Décision n° 2026-42 du 12 novembre 2026 du directeur de la CNSA modifiant la décision n° 2026-19 du 15 juin 2026 du directeur de la CNSA relative aux dotations régionales limitatives et à la moyenne nationale des besoins en soins requis pour l'année 2026",
+      "resume": "La CNSA remplace le tableau des **dotations régionales limitatives (DRL) 2026** réparties entre les ARS pour les ESMS **personnes âgées** et **personnes handicapées**.",
+      "points": [
+        "Total France entière : **18,15 Md€** pour les **personnes âgées** et **15,64 Md€** pour les **personnes handicapées**",
+        "Nouveau tableau par **agence régionale de santé** remplaçant l'annexe de la décision n° 2026-19 du 15 juin 2026",
+        "Enveloppes servant à la tarification des établissements et services financés par l'assurance maladie"
+      ],
+      "application": "Dotations de l'exercice 2026, applicables à compter de la publication au JO du 14 novembre 2026.",
+      "impact": "Ces enveloppes révisées conditionnent les derniers crédits que les ARS peuvent notifier aux EHPAD et ESMS du handicap en fin de campagne budgétaire 2026.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087644",
+      "ajoute": "2026-11-16"
+    },
     {
       "id": "arrete-2026-11-06-forfaits-ssiad-2026",
       "date": "2026-11-11",
