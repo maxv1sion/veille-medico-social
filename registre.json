@@ -1,6 +1,6 @@
 {
   "meta": {
-    "derniereMaj": "2026-11-16"
+    "derniereMaj": "2026-11-17"
   },
   "items": [
     {
@@ -67,6 +67,27 @@
       "source": "Journal officiel (données DILA)",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055087644",
       "ajoute": "2026-11-16"
+    },
+    {
+      "id": "instruction-dgcs-dgs-2026-152",
+      "date": "2026-11-12",
+      "dateTexte": "2026-11-06",
+      "type": "Instruction / circulaire",
+      "theme": "Enfance et famille",
+      "sujet": "1000 premiers jours",
+      "accroche": "Déploiement territorial piloté par les ARS",
+      "titre": "Instruction n° DGCS/DGS/2026/152 du 6 novembre 2026 relative à la déclinaison territoriale de la politique des 1000 premiers jours de l'enfant",
+      "resume": "Cette instruction organise la **déclinaison territoriale** de la feuille de route nationale 2025-2027 des **1000 premiers jours de l'enfant**, sous le **pilotage des ARS** avec l'État, les CAF et les départements au sein des comités départementaux des services aux familles.",
+      "points": [
+        "Trois priorités : développer les **Maisons des 1000 premiers jours**, prévenir l'**exposition des jeunes enfants aux écrans** et mobiliser les **pères et co-parents**",
+        "Une enveloppe de **3 353 600 euros** est déléguée aux ARS",
+        "**Concertation territoriale** prévue de **décembre 2026 à janvier 2027**, puis **sélection des projets au printemps 2027**"
+      ],
+      "application": "ARS et partenaires des comités départementaux des services aux familles, pour des projets sélectionnés au printemps 2027.",
+      "impact": "Les gestionnaires de services petite enfance, de PMI ou de soutien à la parentalité peuvent préparer dès maintenant des projets à présenter lors de la concertation territoriale.",
+      "source": "Bulletin officiel Santé - Protection sociale - Solidarité",
+      "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-dgcsdgs2026152-du-6-novembre-2026-relative-la-declinaison-territoriale-de-la-politique-des-1000-premiers-jours-de-lenfant",
+      "ajoute": "2026-11-17"
     },
     {
       "id": "arrete-2026-11-06-forfaits-ssiad-2026",
@@ -624,7 +645,7 @@
         },
         {
           "date": "2026-10-23",
-          "detail": "1re lecture à l'Assemblée nationale - texte rejeté le 23 octobre 2026 après la suppression des articles de la première partie (texte n° 358) - rapport de la commission des affaires sociales du Sénat déposé le 4 novembre 2026 (n° 144), examen en séance publique au Sénat à partir du 9 novembre 2026",
+          "detail": "1re lecture à l'Assemblée nationale - texte rejeté le 23 octobre 2026 après la suppression des articles de la première partie (texte n° 358) - rapport de la commission des affaires sociales du Sénat déposé le 4 novembre 2026 (n° 144), examen en séance publique au Sénat à partir du 9 novembre 2026 - première partie (recettes) adoptée par le Sénat le 13 novembre 2026 (200 voix pour, 110 contre), examen de la partie dépenses en cours",
           "fait": false,
           "libelle": "Examen et adoption"
         },
