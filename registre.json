@@ -1,6 +1,6 @@
 {
   "meta": {
-    "derniereMaj": "2026-11-17"
+    "derniereMaj": "2026-11-18"
   },
   "items": [
     {
@@ -111,6 +111,30 @@
       "source": "Journal officiel (données DILA)",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055078617",
       "ajoute": "2026-11-11"
+    },
+    {
+      "id": "cass-soc-2026-11-10-25-19212",
+      "date": "2026-11-10",
+      "dateTexte": "2026-11-10",
+      "type": "Jurisprudence",
+      "theme": "Contrat de travail et rupture",
+      "sujet": "Lanceur d'alerte - licenciement",
+      "accroche": "La loi de 2022 s'applique aux licenciements prononcés depuis son entrée en vigueur",
+      "titre": "Cour de cassation, civile, Chambre sociale, 10 novembre 2026, 25-19.212",
+      "resume": "La protection issue de la **loi du 21 mars 2022** s'applique à tout salarié **licencié ou sanctionné après le 1er septembre 2022**, même si l'**alerte** a été lancée avant : c'est la **date du licenciement** qui compte, pas celle du signalement.",
+      "points": [
+        "Arrêt **publié au Bulletin et au Rapport**, cassation et renvoi devant la cour d'appel",
+        "Pour les informations obtenues dans le cadre professionnel, la **connaissance personnelle des faits** n'est plus exigée",
+        "Avoir été recruté pour une **mission d'audit** ou avoir signalé les faits avant l'embauche n'exclut pas à lui seul le statut de lanceur d'alerte",
+        "En référé, si les éléments du salarié laissent présumer une alerte protégée, l'**employeur doit prouver** que la rupture repose sur des **éléments objectifs étrangers à l'alerte**",
+        "Un licenciement consécutif à une alerte peut constituer un **trouble manifestement illicite**, la mesure étant **nulle**"
+      ],
+      "application": "Arrêt de la chambre sociale, applicable à tout employeur de droit privé, dont les associations du secteur.",
+      "impact": "Avant de licencier ou sanctionner un salarié ayant signalé des faits (maltraitance, irrégularités de gestion), il faut pouvoir démontrer des motifs objectifs sans lien avec le signalement, quelle que soit la date de celui-ci, sous peine de nullité.",
+      "reference": "Cass. soc. 10 novembre 2026, n° 25-19.212",
+      "source": "Cour de cassation",
+      "url": "https://www.courdecassation.fr/decision/6af2c6d26c2e1778126fe47a",
+      "ajoute": "2026-11-18"
     },
     {
       "id": "arrete-2026-10-29-fipu-2027",
