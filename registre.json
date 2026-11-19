@@ -1,8 +1,53 @@
 {
   "meta": {
-    "derniereMaj": "2026-11-18"
+    "derniereMaj": "2026-11-19"
   },
   "items": [
+    {
+      "id": "arrete-2026-11-06-ccn-bad-conges",
+      "date": "2026-11-19",
+      "dateTexte": "2026-11-06",
+      "type": "Arrêté",
+      "theme": "Temps de travail et congés",
+      "sujet": "CCN BAD - congés payés",
+      "accroche": "Nouvelles règles de congés payés et d'ancienneté étendues à toute la branche",
+      "titre": "Arrêté du 6 novembre 2026 portant extension d'un avenant à la convention collective nationale de la branche de l'aide, de l'accompagnement, des soins et des services à domicile (n° 2941)",
+      "resume": "Rend obligatoire pour **tous les employeurs et salariés de la branche de l'aide à domicile (CCN BAD, IDCC 2941)** l'**avenant n° 71/2025 relatif aux congés**, qui réécrit les règles de **congés payés** et de **congé d'ancienneté**, avec une réserve sur la dérogation individuelle à la limite de 24 jours ouvrables.",
+      "points": [
+        "Congé principal de **10 à 20 jours ouvrés consécutifs** entre le 1er mai et le 31 octobre, **25 jours ouvrés** au maximum par an",
+        "Fractionnement par accord : **1 jour supplémentaire** pour 3 à 5 jours fractionnés, **3 jours** au-delà de 5, renonciation possible par **écrit distinct** quand le salarié demande le fractionnement",
+        "Arrêt maladie : acquisition de **1,66 jour ouvré par mois** d'absence et **report de 15 mois** des congés non pris",
+        "Congé d'ancienneté de **1 jour après 5 ans jusqu'à 7 jours après 40 ans**",
+        "Extension **sous réserve de l'article L. 3141-17 du code du travail** (dérogation individuelle au plafond de 24 jours ouvrables pris en une fois)"
+      ],
+      "application": "À compter du 19 novembre 2026, date de publication de l'arrêté au JO, pour tous les employeurs de la CCN BAD, y compris non adhérents à une organisation signataire.",
+      "impact": "Les employeurs de la branche doivent adapter le paramétrage de la paie et des compteurs de congés (acquisition pendant les arrêts, jours de fractionnement, congé d'ancienneté) et revoir le calendrier de demande et de fixation des départs en congé.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055102992",
+      "ajoute": "2026-11-19"
+    },
+    {
+      "id": "arrete-2026-11-06-ccn-bad-irp",
+      "date": "2026-11-19",
+      "dateTexte": "2026-11-06",
+      "type": "Arrêté",
+      "theme": "Dialogue social et salariés protégés",
+      "sujet": "CCN BAD - CSE et congés courts",
+      "accroche": "Avenant de mise à jour des instances représentatives étendu à toute la branche",
+      "titre": "Arrêté du 6 novembre 2026 portant extension d'un avenant à la convention collective nationale de la branche de l'aide, de l'accompagnement, des soins et des services à domicile (n° 2941)",
+      "resume": "Rend obligatoire pour **tous les employeurs et salariés de la branche de l'aide à domicile (CCN BAD, IDCC 2941)** l'**avenant n° 65/2024 du 8 octobre 2024**, qui révise la convention collective et met en conformité ses dispositions sur les **instances représentatives du personnel** (CSE).",
+      "points": [
+        "Extension de l'**avenant n° 65/2024 du 8 octobre 2024** relatif à la révision de la convention collective et de certains accords de branche",
+        "Remplacement des références aux anciennes instances (délégués du personnel, comité d'entreprise, CHSCT) par le **CSE** et la **CSSCT**",
+        "Ajustement des durées de certains **congés pour événements familiaux**",
+        "Effet **à compter du 19 novembre 2026** pour la durée restant à courir de l'avenant"
+      ],
+      "application": "À compter du 19 novembre 2026, date de publication de l'arrêté au JO, pour tous les employeurs de la CCN BAD, y compris non adhérents à une organisation signataire.",
+      "impact": "Les employeurs non adhérents de la branche doivent appliquer la convention dans sa version mise à jour (CSE, CSSCT, congés pour événements familiaux) et vérifier leurs documents internes et la paie.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055102982",
+      "ajoute": "2026-11-19"
+    },
     {
       "id": "arrete-2026-11-09-agrement",
       "date": "2026-11-14",
@@ -668,8 +713,8 @@
           "libelle": "Dépôt au Parlement"
         },
         {
-          "date": "2026-10-23",
-          "detail": "1re lecture à l'Assemblée nationale - texte rejeté le 23 octobre 2026 après la suppression des articles de la première partie (texte n° 358) - rapport de la commission des affaires sociales du Sénat déposé le 4 novembre 2026 (n° 144), examen en séance publique au Sénat à partir du 9 novembre 2026 - première partie (recettes) adoptée par le Sénat le 13 novembre 2026 (200 voix pour, 110 contre), examen de la partie dépenses en cours",
+          "date": "2026-11-18",
+          "detail": "1re lecture à l'Assemblée nationale - texte rejeté le 23 octobre 2026 après la suppression des articles de la première partie (texte n° 358) - rapport de la commission des affaires sociales du Sénat déposé le 4 novembre 2026 (n° 144), examen en séance publique au Sénat à partir du 9 novembre 2026 - première partie (recettes) adoptée par le Sénat le 13 novembre 2026 (200 voix pour, 110 contre), examen de la partie dépenses en cours - ensemble du texte adopté en première lecture par le Sénat le 18 novembre 2026 (201 voix pour, 124 contre), suite de la navette à venir",
           "fait": false,
           "libelle": "Examen et adoption"
         },
