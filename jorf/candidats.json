@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-19",
+  "maj": "2026-11-20",
   "traites": [
     "JORF_20260525-201636.tar.gz",
     "JORF_20260526-212444.tar.gz",
@@ -334,32 +334,22 @@
     "JORF_20261117-212708.tar.gz",
     "JORF_20261118-002608.tar.gz",
     "JORF_20261118-214555.tar.gz",
-    "JORF_20261119-020543.tar.gz"
+    "JORF_20261119-020543.tar.gz",
+    "JORF_20261119-214726.tar.gz",
+    "JORF_20261120-004838.tar.gz"
   ],
   "items": [
     {
-      "id": "JORFTEXT000055102982",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 6 novembre 2026 portant extension d'un avenant à la convention collective nationale de la branche de l'aide, de l'accompagnement, des soins et des services à domicile (n° 2941)",
-      "nor": "TRST2629068A",
-      "datePubli": "2026-11-19",
-      "dateTexte": "2026-11-06",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055102982",
-      "ajoute": "2026-11-19",
-      "fichier": "telechargements/JO/2026-11-19/JORFTEXT000055102982.txt"
-    },
-    {
-      "id": "JORFTEXT000055102992",
-      "nature": "ARRETE",
-      "titre": "Arrêté du 6 novembre 2026 portant extension d'un avenant à la convention collective nationale de la branche de l'aide, de l'accompagnement, des soins et des services à domicile (n° 2941)",
-      "nor": "TRST2629070A",
-      "datePubli": "2026-11-19",
-      "dateTexte": "2026-11-06",
-      "type": "Arrêté",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055102992",
-      "ajoute": "2026-11-19",
-      "fichier": "telechargements/JO/2026-11-19/JORFTEXT000055102992.txt"
+      "id": "JORFTEXT000055111805",
+      "nature": "DECISION",
+      "titre": "Décision n° 2026-48 du 17 novembre 2026 du directeur de la CNSA modifiant la décision n° 2026-46 du 10 novembre 2026 du directeur de la CNSA relative aux modalités de financement des nouveaux services autonomie à domicile au titre de l'activité de soins",
+      "nor": "SFHA2630974S",
+      "datePubli": "2026-11-20",
+      "dateTexte": "2026-11-17",
+      "type": "Décision / avis",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055111805",
+      "ajoute": "2026-11-20",
+      "fichier": "telechargements/JO/2026-11-20/JORFTEXT000055111805.txt"
     }
   ],
   "regles": "129b46a65094"
