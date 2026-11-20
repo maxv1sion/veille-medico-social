@@ -1,6 +1,6 @@
 {
   "meta": {
-    "derniereMaj": "2026-11-19"
+    "derniereMaj": "2026-11-20"
   },
   "items": [
     {
@@ -180,6 +180,28 @@
       "source": "Cour de cassation",
       "url": "https://www.courdecassation.fr/decision/6af2c6d26c2e1778126fe47a",
       "ajoute": "2026-11-18"
+    },
+    {
+      "id": "decret-2026-1037",
+      "date": "2026-11-10",
+      "dateTexte": "2026-11-06",
+      "type": "Décret",
+      "theme": "Rémunération et protection sociale",
+      "sujet": "Minima de branche sous le SMIC",
+      "accroche": "Allègement de cotisations réduit si les minima de branche restent sous le SMIC",
+      "titre": "Décret n° 2026-1037 du 6 novembre 2026 relatif aux conditions et modalités dérogatoires de calcul de la réduction générale dégressive unique prévues au III bis de l'article L. 241-13 du code de la sécurité sociale en fonction du salaire minimum national professionnel",
+      "resume": "Fixe les règles de la **sanction des branches** dont le **salaire minimum conventionnel** est resté **inférieur au SMIC** : pour les employeurs de ces branches, la **réduction générale dégressive unique (RGDU)** est calculée sur la base du minimum de branche au lieu du SMIC, ce qui la diminue.",
+      "points": [
+        "Branches visées : minimum conventionnel des salariés non qualifiés **inférieur au SMIC pendant toute l'année civile précédente**",
+        "Le **minimum de branche remplace le SMIC** dans la formule de la RGDU, sans pouvoir donner une réduction plus élevée que le calcul normal",
+        "Liste des branches concernées fixée par **arrêté ministériel au plus tard le 31 janvier** de chaque année",
+        "Applicable aux cotisations dues au titre des **périodes d'emploi à compter du 1er janvier 2027**, première liste établie sur les minima de 2026"
+      ],
+      "application": "Cotisations dues au titre des périodes d'emploi courant à compter du 1er janvier 2027, pour les employeurs relevant d'une branche inscrite sur l'arrêté annuel.",
+      "impact": "Les employeurs doivent vérifier le minimum conventionnel de leur branche (CCN 66, CCN 51, BAD) par rapport au SMIC et surveiller l'arrêté de fin janvier 2027, une inscription réduisant l'allègement de cotisations patronales sur les bas salaires. Les branches dont les accords salariaux dépendent d'un agrément ministériel sont particulièrement exposées.",
+      "source": "Légifrance (Journal officiel)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075486",
+      "ajoute": "2026-11-20"
     },
     {
       "id": "arrete-2026-10-29-fipu-2027",
@@ -559,8 +581,8 @@
           "libelle": "Dépôt au Parlement"
         },
         {
-          "date": "2026-10-12",
-          "detail": "Adoptée en première lecture par l'Assemblée nationale le 12 octobre 2026 (T.A. n° 352), transmise au Sénat le 13 octobre 2026 (n° 32) - texte de la commission des affaires sociales du Sénat établi le 3 novembre 2026 (n° 142), séance publique à venir",
+          "date": "2026-11-19",
+          "detail": "Adoptée en première lecture par l'Assemblée nationale le 12 octobre 2026 (T.A. n° 352), transmise au Sénat le 13 octobre 2026 (n° 32) - texte de la commission des affaires sociales du Sénat établi le 3 novembre 2026 (n° 142) - adoptée en première lecture par le Sénat le 19 novembre 2026 à l'unanimité (344 voix pour), avec modifications, commission mixte paritaire annoncée avant la fin de l'année",
           "fait": false,
           "libelle": "Examen et adoption"
         },
