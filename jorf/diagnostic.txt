@@ -1,6 +1,5 @@
-Passage du 2026-11-20
-22 archives quotidiennes disponibles, dernière : JORF_20261120-004838.tar.gz
-JORF_20261119-214726.tar.gz : 298 textes lus, articles rattachés à 294 textes | racines XML {'JO': 159, 'SECTION_TA': 787, 'TEXTELR': 298, 'TEXTE_VERSION': 298, 'ARTICLE': 4790} | exemples ['20261119-214726/jorf/global/conteneur/JORF/CONT/00/00/55/10/14/JORFCONT000055101491.xml', '20261119-214726/jorf/global/conteneur/JORF/CONT/00/00/55/05/33/JORFCONT000055053315.xml', '20261119-214726/jorf/global/conteneur/JORF/CONT/00/00/55/07/51/JORFCONT000055075181.xml']
-JORF_20261120-004838.tar.gz : 133 textes lus, articles rattachés à 133 textes | racines XML {'JO': 1, 'SECTION_TA': 34, 'TEXTELR': 133, 'TEXTE_VERSION': 133, 'ARTICLE': 472} | exemples ['20261120-004838/jorf/global/conteneur/JORF/CONT/00/00/55/11/13/JORFCONT000055111379.xml', '20261120-004838/jorf/global/section_ta/JORF/SCTA/00/00/55/11/14/JORFSCTA000055111449.xml', '20261120-004838/jorf/global/section_ta/JORF/SCTA/00/00/55/11/15/JORFSCTA000055111519.xml']
-2 candidat(s) déjà examiné(s) retiré(s) de la liste
-2 archive(s) traitée(s), 1 nouveau(x) texte(s) pertinent(s)
+Passage du 2026-11-21
+24 archives quotidiennes disponibles, dernière : JORF_20261121-010907.tar.gz
+JORF_20261120-222218.tar.gz : 266 textes lus, articles rattachés à 254 textes | racines XML {'JO': 143, 'SECTION_TA': 720, 'TEXTELR': 266, 'TEXTE_VERSION': 266, 'ARTICLE': 5869} | exemples ['20261120-222218/jorf/global/conteneur/JORF/CONT/00/00/55/11/13/JORFCONT000055111379.xml', '20261120-222218/jorf/global/conteneur/JORF/CONT/00/00/55/01/31/JORFCONT000055013169.xml', '20261120-222218/jorf/global/conteneur/JORF/CONT/00/00/55/01/14/JORFCONT000055011485.xml']
+JORF_20261121-010907.tar.gz : 86 textes lus, articles rattachés à 86 textes | racines XML {'JO': 1, 'SECTION_TA': 24, 'TEXTELR': 86, 'TEXTE_VERSION': 86, 'ARTICLE': 286} | exemples ['20261121-010907/jorf/global/conteneur/JORF/CONT/00/00/55/11/80/JORFCONT000055118001.xml', '20261121-010907/jorf/global/section_ta/JORF/SCTA/00/00/55/11/80/JORFSCTA000055118033.xml', '20261121-010907/jorf/global/section_ta/JORF/SCTA/00/00/55/11/80/JORFSCTA000055118034.xml']
+2 archive(s) traitée(s), 2 nouveau(x) texte(s) pertinent(s)

@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-20",
+  "maj": "2026-11-21",
   "traites": [
     "JORF_20260525-201636.tar.gz",
     "JORF_20260526-212444.tar.gz",
@@ -336,9 +336,35 @@
     "JORF_20261118-214555.tar.gz",
     "JORF_20261119-020543.tar.gz",
     "JORF_20261119-214726.tar.gz",
-    "JORF_20261120-004838.tar.gz"
+    "JORF_20261120-004838.tar.gz",
+    "JORF_20261120-222218.tar.gz",
+    "JORF_20261121-010907.tar.gz"
   ],
   "items": [
+    {
+      "id": "JORFTEXT000055118180",
+      "nature": "DECRET",
+      "titre": "Décret n° 2026-1069 du 19 novembre 2026 modifiant le décret n° 2009-552 du 19 mai 2009 relatif au groupe d'experts sur le salaire minimum de croissance prévu par l'article 24 de la loi n° 2008-1258 du 3 décembre 2008 en faveur des revenus du travail",
+      "nor": "TRST2627748D",
+      "datePubli": "2026-11-21",
+      "dateTexte": "2026-11-19",
+      "type": "Décret",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118180",
+      "ajoute": "2026-11-21",
+      "fichier": "telechargements/JO/2026-11-21/JORFTEXT000055118180.txt"
+    },
+    {
+      "id": "JORFTEXT000055118653",
+      "nature": "ARRETE",
+      "titre": "Arrêté du 16 novembre 2026 portant renouvellement et nomination de membres du comité parcours et carrière du ministère du travail et des solidarités et du ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
+      "nor": "TRSZ2630584A",
+      "datePubli": "2026-11-21",
+      "dateTexte": "2026-11-16",
+      "type": "Arrêté",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055118653",
+      "ajoute": "2026-11-21",
+      "fichier": "telechargements/JO/2026-11-21/JORFTEXT000055118653.txt"
+    },
     {
       "id": "JORFTEXT000055111805",
       "nature": "DECISION",
