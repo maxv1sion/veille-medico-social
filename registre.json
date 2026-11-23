@@ -1,8 +1,29 @@
 {
   "meta": {
-    "derniereMaj": "2026-11-20"
+    "derniereMaj": "2026-11-23"
   },
   "items": [
+    {
+      "id": "decision-cnsa-2026-48",
+      "date": "2026-11-20",
+      "dateTexte": "2026-11-17",
+      "type": "Décision / avis",
+      "theme": "Domicile",
+      "sujet": "SAD - forfait soins",
+      "accroche": "Le forfait de 16 723 € par place s'applique en 2026",
+      "titre": "Décision n° 2026-48 du 17 novembre 2026 du directeur de la CNSA modifiant la décision n° 2026-46 du 10 novembre 2026 du directeur de la CNSA relative aux modalités de financement des nouveaux services autonomie à domicile au titre de l'activité de soins",
+      "resume": "La CNSA corrige sa décision du 10 novembre 2026 : le **forfait national par place** finançant l'**activité de soins** des **nouveaux services autonomie à domicile** vaut pour l'année **2026** (et non 2025).",
+      "points": [
+        "À l'article 1er de la décision n° 2026-46, l'année **« 2025 »** est remplacée par **« 2026 »**",
+        "Le forfait de **16 723 €** par place autorisée (proratisé selon les mois d'ouverture) est donc celui de **2026**",
+        "Les autres dispositions de la décision n° 2026-46 sont inchangées"
+      ],
+      "application": "Services autonomie à domicile nouvellement autorisés pour l'activité de soins, à compter de la publication au JO du 20 novembre 2026.",
+      "impact": "Un SAD qui ouvre ou étend une activité de soins peut retenir le forfait de 16 723 € par place pour son budget 2026.",
+      "source": "Journal officiel (données DILA)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055111805",
+      "ajoute": "2026-11-23"
+    },
     {
       "id": "arrete-2026-11-06-ccn-bad-conges",
       "date": "2026-11-19",
