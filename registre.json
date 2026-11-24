@@ -1,8 +1,31 @@
 {
   "meta": {
-    "derniereMaj": "2026-11-23"
+    "derniereMaj": "2026-11-24"
   },
   "items": [
+    {
+      "id": "instruction-dgcs-ditnd-cnsa-2026-153",
+      "date": "2026-11-23",
+      "dateTexte": "2026-11-20",
+      "type": "Instruction / circulaire",
+      "theme": "Handicap",
+      "sujet": "Autisme - situations complexes",
+      "accroche": "URTSA et places renforcées en MAS et EAM, programmation régionale avant fin 2026",
+      "titre": "Instruction n° DGCS/SD3B/DITND/CNSA/DAPO/2026/153 du 20 novembre 2026 relative à l'accompagnement des personnes autistes en situation complexe",
+      "resume": "L'instruction organise une **offre régionale graduée** pour les **personnes autistes en situation complexe** à partir de **16 ans**, reposant sur les **unités résidentielles (URTSA)** et des **places renforcées en MAS ou EAM**.",
+      "points": [
+        "Les ARS définissent leur **stratégie régionale** et transmettent leur programmation **au plus tard le 31 décembre 2026**",
+        "**Coût cible national de 232 000 euros par place** en URTSA, montant qui sert aussi de plafond pour les places renforcées en MAS et EAM",
+        "Chaque place renforcée fait l'objet d'un **fléchage dédié** et d'un codage dans SEPPIA",
+        "Les gestionnaires doivent mettre en place une **formation continue structurée et une supervision** des équipes, condition de toute nouvelle ouverture",
+        "**Visite sur site au moins annuelle** de l'ARS dans les URTSA et places renforcées"
+      ],
+      "application": "Application immédiate, pour les ARS, les gestionnaires de MAS, EAM et autres ESMS du handicap, les départements et les centres ressources autisme.",
+      "impact": "Les gestionnaires d'ESMS adultes du handicap qui souhaitent ouvrir des places renforcées doivent prévoir un plan de formation et de supervision des équipes et se rapprocher de leur ARS avant la fin de l'année.",
+      "source": "Bulletin officiel Santé - Protection sociale - Solidarité",
+      "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-dgcssd3bditndcnsadapo2026153-du-20-novembre-2026-relative-laccompagnement-des-personnes-autistes-en-situation-complexe",
+      "ajoute": "2026-11-24"
+    },
     {
       "id": "decision-cnsa-2026-48",
       "date": "2026-11-20",
@@ -154,6 +177,29 @@
       "source": "Bulletin officiel Santé - Protection sociale - Solidarité",
       "url": "https://bulletins-officiels.social.gouv.fr/instruction-ndeg-dgcsdgs2026152-du-6-novembre-2026-relative-la-declinaison-territoriale-de-la-politique-des-1000-premiers-jours-de-lenfant",
       "ajoute": "2026-11-17"
+    },
+    {
+      "id": "circulaire-dgcs-dss-cnsa-2026-163",
+      "date": "2026-11-12",
+      "dateTexte": "2026-11-12",
+      "type": "Instruction / circulaire",
+      "theme": "Financement",
+      "sujet": "Campagne budgétaire ESMS 2026 - complément",
+      "accroche": "109 millions d'euros de crédits complémentaires pour les ESMS PA et PH",
+      "titre": "Circulaire n° DGCS/SD5B/DSS/SD1A/CNSA/DFO/2026/163 du 12 novembre 2026 complétant l'instruction n° DGCS/SD5B/DSS/SD1A/CNSA/DFO/2026/80 du 16 juin 2026 relative aux orientations de la campagne budgétaire des établissements et services médico-sociaux accueillant des personnes en situation de handicap et des personnes âgées pour l'exercice 2026",
+      "resume": "Cette circulaire complète la **campagne budgétaire 2026** des ESMS personnes âgées et personnes handicapées et délègue aux ARS **109 millions d'euros** de crédits supplémentaires.",
+      "points": [
+        "**34,4 M€** pour la **convergence tarifaire des SSIAD** (31,2 M€ PA, 3,2 M€ PH)",
+        "**21,9 M€** pour l'installation de places (plan 50 000 solutions, SSIAD, centres de ressources territoriaux)",
+        "**38,7 M€ de crédits non reconductibles** abondent le fonds de soutien à la qualité des **EHPAD**, pour couvrir les surcoûts liés aux **canicules**",
+        "**2,9 M€** supplémentaires pour la **fusion des sections soins et dépendance** des EHPAD",
+        "**4 M€** pour des résidences de répit et de vacances partagées"
+      ],
+      "application": "Application immédiate pour l'exercice 2026, crédits délégués aux ARS pour les ESMS PA et PH financés par l'assurance maladie.",
+      "impact": "Les gestionnaires d'EHPAD et de SSIAD peuvent solliciter leur ARS pour les crédits de fin de campagne, notamment au titre des surcoûts liés aux canicules et de la convergence tarifaire des SSIAD, à intégrer dans l'exécution budgétaire 2026.",
+      "source": "FHF (texte de la circulaire)",
+      "url": "https://www.fhf.fr/sites/default/files/2026-11/CB2%202026%20ESMS.pdf",
+      "ajoute": "2026-11-24"
     },
     {
       "id": "arrete-2026-11-06-forfaits-ssiad-2026",
