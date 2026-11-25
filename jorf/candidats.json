@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-24",
+  "maj": "2026-11-25",
   "traites": [
     "JORF_20260525-201636.tar.gz",
     "JORF_20260526-212444.tar.gz",
@@ -344,21 +344,10 @@
     "JORF_20261122-205652.tar.gz",
     "JORF_20261123-101912.tar.gz",
     "JORF_20261123-213608.tar.gz",
-    "JORF_20261124-002557.tar.gz"
+    "JORF_20261124-002557.tar.gz",
+    "JORF_20261124-221545.tar.gz",
+    "JORF_20261125-002638.tar.gz"
   ],
-  "items": [
-    {
-      "id": "JORFTEXT000055130019",
-      "nature": "AVIS",
-      "titre": "Avis relatif à l'extension d'avenants à la convention collective nationale dans la branche de l'aide, de l'accompagnement, des soins et des services à domicile",
-      "nor": "TRST2631101V",
-      "datePubli": "2026-11-24",
-      "dateTexte": "2999-01-01",
-      "type": "Décision / avis",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055130019",
-      "ajoute": "2026-11-24",
-      "fichier": "telechargements/JO/2026-11-24/JORFTEXT000055130019.txt"
-    }
-  ],
+  "items": [],
   "regles": "129b46a65094"
 }
