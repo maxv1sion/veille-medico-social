@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-25",
+  "maj": "2026-11-26",
   "traites": [
     "JORF_20260525-201636.tar.gz",
     "JORF_20260526-212444.tar.gz",
@@ -346,8 +346,23 @@
     "JORF_20261123-213608.tar.gz",
     "JORF_20261124-002557.tar.gz",
     "JORF_20261124-221545.tar.gz",
-    "JORF_20261125-002638.tar.gz"
+    "JORF_20261125-002638.tar.gz",
+    "JORF_20261125-221117.tar.gz",
+    "JORF_20261126-003020.tar.gz"
   ],
-  "items": [],
+  "items": [
+    {
+      "id": "JORFTEXT000055143987",
+      "nature": "DECRET",
+      "titre": "Décret n° 2026-1082 du 25 novembre 2026 portant relèvement du salaire minimum de croissance",
+      "nor": "TRSX2630843D",
+      "datePubli": "2026-11-26",
+      "dateTexte": "2026-11-25",
+      "type": "Décret",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055143987",
+      "ajoute": "2026-11-26",
+      "fichier": "telechargements/JO/2026-11-26/JORFTEXT000055143987.txt"
+    }
+  ],
   "regles": "129b46a65094"
 }
