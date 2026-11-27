@@ -1,5 +1,6 @@
-Passage du 2026-11-26
-34 archives quotidiennes disponibles, dernière : JORF_20261126-003020.tar.gz
-JORF_20261125-221117.tar.gz : 234 textes lus, articles rattachés à 225 textes | racines XML {'JO': 159, 'SECTION_TA': 802, 'TEXTELR': 234, 'TEXTE_VERSION': 234, 'ARTICLE': 5645} | exemples ['20261125-221117/jorf/global/conteneur/JORF/CONT/00/00/55/13/70/JORFCONT000055137046.xml', '20261125-221117/jorf/global/conteneur/JORF/CONT/00/00/55/02/93/JORFCONT000055029357.xml', '20261125-221117/jorf/global/conteneur/JORF/CONT/00/00/52/19/72/JORFCONT000052197262.xml']
-JORF_20261126-003020.tar.gz : 137 textes lus, articles rattachés à 137 textes | racines XML {'JO': 1, 'SECTION_TA': 57, 'TEXTELR': 137, 'TEXTE_VERSION': 137, 'ARTICLE': 447} | exemples ['20261126-003020/jorf/global/conteneur/JORF/CONT/00/00/55/14/36/JORFCONT000055143678.xml', '20261126-003020/jorf/global/section_ta/JORF/SCTA/00/00/55/14/37/JORFSCTA000055143715.xml', '20261126-003020/jorf/global/section_ta/JORF/SCTA/00/00/55/14/37/JORFSCTA000055143716.xml']
-2 archive(s) traitée(s), 1 nouveau(x) texte(s) pertinent(s)
+Passage du 2026-11-27
+36 archives quotidiennes disponibles, dernière : JORF_20261127-002700.tar.gz
+JORF_20261126-215653.tar.gz : 326 textes lus, articles rattachés à 312 textes | racines XML {'JO': 196, 'SECTION_TA': 884, 'TEXTELR': 326, 'TEXTE_VERSION': 326, 'ARTICLE': 4835} | exemples ['20261126-215653/jorf/global/conteneur/JORF/CONT/00/00/55/14/36/JORFCONT000055143678.xml', '20261126-215653/jorf/global/conteneur/JORF/CONT/00/00/55/13/70/JORFCONT000055137046.xml', '20261126-215653/jorf/global/conteneur/JORF/CONT/00/00/55/10/14/JORFCONT000055101491.xml']
+JORF_20261127-002700.tar.gz : 114 textes lus, articles rattachés à 114 textes | racines XML {'JO': 1, 'SECTION_TA': 43, 'TEXTELR': 114, 'TEXTE_VERSION': 114, 'ARTICLE': 368} | exemples ['20261127-002700/jorf/global/conteneur/JORF/CONT/00/00/55/15/00/JORFCONT000055150041.xml', '20261127-002700/jorf/global/section_ta/JORF/SCTA/00/00/55/15/01/JORFSCTA000055150162.xml', '20261127-002700/jorf/global/section_ta/JORF/SCTA/00/00/55/15/01/JORFSCTA000055150163.xml']
+1 candidat(s) déjà examiné(s) retiré(s) de la liste
+2 archive(s) traitée(s), 2 nouveau(x) texte(s) pertinent(s)

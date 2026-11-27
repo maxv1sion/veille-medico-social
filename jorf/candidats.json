@@ -1,5 +1,5 @@
 {
-  "maj": "2026-11-26",
+  "maj": "2026-11-27",
   "traites": [
     "JORF_20260525-201636.tar.gz",
     "JORF_20260526-212444.tar.gz",
@@ -348,20 +348,34 @@
     "JORF_20261124-221545.tar.gz",
     "JORF_20261125-002638.tar.gz",
     "JORF_20261125-221117.tar.gz",
-    "JORF_20261126-003020.tar.gz"
+    "JORF_20261126-003020.tar.gz",
+    "JORF_20261126-215653.tar.gz",
+    "JORF_20261127-002700.tar.gz"
   ],
   "items": [
     {
-      "id": "JORFTEXT000055143987",
+      "id": "JORFTEXT000055150598",
       "nature": "DECRET",
-      "titre": "Décret n° 2026-1082 du 25 novembre 2026 portant relèvement du salaire minimum de croissance",
-      "nor": "TRSX2630843D",
-      "datePubli": "2026-11-26",
-      "dateTexte": "2026-11-25",
+      "titre": "Décret n° 2026-1095 du 26 novembre 2026 modifiant les règles de calcul de la participation restant à la charge des bénéficiaires de l'allocation personnalisée d'autonomie à domicile et augmentant la participation de certains bénéficiaires",
+      "nor": "SFHA2624061D",
+      "datePubli": "2026-11-27",
+      "dateTexte": "2026-11-26",
       "type": "Décret",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055143987",
-      "ajoute": "2026-11-26",
-      "fichier": "telechargements/JO/2026-11-26/JORFTEXT000055143987.txt"
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055150598",
+      "ajoute": "2026-11-27",
+      "fichier": "telechargements/JO/2026-11-27/JORFTEXT000055150598.txt"
+    },
+    {
+      "id": "JORFTEXT000055150677",
+      "nature": "ARRETE",
+      "titre": "Arrêté du 25 novembre 2026 relatif à l'agrément de certains accords de travail applicables dans les établissements et services du secteur social et médico-social privé à but non lucratif",
+      "nor": "SFHA2631171A",
+      "datePubli": "2026-11-27",
+      "dateTexte": "2026-11-25",
+      "type": "Arrêté",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055150677",
+      "ajoute": "2026-11-27",
+      "fichier": "telechargements/JO/2026-11-27/JORFTEXT000055150677.txt"
     }
   ],
   "regles": "129b46a65094"
